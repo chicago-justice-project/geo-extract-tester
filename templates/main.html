@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block content %}
+<div style="color: red">{{ error }}</div>
+<br>
+
+<div>
+    <a href="/download">Get the validation data.</a>
+
+    <br>
+
+    The format is simple. Distinct words are newline separated, and documents are
+    separated by two newlines.
+    <br>
+    <br>
+
+    You need to upload a file with the same number of lines,
+    where each line is a number between 0 and 1 inclusive representing the probability
+    that word contains location information. Where the original file contains empty lines,
+    your uploaded file should also contain empty newlines.
+    <br>
+    <br>
+
+    Below is a short example python script to load the data and make random guesses.
+
+    <br>
+
+<pre>
+with open('validation.txt') as f:
+  s = f.read()
+
+import random
+def guess(word):
+  if word:
+    return str(random.random())
+  else:
+    return ''
+
+with open('guesses.txt', 'w') as f:
+  for line in s.split('\n'):
+    f.write(guess(line) + '\n')
+</pre>
+</div>
+
+<br>
+<div>
+    <form action="/score" method="post" enctype="multipart/form-data">
+        Upload file to score:
+        <input type="file" name="file" id="file">
+        <br>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+{% endblock %}
