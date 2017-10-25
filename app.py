@@ -4,6 +4,8 @@ import base64
 import flask
 import numpy as np
 import sklearn.metrics
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 app = flask.Flask(__name__)
