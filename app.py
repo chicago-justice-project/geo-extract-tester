@@ -1,9 +1,10 @@
+import io
+import base64
+
 import flask
 import numpy as np
 import sklearn.metrics
 import matplotlib.pyplot as plt
-import io
-import base64
 
 app = flask.Flask(__name__)
 
