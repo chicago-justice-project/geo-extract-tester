@@ -25,7 +25,7 @@ def download():
             for doc in docs]
     txt = '\n\n'.join(docs)
     output = flask.make_response(txt)
-    output.headers["Content-Disposition"] = "attachment; fname=validation.txt"
+    output.headers["Content-Disposition"] = "attachment; filename=validation.txt"
     output.headers["Content-type"] = "plain/text"
     return output
 
