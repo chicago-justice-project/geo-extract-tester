@@ -16,7 +16,8 @@
     You need to upload a file with the same number of lines,
     where each line is a number between 0 and 1 inclusive representing the probability
     that word contains location information. Where the original file contains empty lines,
-    your uploaded file should also contain empty newlines.
+    your uploaded file should <em>not</em> contain a guess (either skip the line altogether,
+    or put an empty line in your uploaded file).
     <br>
     <br>
 
@@ -25,19 +26,19 @@
     <br>
 
 <pre>
-with open('validation.txt') as f:
-  s = f.read()
+with open('validation.txt', encoding='utf-8') as f:
+    s = f.read()
 
 import random
 def guess(word):
-  if word:
-    return str(random.random())
-  else:
-    return ''
+    if word:
+        return str(random.random())
+    else:
+        return '' # do not guess on empty lines!
 
 with open('guesses.txt', 'w') as f:
-  for line in s.split('\n'):
-    f.write(guess(line) + '\n')
+    for line in s.split('\n'):
+        f.write(guess(line) + '\n')
 </pre>
 </div>
 
