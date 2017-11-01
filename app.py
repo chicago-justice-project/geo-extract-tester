@@ -10,14 +10,15 @@ import matplotlib.pyplot as plt
 
 app = flask.Flask(__name__)
 
-@app.route('/')
-def main():
-    return flask.render_template('main.html', error='')
+@app.route('/', defaults={'error': ''})
+@app.route('/<error>')
+def main(error):
+    return flask.render_template('main.html', error=error)
 
 
 @app.route('/download')
 def download():
-    with open('data/validation.txt') as f:
+    with open('data/validation.txt', encoding='utf-8') as f:
         txt = f.read()
     docs = txt.split('\n\n')
     docs = ['\n'.join([' '.join(word_row.split(' ')[:-1])
@@ -29,9 +30,10 @@ def download():
     output.headers["Content-type"] = "plain/text"
     return output
 
+
 @app.route('/score', methods=['POST'])
 def score():
-    with open('data/validation.txt') as f:
+    with open('data/validation.txt', encoding='utf-8') as f:
         txt = f.read()
     docs = txt.split('\n\n')
     docs = [float(word_row.split(' ')[-1])
@@ -42,17 +44,32 @@ def score():
     if f:
         txt = f.read().decode('utf-8')
         docs = txt.split('\n\n')
-        docs = [float(word_row.split(' ')[-1])
-                for doc in docs for word_row in doc.strip().split('\n') if word_row]
+        try:
+            docs = [float(word_row.split(' ')[-1])
+                    for doc in docs for word_row in doc.strip().split('\n') if word_row]
+        except ValueError as e:
+            return flask.redirect(
+                ('/Problem with uploaded file. It likely has non-numbers'
+                 ' in it: ') + repr(e)
+            )
         received = np.array(docs)
 
-        perf = sklearn.metrics.roc_curve(expected, received)
+        try:
+            perf = sklearn.metrics.roc_curve(expected, received)
+        except ValueError as e:
+            return flask.redirect(
+                ('/Problem with uploaded file. It likely has'
+                 ' an incorrect number of probability guesses. Make sure you'
+                 ' did not write a guess for empty lines! ') + repr(e)
+            )
 
         plt.plot([0, 1], [0, 1], 'k--')
         plt.plot(perf[0], perf[1])
         plt.gca().set_aspect('equal')
         plt.ylim([0, 1])
         plt.xlim([0, 1])
+        plt.xlabel('FPR')
+        plt.ylabel('TPR')
         plt.title('AUC = {}'.format(sklearn.metrics.roc_auc_score(expected, received)))
 
         img = io.BytesIO()
@@ -65,4 +82,4 @@ def score():
 
         return flask.render_template('performance.html', plot=str(img)[2:-1])
 
-    return flask.render_template('main.html', error='Must upload file!')
+    return flask.redirect('/Must upload file!')
