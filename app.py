@@ -48,6 +48,14 @@ def set_leader(name, auc, roc):
         ))
 
 
+@app.route('/leader/')
+def download_leader():
+    return flask.send_from_directory('data/',
+                                     'leader.lcsv',
+                                     as_attachment=True,
+                                     attachment_filename='leader.lcsv')
+
+
 @app.route('/score', methods=['POST'])
 def score():
     with open('data/validation.txt', encoding='utf-8') as f:
