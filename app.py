@@ -7,6 +7,7 @@ import sklearn.metrics
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+import csv
 
 app = flask.Flask(__name__)
 
@@ -29,6 +30,22 @@ def download():
     output.headers["Content-Disposition"] = "attachment; filename=validation.txt"
     output.headers["Content-type"] = "plain/text"
     return output
+
+
+def get_leader():
+    with open('data/leader.lcsv') as f:
+        name = f.readline().strip()
+        auc = float(f.readline().strip())
+        data = np.array([d for d in csv.reader(f.read().split('\n'))][:-1])
+    return name, auc, data
+
+
+def set_leader(name, auc, roc):
+    with open('data/leader.lcsv', 'w') as f:
+        f.write('{}\n{}\n{}\n'.format(
+            name, auc, '\n'.join([','.join([str(x) for x in roc_row])
+                                  for roc_row in roc])
+        ))
 
 
 @app.route('/score', methods=['POST'])
@@ -63,14 +80,22 @@ def score():
                  ' did not write a guess for empty lines! ') + repr(e)
             )
 
-        plt.plot([0, 1], [0, 1], 'k--')
-        plt.plot(perf[0], perf[1])
+        leader_name, leader_auc, leader_roc = get_leader()
+
+        plt.plot([0, 1], [0, 1], 'k--', label='random')
+        plt.plot(leader_roc[:,0], leader_roc[:,1], '--',
+                 label=leader_name + ' (current leader)')
+        plt.plot(perf[0], perf[1], label='your model')
         plt.gca().set_aspect('equal')
         plt.ylim([0, 1])
         plt.xlim([0, 1])
         plt.xlabel('FPR')
         plt.ylabel('TPR')
-        plt.title('AUC = {}'.format(sklearn.metrics.roc_auc_score(expected, received)))
+        plt.legend()
+        your_auc = sklearn.metrics.roc_auc_score(expected, received)
+        plt.title('Your AUC = {:.4f}, Leader AUC = {:.4f}'.format(
+            your_auc, leader_auc
+        ))
 
         img = io.BytesIO()
 
@@ -80,6 +105,19 @@ def score():
 
         img = base64.b64encode(img.getvalue())
 
-        return flask.render_template('performance.html', plot=str(img)[2:-1])
+        if your_auc > leader_auc:
+            if not flask.request.form['name']:
+                error = 'You have the new high score, but I need a name to store it!'
+            else:
+                set_leader(flask.request.form['name'],
+                           your_auc,
+                           np.array([perf[0], perf[1]]).T)
+                error = 'New high score!'
+        else:
+            error = ''
 
-    return flask.redirect('/Must upload file!')
+        return flask.render_template('performance.html',
+                                     error=error,
+                                     plot=str(img)[2:-1])
+
+    return flask.render_template('main.html', error='Must upload file!')
