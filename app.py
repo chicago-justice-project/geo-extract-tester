@@ -67,11 +67,10 @@ def score():
 
     f = flask.request.files['file']
     if f:
-        txt = f.read().decode('utf-8')
-        docs = txt.split('\n\n')
+        docs = f.read().decode('utf-8').split('\n\n')
         try:
-            docs = [float(word_row.split(' ')[-1])
-                    for doc in docs for word_row in doc.strip().split('\n') if word_row]
+            docs = [float(word_row.strip().split(' ')[-1])
+                    for doc in docs for word_row in doc.strip().split('\n') if word_row.strip()]
         except ValueError as e:
             return flask.redirect(
                 ('/Problem with uploaded file. It likely has non-numbers'
