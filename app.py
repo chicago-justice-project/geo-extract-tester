@@ -48,6 +48,31 @@ def set_leader(name, auc, roc):
         ))
 
 
+def score_from_upload(uploaded_text):
+    with open('data/validation.txt', encoding='utf-8') as f:
+        txt = f.read()
+    docs = txt.split('\n\n')
+    docs = [float(word_row.split(' ')[-1])
+            for doc in docs for word_row in doc.strip().split('\n') if word_row]
+    expected = np.array(docs)
+
+    docs = uploaded_text.split('\n\n')
+    try:
+        docs = [float(word_row.strip().split(' ')[-1])
+                for doc in docs for word_row in doc.strip().split('\n') if word_row.strip()]
+    except ValueError as e:
+        return flask.redirect(
+            ('/Problem with uploaded file. It likely has non-numbers'
+             ' in it: ') + repr(e)
+        )
+    received = np.array(docs)
+
+    roc = sklearn.metrics.roc_curve(expected, received)
+    auc = sklearn.metrics.roc_auc_score(expected, received)
+
+    return roc, auc
+
+
 @app.route('/leader/')
 def download_leader():
     return flask.send_from_directory('data/',
@@ -56,35 +81,25 @@ def download_leader():
                                      attachment_filename='leader.lcsv')
 
 
+@app.route('/api/score', methods=['POST'])
+def api_score():
+    f = flask.request.files['file']
+    try:
+        _, auc = score_from_upload(f.read().decode('utf-8'))
+    except Exception as e:
+        return flask.jsonify({'error': repr(e)})
+    return flask.jsonify({'auc': auc})
+
+
 @app.route('/score', methods=['POST'])
 def score():
-    with open('data/validation.txt', encoding='utf-8') as f:
-        txt = f.read()
-    docs = txt.split('\n\n')
-    docs = [float(word_row.split(' ')[-1])
-            for doc in docs for word_row in doc.strip().split('\n') if word_row]
-    expected = np.array(docs)
-
     f = flask.request.files['file']
     if f:
-        docs = f.read().decode('utf-8').split('\n\n')
         try:
-            docs = [float(word_row.strip().split(' ')[-1])
-                    for doc in docs for word_row in doc.strip().split('\n') if word_row.strip()]
+            perf, your_auc = score_from_upload(f.read().decode('utf-8'))
         except ValueError as e:
             return flask.redirect(
-                ('/Problem with uploaded file. It likely has non-numbers'
-                 ' in it: ') + repr(e)
-            )
-        received = np.array(docs)
-
-        try:
-            perf = sklearn.metrics.roc_curve(expected, received)
-        except ValueError as e:
-            return flask.redirect(
-                ('/Problem with uploaded file. It likely has'
-                 ' an incorrect number of probability guesses. Make sure you'
-                 ' did not write a guess for empty lines! ') + repr(e)
+                ('/Problem with uploaded file. ') + repr(e)
             )
 
         leader_name, leader_auc, leader_roc = get_leader()
@@ -99,7 +114,6 @@ def score():
         plt.xlabel('FPR')
         plt.ylabel('TPR')
         plt.legend()
-        your_auc = sklearn.metrics.roc_auc_score(expected, received)
         plt.title('Your AUC = {:.4f}, Leader AUC = {:.4f}'.format(
             your_auc, leader_auc
         ))
