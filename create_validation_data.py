@@ -9,7 +9,9 @@ import nltk
 
 df = tagnews.load_data()
 df = df.loc[df['locations'].apply(bool), :]
-for _, row in df.iterrows():
+for idx, row in df.iterrows():
+    if idx % 2: # split half and half
+        continue
     txt = tagnews.utils.load_data.clean_string(row['bodytext'])
     spans = [loc['cleaned span'] for loc in row['locations'] if 'cleaned span' in loc]
     prev_stop = 0
