@@ -43,9 +43,9 @@ def main(validation_out_file, training_out_file):
                     prev_stop = stop
                 s += '\n'
                 if idx % 2: # split half and half
-                    valid_f.write(s)
-                else:
                     training_f.write(s)
+                else:
+                    valid_f.write(s)
 
 if __name__ == '__main__':
     parser = create_parser()
