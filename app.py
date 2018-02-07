@@ -37,7 +37,7 @@ def download_training():
     with open('data/training.txt', encoding='utf-8') as f:
         txt = f.read()
     output = flask.make_response(txt)
-    output.headers["Content-Disposition"] = "attachment; filename=validation.txt"
+    output.headers["Content-Disposition"] = "attachment; filename=training.txt"
     output.headers["Content-type"] = "plain/text"
     return output
 
