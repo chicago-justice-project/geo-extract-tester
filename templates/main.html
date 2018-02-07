@@ -12,8 +12,9 @@
 
     The format is simple. Distinct words are newline separated, and documents are
     separated by two newlines. The validation data only has the words, but the training file
-    also has the true labels of 0 or 1. Split the line on whitespace and the right-most
-    value will be the true label.
+    also has the true labels of 0 or 1, where 0 indicates the word is <i>not</i> part of a
+    geo-string, and a 1 indicates the word <i>is</i> part of a geo-string. Split the line on
+    whitespace and the right-most value will be the true label. (Example python code below.)
     <br>
     <br>
 
