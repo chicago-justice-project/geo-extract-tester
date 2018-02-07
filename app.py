@@ -89,7 +89,7 @@ def download_leader():
                                      'leader.lcsv',
                                      as_attachment=True,
                                      attachment_filename='leader.lcsv',
-                                     cache_timeout=60)
+                                     cache_timeout=0)
 
 
 @app.route('/api/score', methods=['POST'])
