@@ -34,11 +34,15 @@ a 0
 city 0
 park 0
 in 0
-the 0North 1
-Kenwood 1community 0
+the 0
+North 1
+Kenwood 1
+community 0
 on 0
-the 0South 1
-Side 1. 0
+the 0
+South 1
+Side 1
+. 0
 She 0
 died 0
 shortly 0
@@ -114,16 +118,22 @@ Greater 0
 Harvest 0
 Baptist 0
 Church 0
-, 05141 1
+, 0
+5141 1
 S. 1
 State 1
 St 1
-. 17030 1
+. 1
+
+7030 1
 S. 1
 Halsted 1
 St 1
-. 1North 1
-Kenwood 1community 0
+. 1
+
+North 1
+Kenwood 1
+community 0
 on 0
 the 0
 South 0
@@ -513,8 +523,10 @@ Will 0
 Burns 0
 , 0
 in 0
-whose 04th 1
+whose 0
+4th 1
 Ward 1
+
 A 0
 man 0
 was 0
@@ -542,9 +554,11 @@ afternoon 0
 and 0
 evening 0
 on 0
-the 0South 1
+the 0
+South 1
 Side 1
-. 1The 0
+. 1
+The 0
 fatal 0
 attack 0
 happened 0
@@ -552,7 +566,8 @@ at 0
 1:20 0
 p.m. 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 West 1
@@ -561,6 +576,7 @@ Boulevard 1
 in 1
 the 1
 Englewood 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -729,13 +745,15 @@ the 0
 kidnapping 0
 happened 0
 in 0
-the 0400 1
+the 0
+400 1
 block 1
 of 1
 E. 1
 83rd 1
 Street 1
 . 1
+
 ! 0
 [ 0
 Foreman 0
@@ -812,11 +830,15 @@ he 0
 entered 0
 the 0
 school 0
-, 03235 1
+, 0
+3235 1
 N. 1
 Leclaire 1
-Ave 1PORTAGE 1
+Ave 1
+
+PORTAGE 1
 PARK 1
+
 ! 0
 [ 0
 Tish 0
@@ -961,22 +983,28 @@ apartment 0
 Friday 0
 night 0
 in 0
-the 0Woodlawn 1
-neighborhood 1on 0
-the 0South 1
-Side 1. 0
+the 0
+Woodlawn 1
+neighborhood 1
+on 0
+the 0
+South 1
+Side 1
+. 0
 Tish 0
 Coleman 0
 , 0
 31 0
 , 0
 of 0
-the 06400 1
+the 0
+6400 1
 block 1
 of 1
 South 1
 Maryland 1
 Avenue 1
+
 * 0
 # 0
 # 0
@@ -1047,8 +1075,10 @@ robbery 0
 and 0
 home 0
 invasion 0
-in 0Park 1
-City 1over 0
+in 0
+Park 1
+City 1
+over 0
 14 0
 years 0
 ago 0
@@ -1070,13 +1100,15 @@ Sandra 0
 Lopez 0
 , 0
 of 0
-the 02000 1
+the 0
+2000 1
 Block 1
 of 1
 Woodhavens 1
 Drive 1
 in 1
-Bloomington 1, 0
+Bloomington 1
+, 0
 was 0
 taken 0
 into 0
@@ -1248,11 +1280,13 @@ a 0
 mobile 0
 home 0
 in 0
-the 03500 1
+the 0
+3500 1
 block 1
 of 1
 Howard 1
-Street 1by 0
+Street 1
+by 0
 telling 0
 the 0
 residents 0
@@ -1492,10 +1526,12 @@ she 0
 left 0
 the 0
 restaurant 0
-, 0830 1
+, 0
+830 1
 N. 1
 Sheridan 1
-Road 1, 0
+Road 1
+, 0
 around 0
 10 0
 p.m. 0
@@ -1505,16 +1541,22 @@ her 0
 3-year-old 0
 daughter 0
 to 0
-their 0North 1
+their 0
+North 1
 Chicago 1
+
 Police 0
 shoot 0
 , 0
 kill 0
 man 0
-in 0Albany 1
-Park 1Albany 1
-Park 1neighborhood 0
+in 0
+Albany 1
+Park 1
+
+Albany 1
+Park 1
+neighborhood 0
 1:28PM 0
 Saturday 0
 March 0
@@ -1568,12 +1610,14 @@ about 0
 2:55 0
 a.m. 0
 in 0
-the 03300 1
+the 0
+3300 1
 block 1
 of 1
 West 1
 Wilson 1
-Avenue 1, 0
+Avenue 1
+, 0
 police 0
 News 0
 Affairs 0
@@ -1776,12 +1820,14 @@ entered 0
 the 0
 apartment 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 North 1
 Homan 1
 Avenue 1
+
 $ 0
 500K 0
 bond 0
@@ -1818,8 +1864,10 @@ at 0
 $ 0
 500,000 0
 for 0
-a 0North 1
-Chicago 1police 0
+a 0
+North 1
+Chicago 1
+police 0
 officer 0
 charged 0
 in 0
@@ -1829,9 +1877,11 @@ that 0
 killed 0
 two 0
 men 0
-on 0Lake 1
+on 0
+Lake 1
 Shore 1
 Drive 1
+
 * 0
 # 0
 # 0
@@ -1894,12 +1944,14 @@ a 0
 week 0
 apart 0
 in 0
-the 0South 1
+the 0
+South 1
 Side 1
 Marquette 1
 Park 1
 neighborhood 1
-. 1The 0
+. 1
+The 0
 most 0
 recent 0
 attack 0
@@ -1911,13 +1963,15 @@ on 0
 Saturday 0
 , 0
 in 0
-the 06500 1
+the 0
+6500 1
 block 1
 of 1
 South 1
 Campbell 1
 Avenue 1
 . 1
+
 advertisement 0
 A 0
 Chicago 0
@@ -1949,13 +2003,15 @@ leg 0
 about 0
 3:15 0
 p.m. 0
-near 0East 1
+near 0
+East 1
 93rd 1
 Street 1
 and 1
 South 1
 Chappel 1
 Avenue 1
+
 **EVANSTON 0
 , 0
 Ill. 0
@@ -1968,11 +2024,13 @@ A 0
 35-year-old 0
 man 0
 from 0
-the 0West 1
+the 0
+West 1
 Side 1
 Garfield 1
 Park 1
 neighborhood 1
+
 # 0
 19-year-old 0
 charged 0
@@ -2116,12 +2174,14 @@ office 0
 Brittman 0
 , 0
 of 0
-the 06600 1
+the 0
+6600 1
 block 1
 of 1
 South 1
 Bell 1
 , 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -2159,12 +2219,14 @@ in 0
 a 0
 vehicle 0
 in 0
-the 04700 1
+the 0
+4700 1
 block 1
 of 1
 West 1
 Diversey 1
 Avenue 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -2246,7 +2308,8 @@ Brunson 0
 42 0
 , 0
 of 0
-the 01200 1
+the 0
+1200 1
 block 1
 of 1
 Christine 1
@@ -2254,6 +2317,7 @@ Court 1
 in 1
 Vernon 1
 Hills 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -2268,11 +2332,13 @@ Wednesday 0
 afternoon 0
 insid 0
 e 0
-the 0downtown 1
+the 0
+downtown 1
 headquarters 1
 of 1
 Boeing 1
 , 1
+
 # 0
 Police 0
 Board 0
@@ -2411,13 +2477,17 @@ the 0
 shooting 0
 death 0
 of 0
-a 0Northwest 1
+a 0
+Northwest 1
 Side 1
-** 0SOUTH 1
+
+** 0
+SOUTH 1
 WILLIAMSPORT 1
 , 1
 Pa 1
 . 1
+
 # 0
 2 0
 women 0
@@ -2468,9 +2538,11 @@ to 0
 a 0
 home 0
 on 0
-the 0Far 1
+the 0
+Far 1
 South 1
-Side 1where 0
+Side 1
+where 0
 he 0
 was 0
 robbed 0
@@ -2505,13 +2577,15 @@ the 0
 deadly 0
 plan 0
 in 0
-the 011700 1
+the 0
+11700 1
 block 1
 of 1
 South 1
 Hale 1
 Ave 1
-. 1, 0
+. 1
+, 0
 according 0
 to 0
 Assistant 0
@@ -2785,12 +2859,14 @@ murders 0
 McNeil 0
 , 0
 of 0
-the 011900 1
+the 0
+11900 1
 block 1
 of 1
 South 1
 Lafayette 1
-Avenue 1, 0
+Avenue 1
+, 0
 is 0
 a 0
 shift 0
@@ -2833,12 +2909,14 @@ Curry 0
 currently 0
 lives 0
 in 0
-the 07600 1
+the 0
+7600 1
 block 1
 of 1
 South 1
 Essex 1
 Avenue 1
+
 # 0
 $ 0
 250K 0
@@ -2909,8 +2987,10 @@ October 0
 , 0
 2014 0
 6:29AM 0
-An 0Englewood 1
-man 1was 0
+An 0
+Englewood 1
+man 1
+was 0
 ordered 0
 held 0
 on 0
@@ -2986,11 +3066,13 @@ family 0
 Esaw 0
 , 0
 of 0
-the 07300 1
+the 0
+7300 1
 block 1
 of 1
 South 1
-Morgan 1, 0
+Morgan 1
+, 0
 has 0
 no 0
 previous 0
@@ -3008,8 +3090,10 @@ called 0
 police 0
 in 0
 southwest 0
-suburban 0Bedford 1
-Park 1and 0
+suburban 0
+Bedford 1
+Park 1
+and 0
 said 0
 her 0
 husband 0
@@ -3051,11 +3135,13 @@ at 0
 the 0
 home 0
 in 0
-the 06500 1
+the 0
+6500 1
 block 1
 of 1
 73rd 1
-Street 1, 0
+Street 1
+, 0
 the 0
 man 0
 tried 0
@@ -3089,7 +3175,8 @@ The 0
 pursuit 0
 ended 0
 in 0
-the 04300 1
+the 0
+4300 1
 block 1
 of 1
 Cicero 1
@@ -3097,7 +3184,10 @@ in 1
 the 1
 Archer 1
 Heights 1
-**CH 0I 1CAGO 0
+
+**CH 0
+I 1
+CAGO 0
 ( 0
 STMW 0
 ) 0
@@ -3106,7 +3196,9 @@ A 0
 third 0
 man 0
 from 0
-I 0ndiana 1was 0
+I 0
+ndiana 1
+was 0
 ordered 0
 held 0
 without 0
@@ -3275,7 +3367,8 @@ at 0
 his 0
 home 0
 at 0
-E 0ast 1
+E 0
+ast 1
 115th 1
 Street 1
 and 1
@@ -3283,6 +3376,7 @@ South 1
 Avenue 1
 G 1
 , 1
+
 ** 0
 ( 0
 CBS 0
@@ -3294,7 +3388,9 @@ of 0
 three 0
 people 0
 wanted 0
-by 0Dolton 1police 0
+by 0
+Dolton 1
+police 0
 for 0
 shooting 0
 and 0
@@ -3450,11 +3546,13 @@ place 0
 on 0
 Oct. 0
 25 0
-near 0141st 1
+near 0
+141st 1
 and 1
 Indiana 1
 in 1
 Dolton 1
+
 ** 0
 ( 0
 STMW 0
@@ -3482,9 +3580,11 @@ robbery 0
 Friday 0
 evening 0
 in 0
-the 0Austin 1
+the 0
+Austin 1
 neighborhood 1
-. 1Chang 0
+. 1
+Chang 0
 Z. 0
 Qui 0
 , 0
@@ -3505,11 +3605,13 @@ See 0
 Thru 0
 Chinese 0
 Kitchen 0
-, 05249 1
+, 0
+5249 1
 W. 1
 Madison 1
 St 1
 . 1
+
 ** 0
 ( 0
 STMW 0
@@ -3528,8 +3630,10 @@ is 0
 missing 0
 from 0
 th 0
-e 0Northwest 1
-Side 1, 0
+e 0
+Northwest 1
+Side 1
+, 0
 but 0
 is 0
 active 0
@@ -3548,18 +3652,24 @@ in 0
 her 0
 bedroom 0
 in 0
-the 02300 1
+the 0
+2300 1
 block 1
 of 1
 North 1
 Merrimac 1
+
 **By 0
 John 0
 Dodge** 0
-** 0CHICAGO 1
-** 0BALI 1
+** 0
+CHICAGO 1
+
+** 0
+BALI 1
 , 1
 Indonesia 1
+
 [ 0
 http 0
 : 0
@@ -3611,12 +3721,14 @@ train 0
 heading 0
 southbound 0
 between 0
-the 0Fullerton 1
+the 0
+Fullerton 1
 and 1
 North 1
 Avenue 1
 stations 1
 . 1
+
 ** 0
 ( 0
 STMW 0
@@ -3640,7 +3752,8 @@ late 0
 Saturday 0
 night 0
 in 0
-the 0Greater 1
+the 0
+Greater 1
 Grand 1
 Crossing 1
 neighborhood 1
@@ -3649,7 +3762,8 @@ the 1
 South 1
 Si 1
 de 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 The 0
@@ -3657,13 +3771,15 @@ men 0
 were 0
 standing 0
 in 0
-the 07400 1
+the 0
+7400 1
 block 1
 of 1
 South 1
 Cottage 1
 Grove 1
 a 1
+
 [ 0
 http 0
 : 0
@@ -3685,8 +3801,10 @@ CBS 0
 ** 0
 Bullets 0
 riddled 0
-a 0McKinley 1
-Park 1home 0
+a 0
+McKinley 1
+Park 1
+home 0
 late 0
 Tuesday 0
 night 0
@@ -3722,12 +3840,14 @@ her 0
 living 0
 room 0
 in 0
-the 03600 1
+the 0
+3600 1
 block 1
 of 1
 South 1
 Honore 1
 Street 1
+
 [ 0
 http 0
 : 0
@@ -3751,8 +3871,10 @@ shot 0
 this 0
 weekend 0
 in 0
-the 0West 1
+the 0
+West 1
 Englewood 1
+
 ** 0
 ( 0
 CBS 0
@@ -3781,8 +3903,11 @@ Chicagoan 0
 was 0
 working 0
 at 0
-a 0South 1
+a 0
+South 1
 Holland 1
+
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -3809,10 +3934,12 @@ train 0
 last 0
 week 0
 in 0
-the 0Uptown 1
+the 0
+Uptown 1
 neighbor 1
 hood 1
-. 1Police 0
+. 1
+Police 0
 said 0
 a 0
 knife-wielding 0
@@ -3837,12 +3964,14 @@ Wilson 0
 stop 0
 , 0
 in 0
-the 04600 1
+the 0
+4600 1
 block 1
 of 1
 North 1
 Broadway 1
 . 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -3875,12 +4004,14 @@ melee 0
 Monday 0
 afternoon 0
 in 0
-the 0North 1
+the 0
+North 1
 Side 1
 Lincoln 1
 Square 1
 neighborhood 1
-. 1Raymond 0
+. 1
+Raymond 0
 Boyle 0
 , 0
 21 0
@@ -3932,12 +4063,14 @@ about 0
 p.m. 0
 Monday 0
 in 0
-the 02100 1
+the 0
+2100 1
 block 1
 of 1
 West 1
 Windsor 1
 Avenue 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -3998,10 +4131,12 @@ killed 0
 Saturday 0
 night 0
 in 0
-th 0e 1
+th 0
+e 1
 Humboldt 1
 Park 1
-neighborhood 1, 0
+neighborhood 1
+, 0
 after 0
 watching 0
 fireworks 0
@@ -4020,11 +4155,13 @@ outside 0
 a 0
 building 0
 in 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 North 1
 Harding 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -4054,8 +4191,10 @@ was 0
 playing 0
 basketball 0
 in 0
-the 0South 1
+the 0
+South 1
 Shore 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -4092,8 +4231,10 @@ and 0
 baby 0
 girl 0
 in 0
-the 0Irving 1
-Park 1neighborhood 0
+the 0
+Irving 1
+Park 1
+neighborhood 0
 , 0
 according 0
 to 0
@@ -4115,14 +4256,16 @@ in 0
 the 0
 head 0
 in 0
-the 03600 1
+the 0
+3600 1
 block 1
 of 1
 North 1
 St. 1
 Louis 1
 Avenue 1
-, 1according 0
+, 1
+according 0
 to 0
 police 0
 News 0
@@ -4142,12 +4285,16 @@ of 0
 the 0
 eastern 0
 alley 0
-of 0Drake 1
-Avenue 1, 0
+of 0
+Drake 1
+Avenue 1
+, 0
 just 0
 south 0
-of 0Waveland 1
-Avenue 1, 0
+of 0
+Waveland 1
+Avenue 1
+, 0
 as 0
 police 0
 investigated 0
@@ -4198,9 +4345,11 @@ up 0
 at 0
 the 0
 intersection 0
-of 0Waveland 1
+of 0
+Waveland 1
 and 1
-Kimball 1to 0
+Kimball 1
+to 0
 go 0
 to 0
 work 0
@@ -4225,9 +4374,11 @@ just 0
 left 0
 his 0
 home 0
-near 0Waveland 1
+near 0
+Waveland 1
 and 1
-Drake 1— 0
+Drake 1
+— 0
 which 0
 he 0
 shared 0
@@ -4240,10 +4391,12 @@ daughter 0
 — 0
 to 0
 walk 0
-to 0Waveland 1
+to 0
+Waveland 1
 and 1
 Kimball 1
 Avenue 1
+
 ** 0
 ( 0
 CBS 0
@@ -4292,10 +4445,12 @@ Killed 0
 , 0
 1 0
 Wounded 0
-In 0Humboldt 1
+In 0
+Humboldt 1
 Park 1
 Shooting 1
-] 1[ 0
+] 1
+[ 0
 1 0
 ] 0
 ! 0
@@ -4370,11 +4525,13 @@ about 0
 a.m 0
 Sunday 0
 in 0
-the 0500 1
+the 0
+500 1
 block 1
 of 1
 North 1
 Avers 1
+
 ** 0
 ( 0
 STMW 0
@@ -4393,9 +4550,11 @@ bank 0
 Wednesday 0
 afternoon 0
 in 0
-the 0West 1
+the 0
+West 1
 Side 1
-Austin 1neighborhood 0
+Austin 1
+neighborhood 0
 . 0
 The 0
 woman 0
@@ -4405,12 +4564,14 @@ the 0
 U.S. 0
 Bank 0
 branch 0
-a 0t 1
+a 0
+t 1
 6700 1
 W. 1
 North 1
 Ave 1
 . 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -4443,8 +4604,10 @@ drive-by 0
 shooting 0
 Mo 0
 nday 0
-in 0Englewood 1
-. 1Kaylyn 0
+in 0
+Englewood 1
+. 1
+Kaylyn 0
 Pryor 0
 , 0
 20 0
@@ -4456,11 +4619,13 @@ with 0
 the 0
 boy 0
 in 0
-the 07300 1
+the 0
+7300 1
 block 1
 of 1
 South 1
 May 1
+
 CHICAGO 0
 ( 0
 CBS 0
@@ -4474,9 +4639,11 @@ in 0
 shootings 0
 Tuesday 0
 on 0
-the 0South 1
+the 0
+South 1
 Side 1
-. 1Most 0
+. 1
+Most 0
 recently 0
 , 0
 two 0
@@ -4485,8 +4652,10 @@ boys 0
 were 0
 shot 0
 in 0
-the 0Englewood 1
-neighborhood 1. 0
+the 0
+Englewood 1
+neighborhood 1
+. 0
 The 0
 teens 0
 , 0
@@ -4498,11 +4667,13 @@ and 0
 were 0
 walking 0
 in 0
-the 07300 1
+the 0
+7300 1
 block 1
 of 1
 South 1
-Sangamon 1about 0
+Sangamon 1
+about 0
 9:10 0
 p.m. 0
 when 0
@@ -4574,11 +4745,13 @@ males 0
 were 0
 shot 0
 in 0
-the 0Back 1
+the 0
+Back 1
 of 1
 the 1
 Yards 1
-neighborhood 1. 0
+neighborhood 1
+. 0
 A 0
 44 0
 -year-old 0
@@ -4593,12 +4766,14 @@ age 0
 were 0
 shot 0
 in 0
-the 05200 1
+the 0
+5200 1
 block 1
 of 1
 South 1
 Peoria 1
-Street 1, 0
+Street 1
+, 0
 police 0
 said 0
 . 0
@@ -4661,9 +4836,11 @@ man 0
 was 0
 shot 0
 in 0
-the 0Greater 1
+the 0
+Greater 1
 Grand 1
-Crossing 1neighborhood 0
+Crossing 1
+neighborhood 0
 . 0
 The 0
 man 0
@@ -4684,12 +4861,14 @@ about 0
 5:58 0
 p.m. 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 East 1
 71st 1
 Place 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -4706,10 +4885,12 @@ death 0
 early 0
 Tuesday 0
 in 0
-the 0E 1
+the 0
+E 1
 ast 1
 Chatham 1
 neighborhood 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -4727,14 +4908,16 @@ armed 0
 robberies 0
 reported 0
 in 0
-the 0Lincoln 1
+the 0
+Lincoln 1
 Park 1
 neighborhood 1
 on 1
 the 1
 North 1
 Side 1
-. 1In 0
+. 1
+In 0
 both 0
 robberies 0
 , 0
@@ -4780,14 +4963,16 @@ p.m. 0
 Dec. 0
 10 0
 in 0
-the 02100 1
+the 0
+2100 1
 block 1
 of 1
 North 1
 Lincoln 1
 Park 1
 West 1
-. 1The 0
+. 1
+The 0
 first 0
 robbery 0
 happened 0
@@ -4797,12 +4982,14 @@ p.m. 0
 Nov. 0
 18 0
 in 0
-the 0600 1
+the 0
+600 1
 block 1
 of 1
 West 1
 Kemper 1
 Place 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -4823,7 +5010,9 @@ of 0
 revitaliz 0
 ation 0
 in 0
-the 0Avondale 1neighborhood 0
+the 0
+Avondale 1
+neighborhood 0
 was 0
 destroyed 0
 by 0
@@ -4844,12 +5033,14 @@ a 0
 three-story 0
 warehouse 0
 in 0
-the 03000 1
+the 0
+3000 1
 block 1
 of 1
 North 1
 Rockwell 1
 Street 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -4862,8 +5053,10 @@ boy 0
 was 0
 shot 0
 in 0
-the 0West 1
-Pullman 1neighborhoo 0
+the 0
+West 1
+Pullman 1
+neighborhoo 0
 d 0
 on 0
 the 0
@@ -4881,12 +5074,14 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 00-100 1
+the 0
+0-100 1
 block 1
 of 1
 West 1
 125th 1
 Stree 1
+
 _2015-12-23 0
 _ 0
 Columbia 0
@@ -4896,11 +5091,13 @@ Chicago 0
 Glass 0
 Curtain 0
 Gallery 0
-, 01104 1
+, 0
+1104 1
 S. 1
 Wabash 1
 Ave 1
 . 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -4918,10 +5115,14 @@ early 0
 Wednesday 0
 in 0
 th 0
-e 0Austin 1neighborhood 0
+e 0
+Austin 1
+neighborhood 0
 on 0
-the 0West 1
-Side 1. 0
+the 0
+West 1
+Side 1
+. 0
 About 0
 2:30 0
 a.m. 0
@@ -4934,12 +5135,14 @@ a 0
 red 0
 light 0
 in 0
-the 05400 1
+the 0
+5400 1
 block 1
 of 1
 West 1
 Chicago 1
 Avenue 1
+
 ** 0
 ( 0
 STMW 0
@@ -4959,8 +5162,12 @@ shot 0
 Saturday 0
 in 0
 t 0
-he 0South 1
-Side 1Woodlawn 1neighborhood 0
+he 0
+South 1
+Side 1
+
+Woodlawn 1
+neighborhood 0
 . 0
 At 0
 4:47 0
@@ -4973,13 +5180,15 @@ in 0
 a 0
 car 0
 in 0
-the 06300 1
+the 0
+6300 1
 block 1
 of 1
 South 1
 Stony 1
 Island 1
-Avenue 1when 0
+Avenue 1
+when 0
 another 0
 car 0
 pulled 0
@@ -5006,12 +5215,14 @@ office 0
 McBee 0
 , 0
 of 0
-the 04800 1
+the 0
+4800 1
 block 1
 of 1
 South 1
 Prairie 1
 Avenue 1
+
 ** 0
 ( 0
 CBS 0
@@ -5077,11 +5288,15 @@ Food 0
 and 0
 Liquor 0
 store 0
-near 087th 1
+near 0
+87th 1
 and 1
-Loomis 1in 0
-the 0Auburn 1
+Loomis 1
+in 0
+the 0
+Auburn 1
 Gresham 1
+
 CHICAGO 0
 — 0
 A 0
@@ -5093,8 +5308,10 @@ were 0
 shot 0
 and 0
 wounded 0
-in 0Little 1
-Village 1on 0
+in 0
+Little 1
+Village 1
+on 0
 Saturday 0
 , 0
 police 0
@@ -5119,13 +5336,15 @@ of 0
 a 0
 home 0
 in 0
-the 01600 1
+the 0
+1600 1
 block 1
 of 1
 South 1
 St. 1
 Louis 1
 Avenue 1
+
 [ 0
 ! 0
 [ 0
@@ -5208,8 +5427,10 @@ in 0
 a 0
 busy 0
 area 0
-of 0Wicker 1
-Park 1] 0
+of 0
+Wicker 1
+Park 1
+] 0
 [ 0
 4 0
 ] 0
@@ -5268,7 +5489,9 @@ a 0
 man 0
 was 0
 shot 0
-in 0Austin 1, 0
+in 0
+Austin 1
+, 0
 said 0
 Officer 0
 Ana 0
@@ -5284,12 +5507,14 @@ man 0
 was 0
 walking 0
 in 0
-the 05100 1
+the 0
+5100 1
 block 1
 of 1
 West 1
 Chicago 1
-Avenue 1when 0
+Avenue 1
+when 0
 he 0
 heard 0
 gunshots 0
@@ -5363,13 +5588,15 @@ in 0
 an 0
 alley 0
 in 0
-the 07900 1
+the 0
+7900 1
 block 1
 of 1
 South 1
 Cottage 1
 Grove 1
-Avenue 1when 0
+Avenue 1
+when 0
 several 0
 men 0
 walked 0
@@ -5440,7 +5667,9 @@ a 0
 man 0
 was 0
 shot 0
-in 0Bronzeville 1, 0
+in 0
+Bronzeville 1
+, 0
 Pacheco 0
 said 0
 . 0
@@ -5453,12 +5682,14 @@ a 0
 rear 0
 porch 0
 in 0
-the 0600 1
+the 0
+600 1
 block 1
 of 1
 East 1
 37th 1
-Street 1when 0
+Street 1
+when 0
 he 0
 heard 0
 shots 0
@@ -5509,12 +5740,14 @@ man 0
 was 0
 outside 0
 in 0
-the 09200 1
+the 0
+9200 1
 block 1
 of 1
 South 1
 Ada 1
-Street 1when 0
+Street 1
+when 0
 a 0
 man 0
 walked 0
@@ -5611,12 +5844,14 @@ driving 0
 a 0
 car 0
 in 0
-the 05800 1
+the 0
+5800 1
 block 1
 of 1
 South 1
 Aberdeen 1
-Street 1when 0
+Street 1
+when 0
 a 0
 silver 0
 car 0
@@ -5727,13 +5962,17 @@ was 0
 being 0
 robbed 0
 in 0
-the 05500 1
+the 0
+5500 1
 block 1
 of 1
 South 1
 Albany 1
-Avenue 1in 0Gage 1
+Avenue 1
+in 0
+Gage 1
 Park 1
+
 CHICAGO 0
 — 0
 A 0
@@ -5743,7 +5982,9 @@ was 0
 shot 0
 to 0
 death 0
-in 0Hermosa 1on 0
+in 0
+Hermosa 1
+on 0
 Friday 0
 , 0
 police 0
@@ -5762,12 +6003,14 @@ her 0
 parked 0
 car 0
 in 0
-the 04500 1
+the 0
+4500 1
 block 1
 of 1
 West 1
 Diversey 1
-Avenue 1when 0
+Avenue 1
+when 0
 someone 0
 got 0
 out 0
@@ -5841,12 +6084,14 @@ Jeanette 0
 Laureano 0
 , 0
 of 0
-the 02200 1
+the 0
+2200 1
 block 1
 of 1
 North 1
 Nagle 1
 Avenue 1
+
 [ 0
 ! 0
 [ 0
@@ -5934,8 +6179,10 @@ of 0
 armed 0
 robberies 0
 around 0
-the 0Austin 1
-neighborhood 1early 0
+the 0
+Austin 1
+neighborhood 1
+early 0
 Friday 0
 morning 0
 , 0
@@ -5987,7 +6234,8 @@ following 0
 blocks 0
 : 0
 • 0
-The 0100 1
+The 0
+100 1
 block 1
 of 1
 South 1
@@ -5996,8 +6244,10 @@ Avenue 1
 at 1
 12 1
 a.m 1
-. 1• 0
-The 04700 1
+. 1
+• 0
+The 0
+4700 1
 block 1
 of 1
 West 1
@@ -6006,8 +6256,10 @@ Street 1
 at 1
 12:20 1
 a.m 1
-. 1• 0
-The 0100 1
+. 1
+• 0
+The 0
+100 1
 block 1
 of 1
 South 1
@@ -6017,6 +6269,7 @@ at 1
 6:10 1
 a.m 1
 . 1
+
 An 0
 off-duty 0
 Chicago 0
@@ -6132,14 +6385,18 @@ near 0
 his 0
 home 0
 in 0
-the 010100 1
+the 0
+10100 1
 block 1
 of 1
 South 1
 Green 1
-Street 1in 0
-the 0Washington 1
-Heights 1neighborhood 0
+Street 1
+in 0
+the 0
+Washington 1
+Heights 1
+neighborhood 0
 around 0
 2:20 0
 a.m. 0
@@ -6518,7 +6775,9 @@ inside 0
 his 0
 home 0
 in 0
-the 0Englewood 1neighborhood 0
+the 0
+Englewood 1
+neighborhood 0
 Sunday 0
 afternoon.Devon 0
 Lofton 0
@@ -6537,12 +6796,14 @@ around 0
 3:50 0
 p.m. 0
 in 0
-the 06700 1
+the 0
+6700 1
 block 1
 of 1
 South 1
 Aberdeen 1
-Street 1in 0
+Street 1
+in 0
 Englewood 0
 , 0
 ... 0
@@ -6778,11 +7039,15 @@ a 0
 baseball 0
 bat 0
 in 0
-the 0Northwest 1
-Side 1’ 0
-s 0Belmont 1
+the 0
+Northwest 1
+Side 1
+’ 0
+s 0
+Belmont 1
 Central 1
-neighborhood 1, 0
+neighborhood 1
+, 0
 police 0
 said 0
 . 0
@@ -6841,11 +7106,15 @@ a 0
 drug 0
 transaction 0
 in 0
-the 0Homan 1
-Square 1neighborhood 0
+the 0
+Homan 1
+Square 1
+neighborhood 0
 on 0
-the 0West 1
+the 0
+West 1
 Side 1
+
 [ 0
 ! 0
 [ 0
@@ -6904,11 +7173,15 @@ YARDS 0
 — 0
 Police 0
 are 0
-asking 0Back 1
+asking 0
+Back 1
 of 1
 the 1
 Yards 1
-** 0CHICAGO 1( 0
+
+** 0
+CHICAGO 1
+( 0
 STMW 0
 ) 0
 -- 0
@@ -6932,7 +7205,9 @@ a 0
 hotel 0
 in 0
 north 0
-suburban 0Grayslake 1
+suburban 0
+Grayslake 1
+
 Two 0
 days 0
 after 0
@@ -7063,8 +7338,10 @@ police 0
 squad 0
 cars 0
 to 0
-a 0West 1
+a 0
+West 1
 Side 1
+
 ** 0
 ( 0
 CBS 0
@@ -7102,17 +7379,21 @@ died 0
 after 0
 a 0
 shooting 0
-in 0West 1
+in 0
+West 1
 Garfield 1
-Par 1k 0
+Par 1
+k 0
 around 0
 4 0
 p.m. 0
-near 0Wilcox 1
+near 0
+Wilcox 1
 and 1
 Kostner 1
 , 1
 a 1
+
 Newly 0
 released 0
 police 0
@@ -7138,7 +7419,9 @@ near 0
 tragedy 0
 in 0
 west 0
-suburban 0Northlake 1
+suburban 0
+Northlake 1
+
 A 0
 Skokie 0
 woman 0
@@ -7181,10 +7464,12 @@ as 0
 Blandina 0
 Hermez 0
 of 0
-the 04100 1
+the 0
+4100 1
 block 1
 of 1
 Oakton 1
+
 Disciplinary 0
 proceedings 0
 began 0
@@ -7311,10 +7596,12 @@ a 0
 Mexican 0
 restaurant 0
 in 0
-the 0East 1
+the 0
+East 1
 Ukrainian 1
 Village 1
-neighborhood 1early 0
+neighborhood 1
+early 0
 that 0
 morning 0
 in 0
@@ -7332,10 +7619,12 @@ at 0
 La 0
 Pasadita 0
 restaurant 0
-at 01132 1
+at 0
+1132 1
 N. 1
 Ashland 1
 Ave 1
+
 **CHICAGO 0
 STMW 0
 ) 0
@@ -7362,10 +7651,12 @@ Chatham 0
 club 0
 early 0
 Wednesday 0
-on 0the 1
+on 0
+the 1
 South 1
 Side 1
-. 1Rudy 0
+. 1
+Rudy 0
 J. 0
 Williams 0
 , 0
@@ -7422,15 +7713,19 @@ into 0
 a 0
 club 0
 in 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 East 1
 87th 1
 Street 1
 a 1
-A 0Pennsylvania 1
-s 1tate 0
+
+A 0
+Pennsylvania 1
+s 1
+tate 0
 trooper 0
 shot 0
 an 0
@@ -7473,10 +7768,12 @@ went 0
 to 0
 the 0
 pharmacy 0
-, 0located 1
+, 0
+located 1
 inside 1
 the 1
 Walmart 1
+
 [ 0
 ! 0
 [ 0
@@ -7533,8 +7830,10 @@ Caption 0
 3 0
 ] 0
 DNAinfo/Alex 0
-Nitkin 0LITTLE 1
-VILLAGE 1— 0
+Nitkin 0
+LITTLE 1
+VILLAGE 1
+— 0
 Two 0
 separate 0
 shootings 0
@@ -7547,8 +7846,10 @@ a 0
 15-year-old 0
 boy 0
 wounded 0
-in 0Little 1
-Village 1Monday 0
+in 0
+Little 1
+Village 1
+Monday 0
 , 0
 police 0
 said 0
@@ -7567,12 +7868,14 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 02800 1
+the 0
+2800 1
 block 1
 of 1
 South 1
 Kedvale 1
-Avenue 1when 0
+Avenue 1
+when 0
 someone 0
 emerged 0
 from 0
@@ -7632,12 +7935,14 @@ Arturo 0
 Pina 0
 , 0
 of 0
-the 02700 1
+the 0
+2700 1
 block 1
 of 1
 South 1
 Komensky 1
-Avenue 1, 0
+Avenue 1
+, 0
 according 0
 to 0
 the 0
@@ -7664,12 +7969,14 @@ a 0
 mile 0
 away 0
 in 0
-the 02800 1
+the 0
+2800 1
 block 1
 of 1
 South 1
 Homan 1
 Avenue 1
+
 # 0
 Boy 0
 charged 0
@@ -7706,14 +8013,16 @@ of 0
 a 0
 bank 0
 in 0
-the 0Garfield 1
+the 0
+Garfield 1
 Ridge 1
 neighborhood 1
 on 1
 the 1
 Southwest 1
 Side 1
-. 1The 0
+. 1
+The 0
 boy 0
 — 0
 whose 0
@@ -7763,9 +8072,11 @@ the 0
 TCF 0
 Bank 0
 branch 0
-at 06141 1
+at 0
+6141 1
 S. 1
 Archer 1
+
 At 0
 least 0
 10 0
@@ -7796,12 +8107,16 @@ by 0
 a 0
 bullet 0
 near 0
-1 027th 1
+1 0
+27th 1
 Street 1
 and 1
 Harvard 1
-Avenue 1in 0West 1
-Pullman 1. 0
+Avenue 1
+in 0
+West 1
+Pullman 1
+. 0
 He 0
 was 0
 taken 0
@@ -7841,19 +8156,23 @@ a 0
 man 0
 was 0
 shot 0
-in 0Englewood 1, 0
+in 0
+Englewood 1
+, 0
 police 0
 said 0
 . 0
 He 0
 was 0
 in 0
-the 05600 1
+the 0
+5600 1
 block 1
 of 1
 South 1
 Carpenter 1
-Street 1when 0
+Street 1
+when 0
 someone 0
 fired 0
 shots 0
@@ -7884,24 +8203,30 @@ Fifteen 0
 minutes 0
 earlier 0
 on 0
-the 0West 1
-Side 1, 0
+the 0
+West 1
+Side 1
+, 0
 a 0
 23-year-old 0
 man 0
 was 0
 shot 0
-in 0South 1
-Austin 1. 0
+in 0
+South 1
+Austin 1
+. 0
 He 0
 was 0
 in 0
-the 05300 1
+the 0
+5300 1
 block 1
 of 1
 West 1
 Chicago 1
-Avenue 1when 0
+Avenue 1
+when 0
 he 0
 heard 0
 gunfire 0
@@ -7940,14 +8265,18 @@ man 0
 was 0
 injured 0
 in 0
-the 0700 1
+the 0
+700 1
 block 1
 of 1
 East 1
 89th 1
-Street 1in 0
-the 0Brainerd 1
-neighborhood 1, 0
+Street 1
+in 0
+the 0
+Brainerd 1
+neighborhood 1
+, 0
 said 0
 Officer 0
 Kevin 0
@@ -8001,8 +8330,10 @@ a 0
 few 0
 minutes 0
 earlier 0
-in 0Marquette 1
-Park 1, 0
+in 0
+Marquette 1
+Park 1
+, 0
 about 0
 4:30 0
 p.m 0
@@ -8013,13 +8344,15 @@ in 0
 a 0
 vehicle 0
 in 0
-the 02500 1
+the 0
+2500 1
 block 1
 of 1
 West 1
 Lithuanian 1
 Plaza 1
-Court 1when 0
+Court 1
+when 0
 they 0
 passed 0
 a 0
@@ -8074,9 +8407,11 @@ man 0
 was 0
 shot 0
 in 0
-the 0West 1
+the 0
+West 1
 Pullman 1
-neighborhood 1. 0
+neighborhood 1
+. 0
 The 0
 man 0
 told 0
@@ -8088,12 +8423,14 @@ in 0
 the 0
 alley 0
 in 0
-the 011700 1
+the 0
+11700 1
 block 1
 of 1
 South 1
 Eggleston 1
-Avenue 1when 0
+Avenue 1
+when 0
 shots 0
 fired 0
 from 0
@@ -8132,14 +8469,18 @@ man 0
 was 0
 shot 0
 in 0
-the 0Lawndale 1
-neighborhood 1in 0
-the 01500 1
+the 0
+Lawndale 1
+neighborhood 1
+in 0
+the 0
+1500 1
 block 1
 of 1
 South 1
 Drake 1
-Avenue 1. 0
+Avenue 1
+. 0
 The 0
 man 0
 was 0
@@ -8181,20 +8522,24 @@ condition 0
 At 0
 12:10 0
 p.m. 0
-in 0West 1
-Woodlawn 1, 0
+in 0
+West 1
+Woodlawn 1
+, 0
 a 0
 38-year-old 0
 man 0
 was 0
 shot 0
 in 0
-the 06400 1
+the 0
+6400 1
 block 1
 of 1
 South 1
 Evans 1
-Avenue 1, 0
+Avenue 1
+, 0
 near 0
 65th 0
 Street 0
@@ -8259,13 +8604,17 @@ man 0
 was 0
 driving 0
 in 0
-the 03900 1
+the 0
+3900 1
 block 1
 of 1
 South 1
 Western 1
-Avenue 1West 1
-Woodlawn 1, 0
+Avenue 1
+
+West 1
+Woodlawn 1
+, 0
 a 0
 38-year-old 0
 man 0
@@ -8393,17 +8742,23 @@ Woodlawn 0
 He 0
 was 0
 in 0
-the 0600 1
+the 0
+600 1
 block 1
 of 1
 East 1
 62nd 1
-Street 11500 1
+Street 1
+
+1500 1
 block 1
 of 1
 South 1
 Drake 1
-Avenue 1Lawndale 1
+Avenue 1
+
+Lawndale 1
+
 BERWYN 0
 , 0
 Ill. 0
@@ -8437,16 +8792,22 @@ of 0
 the 0
 expressway 0
 near 0
-near 047th 1
+near 0
+47th 1
 Street 1
 and 1
 Harlem 1
 Avenue 1
-. 1west 1
+. 1
+
+west 1
 suburban 1
 Berwyn 1
-A 0Wicker 1
-Park 1man 0
+
+A 0
+Wicker 1
+Park 1
+man 0
 has 0
 been 0
 charged 0
@@ -8509,17 +8870,21 @@ in 0
 connection 0
 with 0
 the 0
-March 01 18 0
+March 0
+1 1
+8 0
 burglary 0
 in 0
 the 0
-1 0600 1
+1 0
+600 1
 block 1
 of 1
 North 1
 Bell 1
 Avenue 1
 , 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -8560,11 +8925,13 @@ at 0
 a 0
 residence 0
 hall 0
-at 0600 1
+at 0
+600 1
 S. 1
 Halsted 1
 St 1
 . 1
+
 ** 0
 ( 0
 CBS 0
@@ -8612,18 +8979,22 @@ in 0
 the 0
 apartment 0
 building 0
-in 0the 1
+in 0
+the 1
 800 1
 block 1
 of 1
 West 1
 Station 1
-St 1. 0
+St 1
+. 0
 last 0
 Wednesday 0
 . 0
-The 0Kankakee 1
+The 0
+Kankakee 1
 County 1
+
 CHICAGO 0
 — 0
 A 0
@@ -8633,8 +9004,10 @@ was 0
 shot 0
 and 0
 wounded 0
-in 0West 1
-Pullman 1on 0
+in 0
+West 1
+Pullman 1
+on 0
 Wednesday 0
 morning 0
 , 0
@@ -8649,12 +9022,14 @@ the 0
 man 0
 was 0
 in 0
-the 0500 1
+the 0
+500 1
 block 1
 of 1
 West 1
 119th 1
 Street 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -8697,8 +9072,10 @@ to 0
 armed 0
 robbery 0
 . 0
-A 0South 1
+A 0
+South 1
 Side 1
+
 CHICAGO 0
 — 0
 A 0
@@ -8711,7 +9088,9 @@ night 0
 in 0
 a 0
 shooting 0
-in 0Chatham 1, 0
+in 0
+Chatham 1
+, 0
 police 0
 said 0
 . 0
@@ -8723,12 +9102,14 @@ the 0
 man 0
 was 0
 in 0
-the 08800 1
+the 0
+8800 1
 block 1
 of 1
 South 1
 Yale 1
 Avenue 1
+
 [ 0
 ! 0
 [ 0
@@ -8742,9 +9123,11 @@ boy 0
 were 0
 wounded 0
 in 0
-a 0Little 1
+a 0
+Little 1
 Village 1
-shooting 1Thursday 0
+shooting 1
+Thursday 0
 morning 0
 , 0
 according 0
@@ -8816,11 +9199,13 @@ The 0
 two 0
 were 0
 in 0
-the 02700 1
+the 0
+2700 1
 block 1
 of 1
 West 1
 24th 1
+
 Sen. 0
 Dick 0
 Durbin 0
@@ -8855,7 +9240,9 @@ John 0
 Hope 0
 College 0
 Preparatory 0
-in 0Englewood 1
+in 0
+Englewood 1
+
 Darran 0
 Barnes 0
 was 0
@@ -8985,7 +9372,8 @@ an 0
 abandoned 0
 home 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 West 1
@@ -8994,6 +9382,7 @@ Avenue 1
 in 1
 Gary 1
 . 1
+
 [ 0
 ! 0
 [ 0
@@ -9042,7 +9431,9 @@ Caption 0
 3 0
 ] 0
 Getty 0
-Images 0LAKEVIEW 1— 0
+Images 0
+LAKEVIEW 1
+— 0
 Several 0
 retail 0
 establishments 0
@@ -9066,12 +9457,14 @@ and 0
 warning 0
 residents 0
 of 0
-the 0Town 1
+the 0
+Town 1
 Hall 1
 ( 1
 19th 1
 ) 1
 District 1
+
 A 0
 body 0
 was 0
@@ -9103,8 +9496,10 @@ body 0
 in 0
 the 0
 water 0
-at 0Montrose 1
+at 0
+Montrose 1
 Harbo 1
+
 An 0
 armed 0
 suspect 0
@@ -9138,7 +9533,8 @@ about 0
 9:30 0
 a.m. 0
 in 0
-the 011800 1
+the 0
+11800 1
 block 1
 of 1
 South 1
@@ -9147,10 +9543,13 @@ Street 1
 in 1
 the 1
 West 1
-Pullman 1Far 1
+Pullman 1
+
+Far 1
 South 1
 Side 1
 , 1
+
 [ 0
 ! 0
 [ 0
@@ -9255,7 +9654,9 @@ was 0
 shot 0
 and 0
 killed 0
-in 0Chatham 1] 0
+in 0
+Chatham 1
+] 0
 [ 0
 4 0
 ] 0
@@ -9281,8 +9682,10 @@ shot 0
 5 0
 ] 0
 in 0
-a 0North 1
-Lawndale 1attack 0
+a 0
+North 1
+Lawndale 1
+attack 0
 at 0
 3:21 0
 p.m. 0
@@ -9315,9 +9718,11 @@ a 0
 woman 0
 hurt 0
 in 0
-a 0West 1
+a 0
+West 1
 Garfield 1
-Park 1shooting 0
+Park 1
+shooting 0
 , 0
 according 0
 to 0
@@ -9329,7 +9734,9 @@ A 0
 was 0
 injured 0
 in 0
-an 0Austin 1shooting 0
+an 0
+Austin 1
+shooting 0
 Sunday 0
 afternoon 0
 , 0
@@ -9347,12 +9754,14 @@ teen 0
 was 0
 standing 0
 in 0
-the 05000 1
+the 0
+5000 1
 block 1
 of 1
 West 1
 Erie 1
-Street 1at 0
+Street 1
+at 0
 12:51 0
 p.m. 0
 when 0
@@ -9390,7 +9799,9 @@ A 0
 man 0
 was 0
 shot 0
-in 0Englewood 1early 0
+in 0
+Englewood 1
+early 0
 Sunday 0
 , 0
 Quaid 0
@@ -9404,17 +9815,23 @@ in 0
 his 0
 face 0
 in 0
-the 0700 1
+the 0
+700 1
 block 1
 of 1
 West 1
 59th 1
 Street 1
-** 0CHICAGO 1
+
+** 0
+CHICAGO 1
+
 # 0
 UPDATE 0
-: 0South 1
-Side 1man 0
+: 0
+South 1
+Side 1
+man 0
 featured 0
 in 0
 ‘ 0
@@ -9506,13 +9923,15 @@ at 0
 12:37 0
 a.m. 0
 in 0
-the 0500 1
+the 0
+500 1
 block 1
 of 1
 West 1
 126th 1
 Street 1
 . 1
+
 [ 0
 ! 0
 [ 0
@@ -9529,9 +9948,11 @@ near 0
 the 0
 Morse 0
 stop 0
-in 0Rogers 1
+in 0
+Rogers 1
 Park 1
-. 1] 0
+. 1
+] 0
 [ 0
 1 0
 ] 0
@@ -9644,13 +10065,15 @@ robbers 0
 jumped 0
 someone 0
 in 0
-the 07000 1
+the 0
+7000 1
 block 1
 of 1
 North 1
 Sheridan 1
 Road 1
 , 1
+
 The 0
 June 0
 2014 0
@@ -9676,9 +10099,11 @@ was 0
 captured 0
 on 0
 video 0
-at 0Jackson 1
+at 0
+Jackson 1
 Park 1
 Hospital 1
+
 PARK 0
 FOREST 0
 , 0
@@ -9694,9 +10119,11 @@ was 0
 shot 0
 and 0
 killed 0
-in 0Park 1
+in 0
+Park 1
 Forest 1
-Monday 1morning 0
+Monday 1
+morning 0
 and 0
 a 0
 suspect 0
@@ -9716,11 +10143,13 @@ of 0
 shots 0
 fired 0
 in 0
-the 022100-block 1
+the 0
+22100-block 1
 of 1
 Central 1
 Park 1
 Avenue 1
+
 CHICAGO 0
 -- 0
 The 0
@@ -9793,13 +10222,17 @@ warrant 0
 at 0
 the 0
 Torres 0
-' 0home 1
+' 0
+home 1
 in 1
 Chicago 1
 's 1
 Belmont 1
-Cragin 1Northwest 1
+Cragin 1
+
+Northwest 1
 Side 1
+
 ! 0
 [ 0
 Left 0
@@ -9931,22 +10364,26 @@ on 0
 March 0
 15 0
 in 0
-the 02400 1
+the 0
+2400 1
 block 1
 of 1
 North 1
 Seminary 1
-Avenue 1. 0
+Avenue 1
+. 0
 DePaul 0
 is 0
 located 0
 a 0
 block 0
 away 0
-at 02400 1
+at 0
+2400 1
 N. 1
 Sheffield 1
-Ave 1. 0
+Ave 1
+. 0
 On 0
 March 0
 20 0
@@ -9964,12 +10401,14 @@ for 0
 $ 0
 100 0
 in 0
-the 02200 1
+the 0
+2200 1
 block 1
 of 1
 North 1
 Lincoln 1
-Avenue 1. 0
+Avenue 1
+. 0
 Lincoln 0
 Elementary 0
 School 0
@@ -9978,20 +10417,26 @@ about 0
 a 0
 block 0
 away 0
-at 0615 1
+at 0
+615 1
 W. 1
 Kemper 1
-Pl 12200 1
+Pl 1
+
+2200 1
 block 1
 of 1
 North 1
 Lincoln 1
-Avenue 12200 1
+Avenue 1
+
+2200 1
 block 1
 of 1
 North 1
 Lincoln 1
-Avenue 1. 0
+Avenue 1
+. 0
 Lincoln 0
 Elementary 0
 School 0
@@ -10118,17 +10563,21 @@ Avenue 0
 Randazzo 0
 lives 0
 in 0
-the 02300 1
+the 0
+2300 1
 block 1
 of 1
 West 1
 Wayne 1
-Avenue 12400 1
+Avenue 1
+
+2400 1
 block 1
 of 1
 North 1
 Seminary 1
 Avenue 1
+
 ** 0
 ( 0
 CBS 0
@@ -10181,7 +10630,8 @@ occurred 0
 the 0
 afternoon 0
 of 0
-Marc 0h 1
+Marc 0
+h 1
 23 1
 in 1
 the 1
@@ -10191,12 +10641,15 @@ of 1
 West 1
 47th 1
 Street 1
-. 1Back 1
+. 1
+
+Back 1
 of 1
 the 1
 Yards 1
 neighborhood 1
 . 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -10231,7 +10684,8 @@ reported 0
 armed 0
 robbery 0
 at 0
-the 0A 1
+the 0
+A 1
 & 1
 amp 1
 ; 1
@@ -10243,6 +10697,7 @@ at 1
 Catherine 1
 St 1
 . 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -10485,10 +10940,12 @@ girl 0
 , 0
 a 0
 freshman 0
-at 0Lane 1
+at 0
+Lane 1
 Tech 1
 High 1
 School 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -10629,7 +11086,8 @@ a 0
 police 0
 station 0
 on 0
-the 0city 1
+the 0
+city 1
 's 1
 West 1
 Side 1
@@ -10639,6 +11097,7 @@ him 1
 the 1
 video 1
 . 1
+
 Two 0
 men 0
 are 0
@@ -10654,11 +11113,13 @@ a 0
 hotel 0
 Friday 0
 night 0
-in 0northwest 1
+in 0
+northwest 1
 suburban 1
 Arlington 1
 Heights 1
-. 1! 0
+. 1
+! 0
 [ 0
 ] 0
 [ 0
@@ -10738,12 +11199,14 @@ a 0
 single 0
 gunshot 0
 in 0
-the 0first 1
+the 0
+first 1
 block 1
 of 1
 Algonquin 1
 Road 1
 , 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -10757,11 +11220,15 @@ shot 0
 early 0
 Tuesday 0
 in 0
-the 0Brighton 1
+the 0
+Brighton 1
 Park 1
-neighborhood 1on 0
-the 0Southwest 1
-Side 1. 0
+neighborhood 1
+on 0
+the 0
+Southwest 1
+Side 1
+. 0
 About 0
 4:40 0
 a.m. 0
@@ -10774,15 +11241,20 @@ a 0
 gas 0
 station 0
 in 0
-the 03600 1
+the 0
+3600 1
 block 1
 of 1
 South 1
 Kedzie 1
-CHICAGO 1-- 0
+
+CHICAGO 1
+-- 0
 A 0
 court 0
-in 0Chicago 1
+in 0
+Chicago 1
+
 A 0
 man 0
 has 0
@@ -10798,8 +11270,10 @@ of 0
 a 0
 woman 0
 in 0
-the 0Bronzeville 1
-neighborhood 1and 0
+the 0
+Bronzeville 1
+neighborhood 1
+and 0
 the 0
 sexual 0
 assaults 0
@@ -10838,12 +11312,14 @@ Jan. 0
 2007 0
 , 0
 in 0
-the 04200 1
+the 0
+4200 1
 block 1
 of 1
 South 1
 Indiana 1
-, 1that 0
+, 1
+that 0
 led 0
 to 0
 a 0
@@ -10920,12 +11396,15 @@ available 0
 Smith 0
 , 0
 of 0
-the 07000 1
+the 0
+7000 1
 block 1
 of 1
 South 1
 Indiana 1
-CHICAGO 1( 0
+
+CHICAGO 1
+( 0
 WLS 0
 ) 0
 -- 0
@@ -10951,9 +11430,13 @@ parking 0
 garage 0
 in 0
 Chicago 0
-'s 0Gold 1
-Coast 1Gold 1
+'s 0
+Gold 1
 Coast 1
+
+Gold 1
+Coast 1
+
 ** 0
 SUN-TIMES 0
 MEDIA 0
@@ -10967,24 +11450,28 @@ shot 0
 Friday 0
 afternoon 0
 in 0
-the 0Austin 1
+the 0
+Austin 1
 neighborhood 1
 on 1
 the 1
 West 1
-Side 1. 0
+Side 1
+. 0
 The 0
 shooting 0
 happened 0
 at 0
 1:38 0
 p.m. 0
-near 0Central 1
+near 0
+Central 1
 Avenue 1
 and 1
 Lake 1
 Street 1
 , 1
+
 Police 0
 are 0
 warning 0
@@ -10999,8 +11486,10 @@ in 0
 recent 0
 weeks 0
 on 0
-the 0Southwest 1
-Side 1. 0
+the 0
+Southwest 1
+Side 1
+. 0
 In 0
 most 0
 incidents 0
@@ -11027,10 +11516,16 @@ The 0
 thefts 0
 happened 0
 in 0
-the 0Vittum 1
-Park 1, 0Archer 1
-Heights 1and 0Garfield 1
-Ridge 1neighborhoods 0
+the 0
+Vittum 1
+Park 1
+, 0
+Archer 1
+Heights 1
+and 0
+Garfield 1
+Ridge 1
+neighborhoods 0
 . 0
 The 0
 thefts 0
@@ -11043,11 +11538,13 @@ a.m. 0
 March 0
 15 0
 in 0
-the 05000 1
+the 0
+5000 1
 block 1
 of 1
 South 1
-Keating 1; 0
+Keating 1
+; 0
 • 0
 about 0
 3 0
@@ -11055,12 +11552,14 @@ a.m. 0
 March 0
 16 0
 in 0
-the 05100 1
+the 0
+5100 1
 block 1
 of 1
 South 1
 La 1
-Crosse 1; 0
+Crosse 1
+; 0
 • 0
 about 0
 7:20 0
@@ -11068,11 +11567,13 @@ a.m. 0
 March 0
 21 0
 in 0
-the 05100 1
+the 0
+5100 1
 block 1
 of 1
 South 1
-Kenneth 1; 0
+Kenneth 1
+; 0
 • 0
 about 0
 6:25 0
@@ -11080,11 +11581,13 @@ a.m. 0
 March 0
 22 0
 in 0
-the 05000 1
+the 0
+5000 1
 block 1
 of 1
 South 1
-Kostner 1; 0
+Kostner 1
+; 0
 • 0
 about 0
 3:15 0
@@ -11092,11 +11595,13 @@ p.m. 0
 March 0
 23 0
 in 0
-the 04900 1
+the 0
+4900 1
 block 1
 of 1
 South 1
-Pulaski 1; 0
+Pulaski 1
+; 0
 • 0
 about 0
 7 0
@@ -11104,11 +11609,13 @@ p.m. 0
 March 0
 23 0
 in 0
-the 05000 1
+the 0
+5000 1
 block 1
 of 1
 South 1
-Kolin 1; 0
+Kolin 1
+; 0
 • 0
 about 0
 4 0
@@ -11116,11 +11623,13 @@ a.m. 0
 March 0
 24 0
 in 0
-the 05100 1
+the 0
+5100 1
 block 1
 of 1
 West 1
-55th 1; 0
+55th 1
+; 0
 • 0
 about 0
 7 0
@@ -11128,11 +11637,13 @@ a.m. 0
 March 0
 24 0
 in 0
-the 04800 1
+the 0
+4800 1
 block 1
 of 1
 South 1
-Lawler 1; 0
+Lawler 1
+; 0
 and 0
 • 0
 about 0
@@ -11141,11 +11652,13 @@ a.m. 0
 March 0
 28 0
 in 0
-the 05000 1
+the 0
+5000 1
 block 1
 of 1
 South 1
 Lawler 1
+
 A 0
 24-year-old 0
 woman 0
@@ -11156,14 +11669,16 @@ bullet 0
 late 0
 Saturday 0
 in 0
-the 0Archer 1
+the 0
+Archer 1
 Heights 1
 neighborhood 1
 on 1
 the 1
 Southwest 1
 Side 1
-. 1About 0
+. 1
+About 0
 11:22 0
 p.m. 0
 , 0
@@ -11176,11 +11691,13 @@ in 0
 a 0
 vehicle 0
 in 0
-the 05100 1
+the 0
+5100 1
 block 1
 of 1
 South 1
 Kostne 1
+
 A 0
 33-year-old 0
 man 0
@@ -11189,11 +11706,15 @@ shot 0
 early 0
 Monday 0
 in 0
-the 0Logan 1
-Square 1neighborhood 0
+the 0
+Logan 1
+Square 1
+neighborhood 0
 on 0
-the 0Northwest 1
-Side 1. 0
+the 0
+Northwest 1
+Side 1
+. 0
 He 0
 was 0
 driving 0
@@ -11202,11 +11723,13 @@ about 0
 3:45 0
 a.m. 0
 in 0
-the 01700 1
+the 0
+1700 1
 block 1
 of 1
 North 1
 Talman 1
+
 Two 0
 men 0
 were 0
@@ -11217,10 +11740,14 @@ in 0
 a 0
 shooting 0
 in 0
-the 0South 1
-Side 1Greater 1
+the 0
+South 1
+Side 1
+
+Greater 1
 Grand 1
-Crossing 1neighborhood 0
+Crossing 1
+neighborhood 0
 . 0
 It 0
 happened 0
@@ -11229,12 +11756,14 @@ before 0
 4 0
 p.m. 0
 in 0
-the 0400 1
+the 0
+400 1
 East 1
 block 1
 of 1
 71st 1
 Street 1
+
 CHICAGO 0
 . 0
 Ill 0
@@ -11251,16 +11780,20 @@ a 0
 drive-by 0
 shooting 0
 in 0
-the 0Armour 1
+the 0
+Armour 1
 Square 1
-neighborhood 1. 0
+neighborhood 1
+. 0
 The 0
 shooting 0
 took 0
 place 0
-near 0Archer 1
+near 0
+Archer 1
 and 1
 Cermak 1
+
 Six 0
 people 0
 were 0
@@ -11283,11 +11816,13 @@ about 0
 3:30 0
 p.m. 0
 in 0
-the 0West 1
+the 0
+West 1
 Side 1
 Austin 1
 neighborhood 1
-, 1where 0
+, 1
+where 0
 a 0
 Dodge 0
 Caravan 0
@@ -11298,12 +11833,14 @@ two 0
 men 0
 standing 0
 at 0
-the 0corner 1
+the 0
+corner 1
 of 1
 Chicago 1
 and 1
 Lockwood 1
-, 1and 0
+, 1
+and 0
 someone 0
 inside 0
 opened 0
@@ -11369,14 +11906,16 @@ a 0
 26-year-old 0
 man 0
 in 0
-the 01000 1
+the 0
+1000 1
 block 1
 of 1
 West 1
 Wilson 1
 in 1
 Uptown 1
-, 1and 0
+, 1
+and 0
 one 0
 of 0
 them 0
@@ -11420,12 +11959,14 @@ a 0
 20-year-old 0
 man 0
 in 0
-the 08000 1
+the 0
+8000 1
 block 1
 of 1
 South 1
 Coles 1
-, 1hitting 0
+, 1
+hitting 0
 him 0
 in 0
 the 0
@@ -11457,7 +11998,8 @@ sitting 0
 in 0
 a 0
 van 0
-in 0West 1
+in 0
+West 1
 Englewood 1
 ’ 1
 s 1
@@ -11465,7 +12007,8 @@ s 1
 block 1
 of 1
 South 1
-Loomis 1when 0
+Loomis 1
+when 0
 two 0
 gunmen 0
 walked 0
@@ -11519,19 +12062,25 @@ in 0
 a 0
 garage 0
 in 0
-the 04600 1
+the 0
+4600 1
 block 1
 of 1
 South 1
-Kedzie 1Brighton 1
+Kedzie 1
+
+Brighton 1
 Park 1
 on 1
 the 1
 Southwest 1
 Side 1
 . 1
-A 0north 1
+
+A 0
+north 1
 s 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -11625,9 +12174,13 @@ department 0
 s 0
 specialized 0
 units 0
-. 0South 1
-Side 1and 0West 1
+. 0
+South 1
 Side 1
+and 0
+West 1
+Side 1
+
 All 0
 three 0
 victims 0
@@ -11670,10 +12223,12 @@ killed 0
 three 0
 people 0
 on 0
-the 0streets 1
+the 0
+streets 1
 of 1
 downtown 1
 Fresno 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -11701,12 +12256,14 @@ Red 0
 Line 0
 CTA 0
 stop 0
-at 0West 1
+at 0
+West 1
 55th 1
 and 1
 South 1
 Wentworth 1
 . 1
+
 ** 0
 CHICAGO 0
 ( 0
@@ -11727,8 +12284,10 @@ during 0
 a 0
 robbery 0
 on 0
-the 0Northwest 1
-Side 1, 0
+the 0
+Northwest 1
+Side 1
+, 0
 near 0
 O 0
 ’ 0
@@ -11745,11 +12304,13 @@ about 0
 12:20 0
 a.m. 0
 in 0
-the 05400 1
+the 0
+5400 1
 block 1
 of 1
 North 1
 Chester 1
+
 ! 0
 [ 0
 Shootings 0
@@ -11828,12 +12389,14 @@ wounded 0
 while 0
 getting 0
 off 0
-the 0Dan 1
+the 0
+Dan 1
 Ryan 1
 Expressway 1
 in 1
 Chinatown 1
-. 1In 0
+. 1
+In 0
 non-fatal 0
 shootings 0
 • 0
@@ -11884,14 +12447,18 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 01800 1
+the 0
+1800 1
 block 1
 of 1
 North 1
 Keeler 1
-Avenue 1e 1
+Avenue 1
+
+e 1
 near 1
-O'Hare 1. 0
+O'Hare 1
+. 0
 She 0
 was 0
 seriously 0
@@ -12008,12 +12575,14 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 North 1
 Sacramento 1
-Boulevard 1when 0
+Boulevard 1
+when 0
 someone 0
 in 0
 a 0
@@ -12110,12 +12679,14 @@ a 0
 parked 0
 car 0
 in 0
-the 012800 1
+the 0
+12800 1
 block 1
 of 1
 South 1
 Lowe 1
 Avenue 1
+
 A 0
 teenage 0
 boy 0
@@ -12131,9 +12702,11 @@ gunpoint 0
 Tuesday 0
 morning 0
 in 0
-the 0South 1
+the 0
+South 1
 Side 1
-Douglas 1neighborhood 0
+Douglas 1
+neighborhood 0
 is 0
 facing 0
 charges 0
@@ -12144,12 +12717,14 @@ woman 0
 was 0
 walking 0
 in 0
-the 02100 1
+the 0
+2100 1
 block 1
 of 1
 South 1
 Tan 1
-Court 1about 0
+Court 1
+about 0
 10:15 0
 a.m. 0
 when 0
@@ -12201,11 +12776,13 @@ chase 0
 with 0
 officers 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 West 1
 Cermak 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -12225,8 +12802,10 @@ driver 0
 at 0
 gunpoint 0
 on 0
-the 0West 1
-Side 1early 0
+the 0
+West 1
+Side 1
+early 0
 Friday 0
 , 0
 then 0
@@ -12259,10 +12838,12 @@ at 0
 a 0
 red 0
 light 0
-at 0Division 1
+at 0
+Division 1
 and 1
 Kostner 1
 a 1
+
 [ 0
 ! 0
 [ 0
@@ -12359,12 +12940,14 @@ left 0
 a 0
 courthouse 0
 in 0
-the 02400 1
+the 0
+2400 1
 block 1
 of 1
 West 1
 Belmont 1
 , 1
+
 Masked 0
 thieves 0
 used 0
@@ -12382,8 +12965,10 @@ store 0
 on 0
 Chicago 0
 ’ 0
-s 0Magnificent 1
-Mile 1early 0
+s 0
+Magnificent 1
+Mile 1
+early 0
 Monday 0
 and 0
 then 0
@@ -12419,10 +13004,12 @@ the 0
 Louis 0
 Vuitton 0
 storefront 0
-at 0919 1
+at 0
+919 1
 N. 1
 Michigan 1
 Ave 1
+
 ! 0
 [ 0
 ] 0
@@ -12444,7 +13031,9 @@ shooting 0
 of 0
 truck 0
 driver 0
-on 0I-88 1
+on 0
+I-88 1
+
 ** 0
 ( 0
 SUN 0
@@ -12464,8 +13053,10 @@ Tuesday 0
 evening 0
 from 0
 her 0
-far 0southwest 1
-suburban 1home 0
+far 0
+southwest 1
+suburban 1
+home 0
 was 0
 found 0
 dead 0
@@ -12496,13 +13087,15 @@ at 0
 a 0
 home 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 Louis 1
 Road 1
 in 1
 Joliet 1
+
 A 0
 30-year-old 0
 man 0
@@ -12536,24 +13129,28 @@ several 0
 gunshot 0
 wounds 0
 in 0
-the 07100 1
+the 0
+7100 1
 block 1
 of 1
 South 1
 Union 1
 Avenue 1
 , 1
+
 CHICAGO 0
 -- 0
 Two 0
 corrections 0
 officers 0
 working 0
-in 0Cook 1
+in 0
+Cook 1
 County 1
 Jail 1
 in 1
 Chicago 1
+
 A 0
 man 0
 and 0
@@ -12581,12 +13178,14 @@ about 0
 8:15 0
 p.m. 0
 in 0
-the 06300 1
+the 0
+6300 1
 block 1
 of 1
 South 1
 Seeley 1
 Avenue 1
+
 A 0
 City 0
 Council 0
@@ -12656,9 +13255,11 @@ being 0
 chased 0
 by 0
 police 0
-near 055th 1
+near 0
+55th 1
 and 1
 Halsted 1
+
 A 0
 20-year-old 0
 man 0
@@ -12673,23 +13274,27 @@ foot 0
 Tuesday 0
 evening 0
 in 0
-the 0Grand 1
+the 0
+Grand 1
 Crossing 1
 neighborhood 1
 on 1
 the 1
 South 1
 Side 1
-. 1He 0
+. 1
+He 0
 was 0
 in 0
-the 06700 1
+the 0
+6700 1
 block 1
 of 1
 South 1
 Stony 1
 Island 1
 Avenue 1
+
 A 0
 man 0
 who 0
@@ -12731,10 +13336,12 @@ Lueck 0
 , 0
 32 0
 , 0
-o 0f 1
+o 0
+f 1
 Elk 1
 Grove 1
-Village 1, 0
+Village 1
+, 0
 also 0
 was 0
 charged 0
@@ -12760,12 +13367,14 @@ leaving 0
 her 0
 workplace 0
 in 0
-the 0900 1
+the 0
+900 1
 block 1
 of 1
 West 1
 Algonquin 1
 Road 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -12792,10 +13401,12 @@ shot 0
 Tuesday 0
 night 0
 in 0
-the 0Back 1
+the 0
+Back 1
 of 1
 the 1
-Yards 1neighborhood 0
+Yards 1
+neighborhood 0
 . 0
 The 0
 officers 0
@@ -12805,9 +13416,11 @@ in 0
 a 0
 surveillance 0
 van 0
-near 043rd 1
+near 0
+43rd 1
 and 1
 Ashland 1
+
 A 0
 27-year-old 0
 woman 0
@@ -12827,8 +13440,10 @@ crash 0
 late 0
 Sunday 0
 in 0
-the 0South 1
-Loop 1. 0
+the 0
+South 1
+Loop 1
+. 0
 Samantha 0
 Salazar 0
 was 0
@@ -12875,11 +13490,13 @@ Sunday 0
 police 0
 responded 0
 to 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 South 1
-Indiana 1and 0
+Indiana 1
+and 0
 found 0
 two 0
 people 0
@@ -12971,16 +13588,20 @@ said 0
 He 0
 lived 0
 in 0
-the 0South 1
+the 0
+South 1
 Side 1
 Auburn 1
-Gresham 1neighborhood 0
+Gresham 1
+neighborhood 0
 . 0
 Salazar 0
 , 0
 of 0
-the 0Humboldt 1
+the 0
+Humboldt 1
 Park 1
+
 ! 0
 [ 0
 Anthony 0
@@ -13111,12 +13732,14 @@ killed 0
 Aug. 0
 14 0
 in 0
-the 02900 1
+the 0
+2900 1
 block 1
 of 1
 West 1
 82nd 1
 Street 1
+
 CHICAGO 0
 — 0
 Two 0
@@ -13159,12 +13782,14 @@ in 0
 the 0
 restaurant 0
 in 0
-the 07100 1
+the 0
+7100 1
 block 1
 of 1
 West 1
 Diversey 1
 Avenue 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -13212,7 +13837,8 @@ as 0
 the 0
 victim 0
 was 0
-crossing 0Yates 1
+crossing 0
+Yates 1
 Boulevard 1
 near 1
 81st 1
@@ -13223,6 +13849,7 @@ South 1
 Chicago 1
 neighborhood 1
 . 1
+
 ! 0
 [ 0
 The 0
@@ -13234,7 +13861,8 @@ before 0
 p.m. 0
 Tuesday 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 South 1
@@ -13256,6 +13884,7 @@ before 1
 6 1
 p.m 1
 . 1
+
 ! 0
 [ 0
 Chicago 0
@@ -13360,8 +13989,10 @@ put 0
 in 0
 place 0
 at 0
-its 069th 1
+its 0
+69th 1
 Street 1
+
 ! 0
 [ 0
 ] 0
@@ -13392,7 +14023,9 @@ of 0
 killing 0
 two 0
 people 0
-in 0Addison 1last 0
+in 0
+Addison 1
+last 0
 weekend 0
 . 0
 When 0
@@ -13405,11 +14038,17 @@ of 0
 a 0
 car 0
 crash 0
-at 0Denise 1
+at 0
+Denise 1
 Court 1
 and 1
 Elizabeth 1
-Drive 1Addison 1Addison 1
+Drive 1
+
+Addison 1
+
+Addison 1
+
 CHICAGO 0
 -- 0
 A 0
@@ -13476,7 +14115,8 @@ stopped 0
 at 0
 the 0
 intersection 0
-of 0West 1
+of 0
+West 1
 Grand 1
 Avenue 1
 and 1
@@ -13488,6 +14128,7 @@ the 1
 Near 1
 West 1
 Side 1
+
 A 0
 Chicago 0
 police 0
@@ -13521,7 +14162,8 @@ was 0
 shot 0
 in 0
 the 0
-vest 0near 1
+vest 0
+near 1
 the 1
 4600 1
 block 1
@@ -13529,6 +14171,7 @@ of 1
 West 1
 Maypole 1
 , 1
+
 CHICAGO 0
 — 0
 Two 0
@@ -13539,12 +14182,14 @@ to 0
 death 0
 early 0
 Sunday 0
-i 0n 1
+i 0
+n 1
 Austin 1
 , 1
 police 1
 said 1
-. 1At 0
+. 1
+At 0
 2:35 0
 a.m. 0
 , 0
@@ -13564,12 +14209,14 @@ at 0
 a 0
 light 0
 in 0
-the 0first 1
+the 0
+first 1
 block 1
 of 1
 South 1
 Cicero 1
 Avenue 1
+
 CHICAGO 0
 — 0
 Chicago 0
@@ -13585,8 +14232,10 @@ child 0
 luring 0
 attempt 0
 in 0
-the 0South 1
-Austin 1neighborhood 0
+the 0
+South 1
+Austin 1
+neighborhood 0
 . 0
 Saturday 0
 night 0
@@ -13603,12 +14252,14 @@ riding 0
 her 0
 bike 0
 on 0
-the 0700 1
+the 0
+700 1
 block 1
 of 1
 north 1
 Long 1
 avenue 1
+
 The 0
 18-year-old 0
 woman 0
@@ -13703,9 +14354,11 @@ St. 0
 in 0
 the 0
 city 0
-'s 0Morgan 1
+'s 0
+Morgan 1
 Park 1
-neighborhood 1, 0
+neighborhood 1
+, 0
 according 0
 to 0
 police 0
@@ -14245,12 +14898,14 @@ a 0
 half 0
 away 0
 , 0
-near 0W. 1
+near 0
+W. 1
 115th 1
 and 1
 S. 1
 LaSalle 1
 Sts 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -14307,13 +14962,15 @@ mower 0
 on 0
 the 0
 property 0
-of 0Greenacre 1
+of 0
+Greenacre 1
 Country 1
 Club 1
 at 1
 916 1
 Dundee 1
 Rd 1
+
 ** 0
 ( 0
 STMW 0
@@ -14338,8 +14995,10 @@ Tuesday 0
 afternoon 0
 in 0
 south 0
-suburban 0Park 1
-Forest 1. 0
+suburban 0
+Park 1
+Forest 1
+. 0
 The 0
 attack 0
 happened 0
@@ -14349,11 +15008,13 @@ p.m. 0
 in 0
 the 0
 area 0
-of 0Wildwood 1
+of 0
+Wildwood 1
 Drive 1
 and 1
 Wilshire 1
 Street 1
+
 ! 0
 [ 0
 Terreon 0
@@ -14386,11 +15047,13 @@ of 0
 Devon 0
 Almon 0
 on 0
-the 0Eisenhower 1
+the 0
+Eisenhower 1
 Expressway 1
 at 1
 Central 1
-Avenue 1on 0
+Avenue 1
+on 0
 Sept. 0
 29 0
 , 0
@@ -14549,12 +15212,14 @@ while 0
 traveling 0
 east 0
 on 0
-the 0Eisenhower 1
+the 0
+Eisenhower 1
 Expy 1
 . 1
 at 1
 Central 1
 Avenue 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -14576,8 +15241,10 @@ robber 0
 on 0
 Wednesday 0
 at 0
-a 0South 1
-Side 1salon 0
+a 0
+South 1
+Side 1
+salon 0
 . 0
 The 0
 incident 0
@@ -14595,12 +15262,14 @@ Hair 0
 Salon 0
 , 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 West 1
 69th 1
 Street 1
+
 A 0
 bank 0
 robbery 0
@@ -14609,10 +15278,14 @@ reported 0
 Thursday 0
 afternoon 0
 in 0
-the 0North 1
-Side 1Buena 1
+the 0
+North 1
+Side 1
+
+Buena 1
 Park 1
-neighborhood 1. 0
+neighborhood 1
+. 0
 The 0
 non-takeover 0
 robbery 0
@@ -14625,9 +15298,11 @@ the 0
 TCF 0
 Bank 0
 branch 0
-at 04355 1
+at 0
+4355 1
 N. 1
 Sheridan 1
+
 A 0
 man 0
 was 0
@@ -14635,11 +15310,13 @@ shot 0
 Thursday 0
 evening 0
 in 0
-the 0West 1
+the 0
+West 1
 Side 1
 West 1
 Garfield 1
-Park 1neighborhood 0
+Park 1
+neighborhood 0
 . 0
 Just 0
 before 0
@@ -14649,11 +15326,13 @@ p.m. 0
 he 0
 was 0
 in 0
-the 04500 1
+the 0
+4500 1
 block 1
 of 1
 West 1
 Congress 1
+
 CHICAGO 0
 — 0
 A 0
@@ -14671,8 +15350,10 @@ during 0
 a 0
 home 0
 invasion 0
-in 0Irving 1
-Park 1Friday 0
+in 0
+Irving 1
+Park 1
+Friday 0
 afternoon 0
 , 0
 police 0
@@ -14691,12 +15372,14 @@ and 0
 face 0
 '' 0
 in 0
-the 04100 1
+the 0
+4100 1
 block 1
 of 1
 North 1
 Avers 1
 Avenue 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -14708,9 +15391,11 @@ men 0
 were 0
 wounded 0
 in 0
-a 0South 1
+a 0
+South 1
 Austin 1
-neighborhood 1shooting 0
+neighborhood 1
+shooting 0
 Saturday 0
 evening 0
 on 0
@@ -14735,11 +15420,13 @@ about 0
 10:40 0
 p.m. 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 North 1
 Parkside 1
+
 Chicago 0
 police 0
 are 0
@@ -14760,13 +15447,15 @@ car 0
 Sunday 0
 afternoon 0
 in 0
-the 0Northwest 1
+the 0
+Northwest 1
 Side 1
 's 1
 Union 1
 Ridge 1
 neighborhood 1
-. 1About 0
+. 1
+About 0
 5:20 0
 p.m. 0
 , 0
@@ -14775,13 +15464,15 @@ girl 0
 was 0
 running 0
 in 0
-th 0e 1
+th 0
+e 1
 5400 1
 block 1
 of 1
 North 1
 Neenah 1
 Avenue 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -14808,10 +15499,12 @@ on 0
 himself 0
 Monday 0
 night 0
-in 0southwest 1
+in 0
+southwest 1
 suburban 1
 Woodridge 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 At 0
@@ -14830,11 +15523,15 @@ at 0
 a 0
 home 0
 in 0
-the 07700 1
+the 0
+7700 1
 block 1
 of 1
 Fox 1
-D 1e 1
+D 1
+
+e 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -14851,7 +15548,8 @@ in 0
 a 0
 lagoon 0
 in 0
-C 0olumbus 1
+C 0
+olumbus 1
 Park 1
 in 1
 the 1
@@ -14864,7 +15562,8 @@ according 1
 to 1
 Chicago 1
 Police 1
-. 1The 0
+. 1
+The 0
 unidentified 0
 body 0
 was 0
@@ -14873,11 +15572,13 @@ in 0
 the 0
 lagoon 0
 in 0
-the 0500 1
+the 0
+500 1
 block 1
 of 1
 South 1
 Central 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -14897,10 +15598,12 @@ in 0
 an 0
 alley 0
 in 0
-the 0North 1
+the 0
+North 1
 Austin 1
 neighborhood 1
-Wednesday 1morning 0
+Wednesday 1
+morning 0
 , 0
 and 0
 police 0
@@ -14919,13 +15622,15 @@ around 0
 11:15 0
 a.m. 0
 in 0
-the 01600 1
+the 0
+1600 1
 block 1
 of 1
 North 1
 LeClaire 1
 Avenue 1
 . 1
+
 A 0
 man 0
 was 0
@@ -14933,12 +15638,16 @@ shot 0
 Wednesday 0
 night 0
 in 0
-the 0West 1
+the 0
+West 1
 Garfield 1
-Park 1neighborhood 0
+Park 1
+neighborhood 0
 on 0
-the 0West 1
-Side 1. 0
+the 0
+West 1
+Side 1
+. 0
 The 0
 22-year-old 0
 was 0
@@ -14948,11 +15657,13 @@ at 0
 11:07 0
 p.m. 0
 in 0
-the 04000 1
+the 0
+4000 1
 block 1
 of 1
 West 1
 Jackson 1
+
 ** 0
 SUN 0
 TIMES 0
@@ -14964,8 +15675,10 @@ Police 0
 are 0
 searching 0
 for 0
-a 0northwest 1
-Indiana 1man 0
+a 0
+northwest 1
+Indiana 1
+man 0
 who 0
 has 0
 been 0
@@ -15003,12 +15716,14 @@ his 0
 children 0
 Saturday 0
 in 0
-the 0500 1
+the 0
+500 1
 block 1
 of 1
 Carolina 1
 Street 1
 , 1
+
 Two 0
 people 0
 were 0
@@ -15025,8 +15740,10 @@ officers 0
 Monday 0
 night 0
 on 0
-the 0West 1
-Side 1. 0
+the 0
+West 1
+Side 1
+. 0
 No 0
 one 0
 was 0
@@ -15041,15 +15758,19 @@ about 0
 8:05 0
 p.m. 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 South 1
 Troy 1
-Street 1in 0
+Street 1
+in 0
 the 0
 city 0
-'s 0Lawndale 1
+'s 0
+Lawndale 1
+
 ** 0
 SUN-TIMES 0
 MEDIA 0
@@ -15089,11 +15810,15 @@ in 0
 the 0
 area 0
 of 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 South 1
-Troy 1Lawndale 1
+Troy 1
+
+Lawndale 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -15120,10 +15845,14 @@ officers 0
 Monday 0
 night 0
 in 0
-the 0Lawndale 1neighborhood 0
+the 0
+Lawndale 1
+neighborhood 0
 on 0
-the 0Southwest 1
-Side 1. 0
+the 0
+Southwest 1
+Side 1
+. 0
 Someone 0
 fired 0
 shots 0
@@ -15134,18 +15863,22 @@ at 0
 8:04 0
 p.m. 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 South 1
 Troy 1
+
 WILMINGTON 0
 , 0
 Del 0
 . 0
 -- 0
 A 0
-17-year-old 0Delaware 1
+17-year-old 0
+Delaware 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -15194,10 +15927,13 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 01200-block 1
+the 0
+1200-block 1
 of 1
 South 1
-Lawndale 1North 1
+Lawndale 1
+
+North 1
 Lawndale 1
 neighborhood 1
 on 1
@@ -15205,6 +15941,7 @@ the 1
 West 1
 Side 1
 , 1
+
 Authorities 0
 are 0
 investigating 0
@@ -15221,7 +15958,9 @@ a 0
 home 0
 in 0
 south 0
-suburban 0Dolton 1. 0
+suburban 0
+Dolton 1
+. 0
 “ 0
 I 0
 can 0
@@ -15283,9 +16022,11 @@ dead 0
 at 0
 the 0
 home 0
-near 0157th 1
+near 0
+157th 1
 and 1
 Drexel 1
+
 Two 0
 men 0
 have 0
@@ -15302,13 +16043,15 @@ vehicle 0
 last 0
 week 0
 in 0
-the 0Montclare 1
+the 0
+Montclare 1
 neighborhood 1
 on 1
 the 1
 Northwest 1
 Side 1
-. 1Vincent 0
+. 1
+Vincent 0
 Paopao 0
 , 0
 23 0
@@ -15365,13 +16108,15 @@ into 0
 an 0
 alley 0
 in 0
-the 02900 1
+the 0
+2900 1
 block 1
 of 1
 North 1
 Newland 1
 Avenue 1
 , 1
+
 ! 0
 [ 0
 A 0
@@ -15380,10 +16125,16 @@ person 0
 body 0
 was 0
 found 0
-in 0Garfield 1
-Park 1Garfield 1
-Park 1Garfield 1
-Park 1Lagoon 0
+in 0
+Garfield 1
+Park 1
+
+Garfield 1
+Park 1
+
+Garfield 1
+Park 1
+Lagoon 0
 on 0
 Monday 0
 . 0
@@ -15443,13 +16194,15 @@ in 0
 the 0
 water 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 North 1
 Central 1
 Park 1
 Avenue 1
+
 ! 0
 [ 0
 Shootings 0
@@ -15517,8 +16270,10 @@ found 0
 shot 0
 to 0
 death 0
-in 0Woodlawn 1
-. 1• 0
+in 0
+Woodlawn 1
+. 1
+• 0
 At 0
 6:37 0
 p.m. 0
@@ -15533,8 +16288,10 @@ dead 0
 after 0
 a 0
 shooting 0
-in 0Kenwood 1
-. 1] 0
+in 0
+Kenwood 1
+. 1
+] 0
 [ 0
 2 0
 ] 0
@@ -15551,12 +16308,14 @@ was 0
 shot 0
 and 0
 killed 0
-in 0Austin 1
+in 0
+Austin 1
 . 1
 ] 1
 [ 1
 3 1
-] 1• 0
+] 1
+• 0
 At 0
 2:18 0
 p.m. 0
@@ -15568,8 +16327,10 @@ man 0
 was 0
 fatally 0
 shot 0
-in 0Ashburn 1
-. 1] 0
+in 0
+Ashburn 1
+. 1
+] 0
 [ 0
 4 0
 ] 0
@@ -15604,7 +16365,8 @@ The 0
 man 0
 was 0
 in 0
-the 010500 1
+the 0
+10500 1
 block 1
 of 1
 South 1
@@ -15617,7 +16379,8 @@ hit 1
 in 1
 his 1
 neck 1
-. 1The 0
+. 1
+The 0
 man 0
 was 0
 taken 0
@@ -15653,12 +16416,14 @@ teen 0
 was 0
 walking 0
 in 0
-the 06000 1
+the 0
+6000 1
 block 1
 of 1
 South 1
 Throop 1
-Street 1when 0
+Street 1
+when 0
 he 0
 heard 0
 shots 0
@@ -15716,12 +16481,14 @@ The 0
 two 0
 were 0
 in 0
-the 08800 1
+the 0
+8800 1
 block 1
 of 1
 South 1
 Parnell 1
 Street 1
+
 KANSAS 0
 CITY 0
 , 0
@@ -15733,10 +16500,12 @@ who 0
 said 0
 he 0
 robbed 0
-a 0Kansas 1
+a 0
+Kansas 1
 City 1
 bank 1
 s 1
+
 ** 0
 ( 0
 CBS 0
@@ -15767,11 +16536,13 @@ victim 0
 was 0
 standing 0
 in 0
-the 06800 1
+the 0
+6800 1
 block 1
 of 1
 South 1
 Hermitage 1
+
 ** 0
 ( 0
 CBS 0
@@ -15795,9 +16566,11 @@ vehicle 0
 Friday 0
 afternoon 0
 in 0
-the 0Old 1
+the 0
+Old 1
 Town 1
-neighborhood 1. 0
+neighborhood 1
+. 0
 The 0
 incident 0
 happened 0
@@ -15805,11 +16578,13 @@ about 0
 3:15 0
 p.m. 0
 in 0
-the 01500 1
+the 0
+1500 1
 block 1
 of 1
 North 1
 Cleveland 1
+
 A 0
 24-year-old 0
 woman 0
@@ -15853,11 +16628,13 @@ about 0
 3:15 0
 p.m. 0
 in 0
-the 01500 1
+the 0
+1500 1
 block 1
 of 1
 Cleveland 1
 Avenue 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -15879,9 +16656,11 @@ a 0
 home 0
 on 0
 Chicago 0
-'s 0North 1
+'s 0
+North 1
 Austin 1
-neighborhood 1, 0
+neighborhood 1
+, 0
 police 0
 said 0
 . 0
@@ -15901,11 +16680,13 @@ woman 0
 fatally 0
 stabbed 0
 in 0
-the 01400-block 1
+the 0
+1400-block 1
 of 1
 North 1
 Leclaire 1
 Avenue 1
+
 A 0
 shooting 0
 reported 0
@@ -15931,13 +16712,19 @@ happened 0
 around 0
 10 0
 p.m. 0
-near 0Potter 1
+near 0
+Potter 1
 Road 1
 and 1
 Suffield 1
-Street 1in 0Des 1
-Plaines 1Des 1
+Street 1
+in 0
+Des 1
 Plaines 1
+
+Des 1
+Plaines 1
+
 DES 0
 PLAINES 0
 ( 0
@@ -15956,17 +16743,20 @@ night 0
 near 0
 a 0
 mosque 0
-in 0northwest 1
+in 0
+northwest 1
 suburban 1
 Des 1
 Plaines 1
-. 1The 0
+. 1
+The 0
 shooting 0
 happened 0
 about 0
 10 0
 p.m. 0
-near 0Potter 1
+near 0
+Potter 1
 Road 1
 and 1
 Suffield 1
@@ -15975,6 +16765,7 @@ in 1
 Des 1
 Plaines 1
 , 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -15996,11 +16787,15 @@ death 0
 early 0
 Sunday 0
 in 0
-their 0Austin 1
-neighborhood 1home 0
+their 0
+Austin 1
+neighborhood 1
+home 0
 on 0
-the 0West 1
-Side 1. 0
+the 0
+West 1
+Side 1
+. 0
 Dexter 0
 Barnes 0
 , 0
@@ -16099,11 +16894,13 @@ man 0
 returned 0
 home 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 North 1
 LeClaire 1
+
 CHICAGO 0
 — 0
 A 0
@@ -16114,8 +16911,10 @@ wounded 0
 in 0
 a 0
 shooting 0
-in 0Little 1
-Village 1on 0
+in 0
+Little 1
+Village 1
+on 0
 Tuesday 0
 , 0
 police 0
@@ -16133,12 +16932,14 @@ down 0
 the 0
 street 0
 in 0
-the 03600 1
+the 0
+3600 1
 block 1
 of 1
 West 1
 30th 1
 Street 1
+
 ! 0
 [ 0
 A 0
@@ -16473,17 +17274,20 @@ The 0
 incident 0
 occurred 0
 in 0
-the 016200 1
+the 0
+16200 1
 block 1
 of 1
 South 1
 Hamlin 1
 Avenue 1
 , 1
+
 GRAYSLAKE 1
 , 1
 Ill 1
-. 1( 0
+. 1
+( 0
 WLS 0
 ) 0
 -- 0
@@ -16492,10 +17296,14 @@ A 0
 man 0
 pulled 0
 out 0
-of 0Leopold 1
-Lake 1in 0
+of 0
+Leopold 1
+Lake 1
+in 0
 north 0
-suburban 0Grayslake 1
+suburban 0
+Grayslake 1
+
 A 0
 man 0
 was 0
@@ -16503,14 +17311,16 @@ shot 0
 early 0
 Friday 0
 in 0
-the 0Roseland 1
+the 0
+Roseland 1
 neighborhood 1
 on 1
 the 1
 Far 1
 South 1
 Side 1
-. 1At 0
+. 1
+At 0
 2:23 0
 a.m. 0
 , 0
@@ -16526,18 +17336,24 @@ an 0
 attempted 0
 robbery 0
 in 0
-the 011200 1
+the 0
+11200 1
 block 1
 of 1
 South 1
 Wentworth 1
 , 1
+
 Police 0
 are 0
 warning 0
 North 0
-and 0Northwest 1
-side 1North 1and 0
+and 0
+Northwest 1
+side 1
+
+North 1
+and 0
 Northwest 0
 side 0
 residents 0
@@ -16548,9 +17364,15 @@ have 0
 been 0
 robbed 0
 in 0
-the 0Lake 1
-View 1, 0Logan 1
-Square 1and 0Hermosa 1neighborhoods 0
+the 0
+Lake 1
+View 1
+, 0
+Logan 1
+Square 1
+and 0
+Hermosa 1
+neighborhoods 0
 since 0
 May 0
 . 0
@@ -16736,8 +17558,10 @@ on 0
 the 0
 robberies 0
 should 0
-contact 0Area 1
+contact 0
+Area 1
 North 1
+
 A 0
 Chicago 0
 police 0
@@ -16764,10 +17588,12 @@ then 0
 took 0
 off 0
 in 0
-the 0Park 1
+the 0
+Park 1
 Manor 1
 neighborhood 1
-, 1according 0
+, 1
+according 0
 to 0
 police 0
 and 0
@@ -16791,13 +17617,16 @@ a 0
 domestic 0
 dispute 0
 in 0
-the 06 1800 1
+the 0
+6 1
+800 1
 block 1
 of 1
 South 1
 State 1
 Street 1
 . 1
+
 A 0
 woman 0
 has 0
@@ -16821,9 +17650,11 @@ dead 0
 last 0
 month 0
 in 0
-the 0West 1
+the 0
+West 1
 Side 1
-Austin 1neighborhood 0
+Austin 1
+neighborhood 0
 . 0
 Kenya 0
 Washington 0
@@ -16851,9 +17682,13 @@ about 0
 a.m. 0
 Saturday 0
 in 0
-the 0300 1
-block 1of 0West 1
-Chestnut 1after 0
+the 0
+300 1
+block 1
+of 0
+West 1
+Chestnut 1
+after 0
 police 0
 were 0
 notified 0
@@ -16919,11 +17754,13 @@ into 0
 an 0
 argument 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 North 1
 Latrobe 1
+
 CHICAGO 0
 -- 0
 A 0
@@ -17037,8 +17874,10 @@ someone 0
 on 0
 the 0
 city 0
-'s 0West 1
+'s 0
+West 1
 Side 1
+
 Two 0
 men 0
 and 0
@@ -17053,8 +17892,10 @@ shootings 0
 Sunday 0
 afternoon 0
 on 0
-the 0South 1
-Side 1, 0
+the 0
+South 1
+Side 1
+, 0
 police 0
 said 0
 . 0
@@ -17077,14 +17918,18 @@ about 0
 4:15 0
 p.m. 0
 in 0
-the 06400 1
+the 0
+6400 1
 block 1
 of 1
 South 1
 Parnell 1
-Avenue 1in 0
-the 0Englewood 1
-neighborhood 1, 0
+Avenue 1
+in 0
+the 0
+Englewood 1
+neighborhood 1
+, 0
 police 0
 said 0
 in 0
@@ -17148,8 +17993,10 @@ in 0
 city 0
 ambulances 0
 . 0
-In 0West 1
-Englewood 1, 0
+In 0
+West 1
+Englewood 1
+, 0
 a 0
 25-year-old 0
 woman 0
@@ -17171,12 +18018,14 @@ before 0
 3:55 0
 p.m. 0
 in 0
-the 02000 1
+the 0
+2000 1
 block 1
 of 1
 West 1
 71st 1
-Street 1, 0
+Street 1
+, 0
 police 0
 said 0
 . 0
@@ -17203,12 +18052,14 @@ in 0
 both 0
 legs 0
 in 0
-the 06800 1
+the 0
+6800 1
 block 1
 of 1
 South 1
 Calumet 1
-Avenue 1about 0
+Avenue 1
+about 0
 3:10 0
 p.m. 0
 in 0
@@ -17216,8 +18067,10 @@ a 0
 drive-by 0
 shooting 0
 in 0
-the 0Park 1
+the 0
+Park 1
 Manor 1
+
 A 0
 17-year-old 0
 boy 0
@@ -17232,8 +18085,10 @@ Metra 0
 train 0
 on 0
 Chicago 0
-'s 0Northwest 1
-Side 1late 0
+'s 0
+Northwest 1
+Side 1
+late 0
 Sunday 0
 night 0
 . 0
@@ -17248,7 +18103,8 @@ around 0
 9 0
 p.m. 0
 in 0
-the 07000 1
+the 0
+7000 1
 block 1
 of 1
 West 1
@@ -17258,6 +18114,7 @@ near 1
 the 1
 Mont 1
 Clare 1
+
 A 0
 Tuesday 0
 morning 0
@@ -17309,8 +18166,10 @@ in 0
 a 0
 carjacking 0
 on 0
-the 0West 1
+the 0
+West 1
 Side 1
+
 ! 0
 [ 0
 ] 0
@@ -17333,8 +18192,10 @@ fatally 0
 shot 0
 inside 0
 car 0
-on 0South 1
-Side 1! 0
+on 0
+South 1
+Side 1
+! 0
 [ 0
 ] 0
 [ 0
@@ -17387,9 +18248,11 @@ stopped 0
 at 0
 a 0
 light 0
-near 0Garfield 1
+near 0
+Garfield 1
 and 1
 Wabash 1
+
 Police 0
 are 0
 warning 0
@@ -17403,11 +18266,15 @@ robberies 0
 this 0
 month 0
 in 0
-the 0Princeton 1
-Park 1neighborhood 0
+the 0
+Princeton 1
+Park 1
+neighborhood 0
 on 0
-the 0South 1
-Side 1. 0
+the 0
+South 1
+Side 1
+. 0
 In 0
 each 0
 incident 0
@@ -17449,7 +18316,8 @@ p.m. 0
 June 0
 4 0
 in 0
-the 09400 1
+the 0
+9400 1
 block 1
 of 1
 the 1
@@ -17457,18 +18325,21 @@ South 1
 Dan 1
 Ryan 1
 Expressway 1
-; 1* 0
+; 1
+* 0
 About 0
 7:45 0
 p.m. 0
 June 0
 10 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 West 1
-95th 1; 0
+95th 1
+; 0
 * 0
 About 0
 4:10 0
@@ -17476,11 +18347,13 @@ p.m. 0
 June 0
 11 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 West 1
-95th 1; 0
+95th 1
+; 0
 * 0
 About 0
 1:10 0
@@ -17488,11 +18361,13 @@ a.m. 0
 June 0
 25 0
 in 0
-the 09400 1
+the 0
+9400 1
 block 1
 of 1
 South 1
-Perry 1; 0
+Perry 1
+; 0
 and 0
 * 0
 About 0
@@ -17501,11 +18376,13 @@ p.m. 0
 June 0
 25 0
 in 0
-the 0first 1
+the 0
+first 1
 block 1
 of 1
 East 1
 95th 1
+
 CHICAGO 0
 — 0
 Two 0
@@ -17513,11 +18390,13 @@ people 0
 were 0
 shot 0
 on 0
-the 05500 1
+the 0
+5500 1
 block 1
 of 1
 South 1
 Shields 1
+
 Two 0
 people 0
 were 0
@@ -17532,8 +18411,10 @@ while 0
 driving 0
 on 0
 Chicago 0
-'s 0South 1
-Side 1Friday 0
+'s 0
+South 1
+Side 1
+Friday 0
 morning 0
 , 0
 police 0
@@ -17547,13 +18428,15 @@ after 0
 7 0
 a.m. 0
 in 0
-the 04100 1
+the 0
+4100 1
 block 1
 of 1
 South 1
 State 1
 Street 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 A 0
@@ -17575,9 +18458,11 @@ at 0
 a 0
 stop 0
 light 0
-at 041st 1
+at 0
+41st 1
 Street 1
-. 1That 0
+. 1
+That 0
 when 0
 authorities 0
 say 0
@@ -17620,12 +18505,14 @@ from 0
 the 0
 scene 0
 to 0
-the 05400 1
+the 0
+5400 1
 block 1
 of 1
 South 1
 Wentworth 1
 Avenue 1
+
 A 0
 man 0
 was 0
@@ -17642,8 +18529,10 @@ Garfield 0
 Park 0
 neighborhood 0
 on 0
-the 0West 1
-Side 1. 0
+the 0
+West 1
+Side 1
+. 0
 The 0
 32-year-old 0
 victim 0
@@ -17657,16 +18546,24 @@ at 0
 4:27 0
 a.m. 0
 in 0
-the 04400 1
+the 0
+4400 1
 block 1
 of 1
 West 1
 Adams 1
+
 ! 0
 [ 0
 Police 0
 are 0
-warning 0Roseland 1Roseland 1Roseland 1residents 0
+warning 0
+Roseland 1
+
+Roseland 1
+
+Roseland 1
+residents 0
 of 0
 robberies 0
 . 0
@@ -17746,60 +18643,70 @@ p.m. 0
 June 0
 4 0
 in 0
-the 09400 1
+the 0
+9400 1
 Block 1
 of 1
 the 1
 South 1
 Dan 1
-Ryan 1• 0
+Ryan 1
+• 0
 At 0
 7:45 0
 p.m. 0
 June 0
 10 0
 in 0
-the 0200 1
+the 0
+200 1
 Block 1
 of 1
 West 1
 95th 1
-Street 1• 0
+Street 1
+• 0
 At 0
 4:10 0
 p.m. 0
 June 0
 11 0
 in 0
-the 0100 1
+the 0
+100 1
 Block 1
 of 1
 West 1
 95th 1
-Street 1• 0
+Street 1
+• 0
 At 0
 1:10 0
 a.m. 0
 June 0
 25 0
 in 0
-the 09400 1
+the 0
+9400 1
 Block 1
 of 1
 South 1
 Perry 1
-Avenue 1• 0
+Avenue 1
+• 0
 At 0
 9:00 0
 p.m. 0
 June 0
 25 0
-at 00-100 1
+at 0
+0-100 1
 Block 1
 of 1
 East 1
 95th 1
 Street 1
+
 CHICAGO 0
 — 0
 A 0
@@ -17813,8 +18720,10 @@ and 0
 a 0
 woman 0
 wounded 0
-in 0Grand 1
-Boulevard 1on 0
+in 0
+Grand 1
+Boulevard 1
+on 0
 Friday 0
 morning 0
 , 0
@@ -17834,12 +18743,14 @@ a 0
 car 0
 driving 0
 in 0
-the 04100 1
+the 0
+4100 1
 block 1
 of 1
 South 1
 State 1
-Street 1when 0
+Street 1
+when 0
 the 0
 driver 0
 stopped 0
@@ -17882,13 +18793,15 @@ and 0
 stopped 0
 in 0
 the 0
-5 0400 1
+5 0
+400 1
 block 1
 of 1
 South 1
 Wentworth 1
 Avenue 1
 , 1
+
 A 0
 17-year-old 0
 boy 0
@@ -17903,12 +18816,16 @@ was 0
 accidentally 0
 shot 0
 in 0
-the 0East 1
+the 0
+East 1
 Garfield 1
-Park 1neighborhood 0
+Park 1
+neighborhood 0
 on 0
-the 0West 1
-Side 1. 0
+the 0
+West 1
+Side 1
+. 0
 The 0
 boy 0
 was 0
@@ -17919,11 +18836,13 @@ about 0
 4:15 0
 p.m. 0
 in 0
-the 03200 1
+the 0
+3200 1
 block 1
 of 1
 West 1
 Madison 1
+
 Two 0
 people 0
 were 0
@@ -17931,12 +18850,14 @@ shot 0
 late 0
 Friday 0
 in 0
-the 0South 1
+the 0
+South 1
 Side 1
 Grand 1
 Crossing 1
 neighborhood 1
-. 1The 0
+. 1
+The 0
 24-year-old 0
 man 0
 and 0
@@ -17951,13 +18872,15 @@ in 0
 an 0
 alley 0
 in 0
-the 01000 1
+the 0
+1000 1
 block 1
 of 1
 East 1
 73rd 1
 Street 1
 , 1
+
 A 0
 25-year-old 0
 man 0
@@ -17969,14 +18892,16 @@ argument 0
 early 0
 Saturday 0
 in 0
-the 0Wicker 1
+the 0
+Wicker 1
 Park 1
 neighborhood 1
 on 1
 the 1
 North 1
 Side 1
-. 1Another 0
+. 1
+Another 0
 person 0
 opened 0
 fire 0
@@ -17984,12 +18909,14 @@ at 0
 2:26 0
 a.m. 0
 in 0
-the 02000 1
+the 0
+2000 1
 block 1
 of 1
 West 1
 LeMoyne 1
 , 1
+
 CHICAGO 0
 — 0
 Police 0
@@ -18001,8 +18928,10 @@ a 0
 man 0
 Saturday 0
 night 0
-in 0North 1
-Lawndal 1e 0
+in 0
+North 1
+Lawndal 1
+e 0
 , 0
 police 0
 said 0
@@ -18028,12 +18957,14 @@ officers 0
 were 0
 called 0
 to 0
-the 02200 1
+the 0
+2200 1
 block 1
 of 1
 South 1
 Kostner 1
 Avenue 1
+
 Police 0
 are 0
 warning 0
@@ -18049,13 +18980,15 @@ sometimes 0
 armed 0
 , 0
 in 0
-the 0Gresham 1
+the 0
+Gresham 1
 neighborhood 1
 on 1
 the 1
 South 1
 Side 1
-. 1In 0
+. 1
+In 0
 five 0
 incidents 0
 , 0
@@ -18088,7 +19021,8 @@ Police 0
 The 0
 robberies 0
 happened 0
-: 0* 1
+: 0
+* 1
 about 1
 4:50 1
 p.m. 1
@@ -18153,6 +19087,7 @@ block 1
 of 1
 South 1
 Ashland 1
+
 In 0
 the 0
 early 0
@@ -18276,16 +19211,20 @@ had 0
 grown 0
 up 0
 on 0
-the 0South 1
-Side 1, 0
-above 0Lang 1
+the 0
+South 1
+Side 1
+, 0
+above 0
+Lang 1
 's 1
 Bar 1
 B 1
 Que 1
 on 1
 South 1
-Prairie 1; 0
+Prairie 1
+; 0
 his 0
 mother 0
 cleaned 0
@@ -18782,17 +19721,21 @@ Island 0
 Arts 0
 Bank 0
 , 0
-at 0East 1
+at 0
+East 1
 68th 1
 Street 1
 and 1
 Stony 1
 Island 1
-Avenue 1, 0
+Avenue 1
+, 0
 just 0
 south 0
-of 0Jackson 1
+of 0
+Jackson 1
 Park 1
+
 Two 0
 men 0
 were 0
@@ -18808,10 +19751,12 @@ shooting 0
 early 0
 Wednesday 0
 in 0
-the 0Far 1
+the 0
+Far 1
 South 1
 Side 1
-Roseland 1neighborhood 0
+Roseland 1
+neighborhood 0
 , 0
 police 0
 said 0
@@ -18831,11 +19776,13 @@ of 0
 a 0
 house 0
 in 0
-the 011000 1
+the 0
+11000 1
 block 1
 of 1
 South 1
 Eberhart 1
+
 A 0
 17-year-boy 0
 was 0
@@ -18859,9 +19806,11 @@ left 0
 it 0
 running 0
 at 0
-a 0Near 1
+a 0
+Near 1
 West 1
-Side 1gas 0
+Side 1
+gas 0
 station 0
 early 0
 Monday 0
@@ -18947,12 +19896,14 @@ a 0
 gas 0
 station 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 South 1
 Morgan 1
-Street 1, 0
+Street 1
+, 0
 an 0
 FBI 0
 spokesman 0
@@ -18983,12 +19934,14 @@ it 0
 was 0
 parked 0
 in 0
-the 0900 1
+the 0
+900 1
 block 1
 of 1
 South 1
 Leavitt 1
-Street 1, 0
+Street 1
+, 0
 about 0
 two 0
 miles 0
@@ -19117,13 +20070,17 @@ about 0
 a.m. 0
 Tuesday 0
 in 0
-the 05000 1
+the 0
+5000 1
 block 1
 of 1
 West 1
 Washington 1
-Boulevard 1West 1
-Side 1gas 0
+Boulevard 1
+
+West 1
+Side 1
+gas 0
 station 0
 early 0
 Monday 0
@@ -19394,7 +20351,9 @@ in 0
 the 0
 West 0
 Side 0
-'s 0Austin 1
+'s 0
+Austin 1
+
 ! 0
 [ 0
 Shootings 0
@@ -19455,8 +20414,10 @@ a 0
 man 0
 was 0
 shot 0
-in 0Marquette 1
-Park 1, 0
+in 0
+Marquette 1
+Park 1
+, 0
 police 0
 said 0
 . 0
@@ -19468,16 +20429,20 @@ his 0
 parked 0
 car 0
 in 0
-the 06300 1
+the 0
+6300 1
 block 1
 of 1
 South 1
 Artesian 1
 Avenue 1
+
 Police 0
 in 0
-[ 0Oak 1
-Park 1] 0
+[ 0
+Oak 1
+Park 1
+] 0
 [ 0
 11 0
 ] 0
@@ -19487,9 +20452,13 @@ for 0
 men 0
 who 0
 robbed 0
-two 0Chicago 1
-Avenue 1Oak 1
-Park 1] 0
+two 0
+Chicago 1
+Avenue 1
+
+Oak 1
+Park 1
+] 0
 [ 0
 11 0
 ] 0
@@ -19528,14 +20497,16 @@ at 0
 a.m. 0
 July 0
 1 0
-at 0Snow 1
+at 0
+Snow 1
 White 1
 Cleaners 1
 , 1
 40 1
 Chicago 1
 Ave 1
-. 1Police 0
+. 1
+Police 0
 said 0
 the 0
 robber 0
@@ -19667,11 +20638,15 @@ the 0
 7-Eleven 0
 convenience 0
 store 0
-at 0240 1
+at 0
+240 1
 Chicago 1
 Ave 1
-. 1Oak 1
+. 1
+
+Oak 1
 Park 1
+
 CHICAGO 0
 ( 0
 Sun-Times 0
@@ -19684,10 +20659,12 @@ people 0
 were 0
 shot 0
 on 0
-the 0South 1
+the 0
+South 1
 and 1
 West 1
-sides 1of 0
+sides 1
+of 0
 Chicago 0
 during 0
 the 0
@@ -19762,8 +20739,10 @@ at 0
 a.m. 0
 on 0
 Saturday 0
-in 0Princeton 1
-Park 1, 0
+in 0
+Princeton 1
+Park 1
+, 0
 where 0
 two 0
 gunmen 0
@@ -19779,11 +20758,13 @@ on 0
 a 0
 sidewalk 0
 in 0
-the 09300 1
+the 0
+9300 1
 block 1
 of 1
 South 1
-LaSalle 1, 0
+LaSalle 1
+, 0
 according 0
 to 0
 Chicago 0
@@ -19799,12 +20780,16 @@ Company 0
 of 0
 Mary 0
 Hospital 0
-in 0Evergreen 1
-Park 1. 0
+in 0
+Evergreen 1
+Park 1
+. 0
 About 0
 2 0
 a.m. 0
-in 0Roseland 1, 0
+in 0
+Roseland 1
+, 0
 someone 0
 in 0
 a 0
@@ -19835,8 +20820,10 @@ at 0
 Christ 0
 Medical 0
 Center 0
-in 0Oak 1
-Lawn 1. 0
+in 0
+Oak 1
+Lawn 1
+. 0
 A 0
 little 0
 more 0
@@ -19849,7 +20836,9 @@ a 0
 19-year-old 0
 woman 0
 in 0
-the 0Austin 1neighborhood 0
+the 0
+Austin 1
+neighborhood 0
 was 0
 wounded 0
 in 0
@@ -19876,11 +20865,13 @@ on 0
 a 0
 porch 0
 in 0
-the 05000 1
+the 0
+5000 1
 block 1
 of 1
 West 1
-Division 1. 0
+Division 1
+. 0
 She 0
 was 0
 stabilized 0
@@ -19911,11 +20902,13 @@ on 0
 a 0
 sidewalk 0
 in 0
-the 0800 1
+the 0
+800 1
 block 1
 of 1
 North 1
-Latrobe 1and 0
+Latrobe 1
+and 0
 someone 0
 pulled 0
 out 0
@@ -19945,8 +20938,10 @@ West 0
 Suburban 0
 Medical 0
 Center 0
-in 0Oak 1
-Park 1, 0
+in 0
+Oak 1
+Park 1
+, 0
 police 0
 said 0
 . 0
@@ -19967,14 +20962,18 @@ about 0
 8:15 0
 p.m. 0
 on 0
-a 0Chatham 1neighborhood 0
+a 0
+Chatham 1
+neighborhood 0
 sidewalk 0
 in 0
-the 07500 1
+the 0
+7500 1
 block 1
 of 1
 South 1
-Calumet 1. 0
+Calumet 1
+. 0
 He 0
 was 0
 in 0
@@ -19997,14 +20996,18 @@ shot 0
 in 0
 the 0
 leg 0
-in 0Brighton 1
+in 0
+Brighton 1
 Park 1
 ’ 1
-s 14000 1
+s 1
+
+4000 1
 block 1
 of 1
 South 1
-Kedzie 1. 0
+Kedzie 1
+. 0
 He 0
 was 0
 stabilized 0
@@ -20023,8 +21026,10 @@ happened 0
 about 0
 7:15 0
 p.m. 0
-in 0Washington 1
-Park 1. 0
+in 0
+Washington 1
+Park 1
+. 0
 A 0
 20 0
 -year-old 0
@@ -20035,12 +21040,14 @@ in 0
 a 0
 car 0
 in 0
-the 06100 1
+the 0
+6100 1
 block 1
 of 1
 South 1
 King 1
 Drive 1
+
 A 0
 woman 0
 was 0
@@ -20048,14 +21055,16 @@ shot 0
 Sunday 0
 morning 0
 in 0
-the 0Douglas 1
+the 0
+Douglas 1
 Park 1
 neighborhood 1
 on 1
 the 1
 Southwest 1
 Side 1
-. 1The 0
+. 1
+The 0
 25-year-old 0
 was 0
 walking 0
@@ -20063,11 +21072,13 @@ about 0
 5:10 0
 a.m. 0
 in 0
-the 01200 1
+the 0
+1200 1
 block 1
 of 1
 South 1
 Fairfield 1
+
 Two 0
 [ 0
 Park 0
@@ -20089,11 +21100,13 @@ to 0
 use 0
 a 0
 gun 0
-at 0Maine 1
+at 0
+Maine 1
 South 1
 High 1
 School 1
-o 1n 0
+o 1
+n 0
 Monday 0
 . 0
 Park 0
@@ -20245,9 +21258,11 @@ that 0
 the 0
 threats 0
 were 0
-referencing 0Maine 1
+referencing 0
+Maine 1
 South 1
 , 1
+
 A 0
 Near 0
 West 0
@@ -20295,10 +21310,12 @@ Food 0
 amp 0
 ; 0
 Liquor 0
-, 0219 1
+, 0
+219 1
 S. 1
 Western 1
-Ave 1. 0
+Ave 1
+. 0
 , 0
 after 0
 a 0
@@ -20310,12 +21327,14 @@ Chicago 0
 Police 0
 Department 0
 ’ 0
-s 0Gresham 1
+s 0
+Gresham 1
 and 1
 Near 1
 West 1
 Districts 1
 . 1
+
 Strings 0
 Ramen 0
 , 0
@@ -20324,11 +21343,13 @@ popular 0
 spot 0
 in 0
 Chinatown 0
-( 02141 1
+( 0
+2141 1
 S. 1
 Archer 1
 Ave 1
-. 1) 0
+. 1
+) 0
 , 0
 has 0
 opened 0
@@ -20342,11 +21363,13 @@ The 0
 new 0
 location 0
 , 0
-at 0919 1
+at 0
+919 1
 W. 1
 Belmont 1
 Ave 1
 . 1
+
 Charges 0
 were 0
 announced 0
@@ -20361,9 +21384,11 @@ shooting 0
 two 0
 teen 0
 boys 0
-at 031st 1
+at 0
+31st 1
 Street 1
-Beach 1in 0
+Beach 1
+in 0
 June 0
 , 0
 Chicago 0
@@ -20374,12 +21399,14 @@ Tynisha 0
 Blissit 0
 , 0
 of 0
-the 05900 1
+the 0
+5900 1
 block 1
 of 1
 South 1
 Indiana 1
-Avenue 1, 0
+Avenue 1
+, 0
 was 0
 charged 0
 with 0
@@ -20408,22 +21435,26 @@ boys 0
 were 0
 shot 0
 in 0
-the 03100 1
+the 0
+3100 1
 block 1
 of 1
 South 1
 Lake 1
 Shore 1
 Drive 1
+
 Howard 0
 Brown 0
 Health 0
 Clark 0
-, 06500 1
+, 0
+6500 1
 N. 1
 Clark 1
 St 1
 . 1
+
 A 0
 15-year-old 0
 Illinois 0
@@ -20483,12 +21514,14 @@ Saturday 0
 in 0
 Morrison 0
 , 0
-about 0130 1
+about 0
+130 1
 miles 1
 west 1
 of 1
 Chicago 1
 . 1
+
 A 0
 man 0
 was 0
@@ -20502,8 +21535,10 @@ Hospital 0
 on 0
 Chicago 0
 ’ 0
-s 0Southwest 1
-Side 1early 0
+s 0
+Southwest 1
+Side 1
+early 0
 Sunday 0
 . 0
 The 0
@@ -20517,13 +21552,15 @@ hospital 0
 , 0
 located 0
 in 0
-the 02700 1
+the 0
+2700 1
 block 1
 of 1
 W. 1
 15th 1
 St 1
 . 1
+
 A 0
 woman 0
 was 0
@@ -20531,14 +21568,16 @@ shot 0
 early 0
 Tuesday 0
 in 0
-the 0West 1
+the 0
+West 1
 Englewood 1
 neighborhood 1
 on 1
 the 1
 South 1
 Side 1
-. 1Officers 0
+. 1
+Officers 0
 responded 0
 to 0
 a 0
@@ -20550,12 +21589,14 @@ about 0
 12:45 0
 a.m. 0
 in 0
-the 02000 1
+the 0
+2000 1
 block 1
 of 1
 West 1
 69th 1
 Place 1
+
 ** 0
 CHICAGO 0
 ( 0
@@ -20594,12 +21635,14 @@ death 0
 in 0
 the 0
 Heart 0
-of 0Chicago 1
+of 0
+Chicago 1
 neighborhood 1
 on 1
 the 1
 South 1
-Side 1. 0
+Side 1
+. 0
 The 0
 28-year-old 0
 invited 0
@@ -20612,12 +21655,14 @@ about 0
 10:50 0
 p.m. 0
 in 0
-the 01600 1
+the 0
+1600 1
 block 1
 of 1
 West 1
 18th 1
-Plac 1e 0
+Plac 1
+e 0
 , 0
 according 0
 to 0
@@ -20668,14 +21713,16 @@ man 0
 was 0
 killed 0
 in 0
-a 0Park 1
+a 0
+Park 1
 Manor 1
 neighborhood 1
 shooting 1
 on 1
 the 1
 South 1
-Side 1. 0
+Side 1
+. 0
 He 0
 was 0
 walking 0
@@ -20729,13 +21776,15 @@ shot 0
 to 0
 death 0
 in 0
-the 0East 1
+the 0
+East 1
 Chatham 1
 neighborhood 1
 on 1
 the 1
 South 1
-Side 1. 0
+Side 1
+. 0
 A 0
 male 0
 got 0
@@ -20749,11 +21798,13 @@ at 0
 1:26 0
 a.m. 0
 in 0
-the 08400 1
+the 0
+8400 1
 block 1
 of 1
 South 1
-Maryland 1and 0
+Maryland 1
+and 0
 opened 0
 fire 0
 , 0
@@ -20812,14 +21863,16 @@ nonfatal 0
 shooting 0
 happened 0
 in 0
-the 0South 1
+the 0
+South 1
 Shore 1
 neighborhood 1
 on 1
 the 1
 South 1
 Side 1
-. 1A 0
+. 1
+A 0
 33-year-old 0
 man 0
 was 0
@@ -20829,11 +21882,13 @@ about 0
 10:30 0
 p.m. 0
 in 0
-the 07800 1
+the 0
+7800 1
 block 1
 of 1
 South 1
-Burnham 1when 0
+Burnham 1
+when 0
 a 0
 male 0
 walked 0
@@ -20877,10 +21932,12 @@ was 0
 also 0
 shot 0
 in 0
-the 0South 1
+the 0
+South 1
 Shore 1
 neighborhood 1
-. 1The 0
+. 1
+The 0
 18-year-old 0
 was 0
 shot 0
@@ -20891,12 +21948,14 @@ about 0
 7:45 0
 p.m. 0
 in 0
-the 07400 1
+the 0
+7400 1
 block 1
 of 1
 South 1
 Euclid 1
-, 1according 0
+, 1
+according 0
 to 0
 police 0
 . 0
@@ -20945,14 +22004,16 @@ in 0
 a 0
 shooting 0
 in 0
-the 0Albany 1
+the 0
+Albany 1
 Park 1
 neighborhood 1
 on 1
 the 1
 Northwest 1
 Side 1
-. 1The 0
+. 1
+The 0
 25-year-old 0
 was 0
 dropping 0
@@ -20963,11 +22024,13 @@ about 0
 5 0
 a.m. 0
 in 0
-the 04400 1
+the 0
+4400 1
 block 1
 of 1
 North 1
-Monticello 1when 0
+Monticello 1
+when 0
 a 0
 male 0
 opened 0
@@ -21005,9 +22068,11 @@ woman 0
 was 0
 shot 0
 in 0
-the 0West 1
+the 0
+West 1
 Englewood 1
-neighborhood 1on 0
+neighborhood 1
+on 0
 the 0
 South 0
 Side 0
@@ -21021,12 +22086,14 @@ of 0
 shots 0
 fired 0
 in 0
-the 02000 1
+the 0
+2000 1
 block 1
 of 1
 West 1
 69th 1
-Place 1found 0
+Place 1
+found 0
 the 0
 47-year-old 0
 woman 0
@@ -21093,12 +22160,14 @@ at 0
 12:05 0
 a.m. 0
 in 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 South 1
 Clark 1
 , 1
+
 Two 0
 men 0
 were 0
@@ -21113,10 +22182,12 @@ shooting 0
 Thursday 0
 afternoon 0
 on 0
-the 0Near 1
+the 0
+Near 1
 West 1
 Side 1
-. 1The 0
+. 1
+The 0
 men 0
 , 0
 ages 0
@@ -21132,11 +22203,13 @@ about 0
 3:35 0
 p.m. 0
 in 0
-the 02300 1
+the 0
+2300 1
 block 1
 of 1
 West 1
 Warren 1
+
 HAMMOND 0
 , 0
 Ind 0
@@ -21184,12 +22257,16 @@ crossing 0
 the 0
 street 0
 in 0
-the 06400-block 1
+the 0
+6400-block 1
 of 1
 Columbia 1
 Ave 1
-. 1Hammond 1
+. 1
+
+Hammond 1
 police 1
+
 At 0
 least 0
 six 0
@@ -21213,10 +22290,12 @@ including 0
 an 0
 attack 0
 on 0
-the 0Dan 1
+the 0
+Dan 1
 Ryan 1
 Expressway 1
-. 1The 0
+. 1
+The 0
 [ 0
 first 0
 homicide 0
@@ -21237,13 +22316,17 @@ Frazier 0
 was 0
 killed 0
 in 0
-the 08800 1
+the 0
+8800 1
 block 1
 of 1
 South 1
 Eggleston 1
 Avenue 1
-, 1of 1the 0
+, 1
+
+of 1
+the 0
 weekend 0
 ] 0
 [ 0
@@ -21303,10 +22386,14 @@ the 0
 shooting 0
 happened 0
 near 0
-the 0400 1
-block 1of 0East 1
+the 0
+400 1
+block 1
+of 0
+East 1
 87th 1
-Street 1. 0
+Street 1
+. 0
 Neighbors 0
 said 0
 the 0
@@ -21336,29 +22423,35 @@ a 0
 man 0
 was 0
 killed 0
-in 0Humboldt 1
+in 0
+Humboldt 1
 Park 1
 on 1
 the 1
 Northwest 1
-Side 1and 0
+Side 1
+and 0
 an 0
 18-year-old 0
 was 0
 fatally 0
 shot 0
-in 0Marquette 1
+in 0
+Marquette 1
 Park 1
 on 1
 the 1
 South 1
 Side 1
-. 1In 0Avalon 1
+. 1
+In 0
+Avalon 1
 Park 1
 on 1
 the 1
 South 1
-Side 1, 0
+Side 1
+, 0
 a 0
 40-year- 0
 old 0
@@ -21414,7 +22507,8 @@ in 0
 both 0
 legs 0
 in 0
-the 05400 1
+the 0
+5400 1
 block 1
 of 1
 South 1
@@ -21425,7 +22519,8 @@ the 1
 Back 1
 of 1
 the 1
-Yards 1neighborhood 0
+Yards 1
+neighborhood 0
 about 0
 9 0
 p.m 0
@@ -21493,18 +22588,22 @@ were 0
 standing 0
 outside 0
 in 0
-the 07000 1
+the 0
+7000 1
 block 1
 of 1
 South 1
 Vernon 1
-Avenue 1Park 1
+Avenue 1
+
+Park 1
 Manor 1
 on 1
 the 1
 South 1
 Side 1
 . 1
+
 Area 0
 Central 0
 detectives 0
@@ -21523,12 +22622,14 @@ early 0
 Monday 0
 in 0
 the 0
-S 0outhwest 1
+S 0
+outhwest 1
 Side 1
 Little 1
 Village 1
 neighborhood 1
-. 1About 0
+. 1
+About 0
 1:50 0
 a.m. 0
 , 0
@@ -21544,17 +22645,21 @@ an 0
 abandoned 0
 building 0
 in 0
-the 02700 1
+the 0
+2700 1
 block 1
 of 1
 South 1
 Komensky 1
+
 CHICAGO 0
 — 0
 A 0
 shooting 0
-in 0Chicago 1
-Lawn 1killed 0
+in 0
+Chicago 1
+Lawn 1
+killed 0
 one 0
 man 0
 and 0
@@ -21575,12 +22680,14 @@ men 0
 were 0
 driving 0
 in 0
-the 02600 1
+the 0
+2600 1
 block 1
 of 1
 West 1
 63rd 1
 Street 1
+
 Two 0
 people 0
 were 0
@@ -21592,13 +22699,15 @@ shooting 0
 Tuesday 0
 afternoon 0
 in 0
-the 0Cragin 1
+the 0
+Cragin 1
 neighborhood 1
 on 1
 the 1
 Northwest 1
 Side 1
-. 1About 0
+. 1
+About 0
 2:25 0
 p.m. 0
 , 0
@@ -21612,11 +22721,13 @@ were 0
 on 0
 foot 0
 in 0
-the 05400 1
+the 0
+5400 1
 block 1
 of 1
 West 1
 Wellington 1
+
 A 0
 man 0
 believed 0
@@ -21640,14 +22751,16 @@ U.S. 0
 Bank 0
 branch 0
 in 0
-the 0Marquette 1
+the 0
+Marquette 1
 Park 1
 neighborhood 1
 on 1
 the 1
 Southwest 1
 Side 1
-. 1! 0
+. 1
+! 0
 [ 0
 ] 0
 [ 0
@@ -21693,11 +22806,13 @@ the 0
 U.S. 0
 Bank 0
 branch 0
-at 03525 1
+at 0
+3525 1
 W. 1
 63rd 1
 St 1
 . 1
+
 A 0
 man 0
 was 0
@@ -21705,7 +22820,9 @@ shot 0
 Wednesday 0
 evening 0
 in 0
-the 0Pilsen 1neighborhood 0
+the 0
+Pilsen 1
+neighborhood 0
 . 0
 The 0
 20-year-old 0
@@ -21719,11 +22836,13 @@ about 0
 6:40 0
 p.m. 0
 in 0
-the 01900 1
+the 0
+1900 1
 block 1
 of 1
 South 1
 Morgan 1
+
 CHICAGO 0
 — 0
 A 0
@@ -21760,12 +22879,14 @@ officers 0
 were 0
 called 0
 to 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 West 1
 47th 1
-Stree 1t 0
+Stree 1
+t 0
 for 0
 a 0
 report 0
@@ -21815,12 +22936,14 @@ he 0
 hit 0
 two 0
 cars 0
-near 071st 1
+near 0
+71st 1
 Street 1
 in 1
 Park 1
 Manor 1
 , 1
+
 ! 0
 [ 0
 Shootings 0
@@ -21891,8 +23014,10 @@ man 0
 was 0
 gunned 0
 down 0
-in 0River 1
-North 1. 0
+in 0
+River 1
+North 1
+. 0
 ] 0
 [ 0
 2 0
@@ -21912,8 +23037,10 @@ Thursday 0
 [ 0
 a 0
 shooting 0
-in 0South 1
-Shore 1killed 0
+in 0
+South 1
+Shore 1
+killed 0
 an 0
 18-year-old 0
 man 0
@@ -21942,8 +23069,10 @@ a 0
 man 0
 was 0
 shot 0
-in 0Fuller 1
-Park 1, 0
+in 0
+Fuller 1
+Park 1
+, 0
 police 0
 said 0
 . 0
@@ -22027,9 +23156,11 @@ a 0
 man 0
 was 0
 shot 0
-in 0West 1
+in 0
+West 1
 Humboldt 1
-Park 1. 0
+Park 1
+. 0
 ] 0
 [ 0
 4 0
@@ -22046,10 +23177,12 @@ man 0
 was 0
 shot 0
 on 0
-the 0Near 1
+the 0
+Near 1
 West 1
 Side 1
-. 1] 0
+. 1
+] 0
 [ 0
 5 0
 ] 0
@@ -22066,8 +23199,10 @@ and 0
 man 0
 were 0
 shot 0
-in 0Park 1
-Manor 1, 0
+in 0
+Park 1
+Manor 1
+, 0
 police 0
 said 0
 . 0
@@ -22076,12 +23211,14 @@ two 0
 were 0
 walking 0
 in 0
-the 0600 1
+the 0
+600 1
 block 1
 of 1
 East 1
 71st 1
-Street 1when 0
+Street 1
+when 0
 someone 0
 got 0
 out 0
@@ -22136,10 +23273,12 @@ three 0
 people 0
 were 0
 shot 0
-in 0Back 1
+in 0
+Back 1
 of 1
 the 1
-Yards 1. 0
+Yards 1
+. 0
 ] 0
 [ 0
 6 0
@@ -22154,8 +23293,10 @@ a 0
 man 0
 was 0
 shot 0
-in 0Garfield 1
-Park 1, 0
+in 0
+Garfield 1
+Park 1
+, 0
 police 0
 said 0
 . 0
@@ -22164,12 +23305,14 @@ man 0
 was 0
 walking 0
 in 0
-the 0700 1
+the 0
+700 1
 block 1
 of 1
 North 1
 Lawndale 1
 Avenue 1
+
 CHICAGO 0
 — 0
 A 0
@@ -22202,14 +23345,18 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 0800 1
+the 0
+800 1
 block 1
 of 1
 North 1
 Springfield 1
-Avenue 1West 1
+Avenue 1
+
+West 1
 Humboldt 1
 Park 1
+
 A 0
 man 0
 was 0
@@ -22241,15 +23388,19 @@ around 0
 p.m. 0
 Thursday 0
 in 0
-the 0500 1
+the 0
+500 1
 block 1
 of 1
 North 1
 State 1
 Street 1
-, 1Near 1
+, 1
+
+Near 1
 North 1
 Side 1
+
 A 0
 58-year-old 0
 man 0
@@ -22288,12 +23439,14 @@ March 0
 2016 0
 , 0
 in 0
-the 08200 1
+the 0
+8200 1
 block 1
 of 1
 South 1
 Emerald 1
-, 1according 0
+, 1
+according 0
 to 0
 Chicago 0
 Police 0
@@ -22319,9 +23472,13 @@ shooting 0
 . 0
 Campbell 0
 , 0
-a 0West 1
-Englewood 1Auburn 1
+a 0
+West 1
+Englewood 1
+
+Auburn 1
 Gresham 1
+
 ** 0
 ( 0
 STMW 0
@@ -22341,10 +23498,12 @@ shooting 0
 Friday 0
 evening 0
 in 0
-the 0West 1
+the 0
+West 1
 Side 1
 Austin 1
-neighborhood 1. 0
+neighborhood 1
+. 0
 The 0
 shooting 0
 happened 0
@@ -22352,11 +23511,13 @@ at 0
 5:19 0
 p.m. 0
 in 0
-the 05200 1
+the 0
+5200 1
 block 1
 of 1
 West 1
 Kamerling 1
+
 Three 0
 people 0
 were 0
@@ -22367,12 +23528,14 @@ a 0
 child 0
 , 0
 Friday 0
-on 0Chicago 1
+on 0
+Chicago 1
 ’ 1
 s 1
 West 1
 Side 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 The 0
@@ -22382,7 +23545,8 @@ about 0
 5:19 0
 p.m. 0
 in 0
-the 05200 1
+the 0
+5200 1
 block 1
 of 1
 West 1
@@ -22395,6 +23559,7 @@ city 1
 Austin 1
 neighborhood 1
 . 1
+
 CHICAGO 0
 ( 0
 Sun-Times 0
@@ -22425,10 +23590,14 @@ Belmont 0
 CTA 0
 station 0
 in 0
-the 0Lake 1
-View 1neighborhood 0North 1
+the 0
+Lake 1
+View 1
+neighborhood 0
+North 1
 Side 1
-. 1Officers 0
+. 1
+Officers 0
 responded 0
 at 0
 6:23 0
@@ -22450,12 +23619,14 @@ the 0
 Belmont 0
 stop 0
 in 0
-the 0900 1
+the 0
+900 1
 block 1
 of 1
 West 1
 Belmont 1
 , 1
+
 A 0
 man 0
 who 0
@@ -22486,8 +23657,10 @@ fire 0
 engine 0
 responding 0
 to 0
-the 0South 1
-Side 1crash 0
+the 0
+South 1
+Side 1
+crash 0
 has 0
 been 0
 charged 0
@@ -22501,13 +23674,15 @@ Morris 0
 34 0
 , 0
 of 0
-the 07900 1
+the 0
+7900 1
 block 1
 of 1
 South 1
 Phillips 1
 Avenue 1
-, 1was 0
+, 1
+was 0
 charged 0
 with 0
 three 0
@@ -22583,12 +23758,14 @@ two-car 0
 crash 0
 happened 0
 in 0
-the 07900 1
+the 0
+7900 1
 block 1
 of 1
 South 1
 Yates 1
 Avenue 1
+
 A 0
 19-year-old 0
 man 0
@@ -22600,8 +23777,10 @@ shooting 0
 Saturday 0
 night 0
 in 0
-the 0West 1
-Englewood 1neighborhood 0
+the 0
+West 1
+Englewood 1
+neighborhood 0
 on 0
 the 0
 South 0
@@ -22627,11 +23806,13 @@ was 0
 standing 0
 outside 0
 in 0
-the 05600 1
+the 0
+5600 1
 block 1
 of 1
 South 1
 Ashland 1
+
 Police 0
 are 0
 warning 0
@@ -22644,16 +23825,22 @@ recent 0
 armed 0
 robberies 0
 in 0
-the 0West 1
+the 0
+West 1
 Garfield 1
-Par 1k 0
-and 0East 1
+Par 1
+k 0
+and 0
+East 1
 Garfield 1
-Par 1k 0
+Par 1
+k 0
 neighborhoods 0
 on 0
-the 0West 1
-Side 1. 0
+the 0
+West 1
+Side 1
+. 0
 In 0
 each 0
 incident 0
@@ -22673,16 +23860,20 @@ him 0
 to 0
 addresses 0
 near 0
-the 03900 1
+the 0
+3900 1
 block 1
 of 1
 West 1
-Congress 1or 0
-the 02800 1
+Congress 1
+or 0
+the 0
+2800 1
 block 1
 of 1
 West 1
-Jackson 1, 0
+Jackson 1
+, 0
 according 0
 to 0
 an 0
@@ -22732,11 +23923,13 @@ a.m. 0
 July 0
 16 0
 in 0
-the 04000 1
+the 0
+4000 1
 block 1
 of 1
 West 1
-Congress 1; 0
+Congress 1
+; 0
 • 0
 about 0
 10:20 0
@@ -22744,23 +23937,27 @@ p.m. 0
 July 0
 16 0
 in 0
-the 03800 1
+the 0
+3800 1
 block 1
 of 1
 West 1
 Jackson 1
-; 1• 0
+; 1
+• 0
 about 0
 11:30 0
 a.m. 0
 July 0
 24 0
 in 0
-the 03700 1
+the 0
+3700 1
 block 1
 of 1
 West 1
-Congress 1; 0
+Congress 1
+; 0
 • 0
 about 0
 5:45 0
@@ -22783,15 +23980,19 @@ a.m. 0
 July 0
 27 0
 in 0
-the 0400 1
+the 0
+400 1
 block 1
 of 1
 South 1
-Hamlin 13200 1
+Hamlin 1
+
+3200 1
 block 1
 of 1
 West 1
 Congress 1
+
 Two 0
 men 0
 were 0
@@ -22799,10 +24000,14 @@ shot 0
 late 0
 Saturday 0
 in 0
-the 0Chatham 1neighborhood 0
+the 0
+Chatham 1
+neighborhood 0
 on 0
-the 0South 1
-Side 1. 0
+the 0
+South 1
+Side 1
+. 0
 About 0
 11:25 0
 p.m. 0
@@ -22819,12 +24024,14 @@ were 0
 walking 0
 east 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 East 1
 80th 1
 Street 1
+
 Police 0
 are 0
 warning 0
@@ -22841,8 +24048,10 @@ block 0
 this 0
 month 0
 in 0
-the 0University 1
-Village 1neighborhood 0
+the 0
+University 1
+Village 1
+neighborhood 0
 . 0
 In 0
 both 0
@@ -22880,11 +24089,13 @@ Both 0
 burglaries 0
 happened 0
 in 0
-the 01000 1
+the 0
+1000 1
 block 1
 of 1
 South 1
 Lytle 1
+
 A 0
 man 0
 was 0
@@ -22913,11 +24124,13 @@ investigators 0
 he 0
 was 0
 in 0
-the 06200 1
+the 0
+6200 1
 block 1
 of 1
 South 1
 Indiana 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -22955,9 +24168,11 @@ purchase 0
 30 0
 acres 0
 in 0
-the 0West 1
+the 0
+West 1
 Garfield 1
-Park 1neighborhood 0
+Park 1
+neighborhood 0
 for 0
 the 0
 facility 0
@@ -23014,12 +24229,16 @@ Training 0
 Academy 0
 to 0
 be 0
-built 04301 1
+built 0
+4301 1
 West 1
 Chicago 1
-Avenue 1West 1
+Avenue 1
+
+West 1
 Garfield 1
 Park 1
+
 A 0
 parolee 0
 was 0
@@ -23097,10 +24316,12 @@ Belmont 0
 Red 0
 Line 0
 platform 0
-at 0945 1
+at 0
+945 1
 W. 1
 Belmont 1
 Ave 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -23151,8 +24372,10 @@ the 0
 Chicago 0
 River 0
 on 0
-the 0North 1
-Side 1, 0
+the 0
+North 1
+Side 1
+, 0
 city 0
 officials 0
 say 0
@@ -23182,11 +24405,13 @@ buy 0
 the 0
 30.4-acre 0
 site 0
-at 04301 1
+at 0
+4301 1
 W. 1
 Chicago 1
 Ave 1
-. 1, 0
+. 1
+, 0
 the 0
 Chicago 0
 Sun-Times 0
@@ -23337,8 +24562,10 @@ from 0
 the 0
 sale 0
 of 0
-the 0West 1
-Town 1fleet 0
+the 0
+West 1
+Town 1
+fleet 0
 site 0
 to 0
 finance 0
@@ -23524,26 +24751,34 @@ the 0
 41-year-old 0
 police 0
 academy 0
-at 01300 1
+at 0
+1300 1
 W. 1
-Jackson 1, 0
+Jackson 1
+, 0
 the 0
 67-year-old 0
 fire 0
 academy 0
-at 01010 1
+at 0
+1010 1
 S. 1
-Clinton 1and 0
+Clinton 1
+and 0
 the 0
 south 0
 fire 0
 academy 0
-at 01338 1
+at 0
+1338 1
 S. 1
 Clinton 1
-, 1West 1
+, 1
+
+West 1
 Garfield 1
-Park 1​that 0
+Park 1
+​that 0
 will 0
 replace 0
 Chicago 0
@@ -24078,9 +25313,13 @@ relocating 0
 city 0
 buildings 0
 to 0
-the 0South 1
-Side 1West 1
+the 0
+South 1
 Side 1
+
+West 1
+Side 1
+
 ** 0
 CHICAGO 0
 ( 0
@@ -24107,9 +25346,13 @@ police 0
 early 0
 Friday 0
 in 0
-the 0South 1
-Side 1Fuller 1
-Park 1neighborhood 0
+the 0
+South 1
+Side 1
+
+Fuller 1
+Park 1
+neighborhood 0
 and 0
 led 0
 officers 0
@@ -24192,13 +25435,15 @@ violations 0
 while 0
 driving 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 West 1
 47th 1
 Street 1
-. 1Initially 0
+. 1
+Initially 0
 , 0
 police 0
 said 0
@@ -24362,9 +25607,13 @@ Ramos 0
 of 0
 the 0
 Southwest 0
-Side 0Ashburn 1
-neighborhood 1Southwest 1
+Side 0
+Ashburn 1
+neighborhood 1
+
+Southwest 1
 Side 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -24442,12 +25691,14 @@ a.m. 0
 July 0
 18 0
 in 0
-the 04800 1
+the 0
+4800 1
 block 1
 of 1
 West 1
 Strong 1
-; 1- 0
+; 1
+- 0
 between 0
 6 0
 p.m. 0
@@ -24457,11 +25708,13 @@ p.m. 0
 July 0
 20 0
 in 0
-the 04800 1
+the 0
+4800 1
 block 1
 of 1
 West 1
-Berteau 1; 0
+Berteau 1
+; 0
 - 0
 between 0
 1 0
@@ -24474,11 +25727,13 @@ p.m. 0
 July 0
 22 0
 in 0
-the 07000 1
+the 0
+7000 1
 block 1
 of 1
 North 1
-Mason 1; 0
+Mason 1
+; 0
 - 0
 between 0
 6 0
@@ -24491,11 +25746,13 @@ p.m. 0
 July 0
 27 0
 in 0
-the 04800 1
+the 0
+4800 1
 block 1
 of 1
 West 1
-Ainslie 1; 0
+Ainslie 1
+; 0
 and 0
 - 0
 between 0
@@ -24507,13 +25764,17 @@ a.m. 0
 July 0
 29 0
 in 0
-the 05400 1
+the 0
+5400 1
 block 1
 of 1
 North 1
 Nagle 1
-. 1Northwest 1
+. 1
+
+Northwest 1
 Side 1
+
 Four 0
 people 0
 were 0
@@ -24634,11 +25895,13 @@ in 0
 the 0
 shooting 0
 in 0
-the 05200 1
+the 0
+5200 1
 block 1
 of 1
 West 1
-Kamerling 1, 0
+Kamerling 1
+, 0
 which 0
 a 0
 relative 0
@@ -24652,8 +25915,10 @@ Friday 0
 night 0
 , 0
 in 0
-the 0Marquette 1
-Park 1neighborhood 0
+the 0
+Marquette 1
+Park 1
+neighborhood 0
 , 0
 an 0
 18-year-old 0
@@ -24668,13 +25933,15 @@ people 0
 were 0
 wounded 0
 in 0
-the 02500 1
+the 0
+2500 1
 block 1
 of 1
 West 1
 Lithuanian 1
 Plaza 1
-Court 1about 0
+Court 1
+about 0
 10:50 0
 p.m 0
 . 0
@@ -24725,12 +25992,14 @@ in 0
 the 0
 arm 0
 in 0
-the 01800 1
+the 0
+1800 1
 block 1
 of 1
 West 1
 21st 1
-Street 1in 0
+Street 1
+in 0
 the 0
 Heart 0
 of 0
@@ -24941,8 +26210,10 @@ man 0
 was 0
 killed 0
 in 0
-the 0Longwood 1
-Manor 1neighborhood 0
+the 0
+Longwood 1
+Manor 1
+neighborhood 0
 on 0
 the 0
 South 0
@@ -24958,9 +26229,13 @@ about 0
 p.m. 0
 Sunday 0
 in 0
-the 0Belmont 1
-Central 1Northwest 1
+the 0
+Belmont 1
+Central 1
+
+Northwest 1
 Side 1
+
 CHICAGO 0
 -- 0
 A 0
@@ -25050,12 +26325,16 @@ Transit 0
 Authority 0
 platform 0
 in 0
-the 0Lakeview 1neighborhood 0
+the 0
+Lakeview 1
+neighborhood 0
 on 0
 the 0
 city 0
-'s 0North 1
+'s 0
+North 1
 Side 1
+
 ! 0
 [ 0
 Jordan 0
@@ -25072,7 +26351,9 @@ an 0
 AK-47 0
 while 0
 at 0
-the 0Lakeview 1CTA 0
+the 0
+Lakeview 1
+CTA 0
 ] 0
 [ 0
 5 0
@@ -25154,9 +26435,11 @@ the 0
 Belmont 0
 CTA 0
 platform 0
-, 0945 1
+, 0
+945 1
 W. 1
-Belmont 1Ave. 0
+Belmont 1
+Ave. 0
 , 0
 for 0
 a 0
@@ -25218,12 +26501,14 @@ Watkins 0
 29 0
 , 0
 of 0
-the 04600 1
+the 0
+4600 1
 block 1
 of 1
 West 1
 Adams 1
 Street 1
+
 A 0
 man 0
 was 0
@@ -25234,8 +26519,10 @@ vehicle 0
 Sunday 0
 evening 0
 in 0
-the 0Little 1
-Village 1neighborhood 0
+the 0
+Little 1
+Village 1
+neighborhood 0
 on 0
 the 0
 Southwest 0
@@ -25252,11 +26539,13 @@ about 0
 10:15 0
 p.m. 0
 in 0
-the 02300 1
+the 0
+2300 1
 block 1
 of 1
 South 1
 Albany 1
+
 CHICAGO 0
 — 0
 A 0
@@ -25266,8 +26555,10 @@ was 0
 shot 0
 to 0
 death 0
-in 0North 1
-Lawndale 1on 0
+in 0
+North 1
+Lawndale 1
+on 0
 Friday 0
 , 0
 police 0
@@ -25286,13 +26577,15 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 01500 1
+the 0
+1500 1
 block 1
 of 1
 South 1
 St. 1
 Louis 1
 Avenue 1
+
 ! 0
 [ 0
 ] 0
@@ -25310,8 +26603,10 @@ investigating 0
 string 0
 of 0
 burglaries 0
-in 0Jefferson 1
+in 0
+Jefferson 1
 Park 1
+
 A 0
 man 0
 was 0
@@ -25324,8 +26619,10 @@ Southwest 0
 Side 0
 shooting 0
 in 0
-the 0Marquette 1
-Park 1neighborhood 0
+the 0
+Marquette 1
+Park 1
+neighborhood 0
 , 0
 according 0
 to 0
@@ -25342,12 +26639,14 @@ just 0
 after 0
 noon 0
 in 0
-the 07200 1
+the 0
+7200 1
 block 1
 of 1
 South 1
 Artesian 1
 , 1
+
 CHICAGO 0
 -- 0
 A 0
@@ -25437,12 +26736,16 @@ Transit 0
 Authority 0
 platform 0
 in 0
-the 0Lakeview 1neighborhood 0
+the 0
+Lakeview 1
+neighborhood 0
 on 0
 the 0
 city 0
-'s 0North 1
+'s 0
+North 1
 Side 1
+
 Cook 0
 County 0
 prosecutors 0
@@ -25473,11 +26776,15 @@ to 0
 use 0
 a 0
 gun 0
-at 0Maine 1
+at 0
+Maine 1
 South 1
 High 1
-School 1Park 1
-Ridge 1] 0
+School 1
+
+Park 1
+Ridge 1
+] 0
 [ 0
 41 0
 ] 0
@@ -25491,8 +26798,10 @@ to 0
 use 0
 a 0
 gun 0
-at 0Maine 1
-South 1High 0
+at 0
+Maine 1
+South 1
+High 0
 School 0
 during 0
 summer 0
@@ -25950,19 +27259,25 @@ Beery 0
 director 0
 of 0
 communications 0
-for 0Maine 1
+for 0
+Maine 1
 Township 1
 High 1
 School 1
 District 1
 207 1
+
 RIVERSIDE 0
 , 0
 Ill. 0
 -- 0
-A 0Cicero 1RIVERSIDE 1
+A 0
+Cicero 1
+
+RIVERSIDE 1
 , 1
-Ill 1. 0
+Ill 1
+. 0
 -- 0
 A 0
 Cicero 0
@@ -26005,11 +27320,15 @@ about 0
 5:30 0
 p.m. 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 Woodside 1
-Road 1in 0Riverside 1
+Road 1
+in 0
+Riverside 1
+
 CHICAGO 0
 — 0
 A 0
@@ -26019,7 +27338,9 @@ was 0
 found 0
 slain 0
 in 0
-his 0Englewood 1home 0
+his 0
+Englewood 1
+home 0
 on 0
 Thursday 0
 , 0
@@ -26034,12 +27355,14 @@ officers 0
 were 0
 called 0
 to 0
-the 01500 1
+the 0
+1500 1
 block 1
 of 1
 West 1
 63rd 1
 Street 1
+
 ** 0
 SUN 0
 TIMES 0
@@ -26066,8 +27389,10 @@ in 0
 a 0
 driveway 0
 in 0
-the 0western 1
-suburb 1. 0
+the 0
+western 1
+suburb 1
+. 0
 Abut 0
 3:35 0
 a.m. 0
@@ -26082,12 +27407,16 @@ up 0
 the 0
 driveway 0
 in 0
-the 01800 1
+the 0
+1800 1
 block 1
 of 1
 Auburn 1
-Avenue 1Auburn 1
 Avenue 1
+
+Auburn 1
+Avenue 1
+
 ! 0
 [ 0
 Police 0
@@ -26101,7 +27430,13 @@ committed 0
 two 0
 robberies 0
 last 0
-week 0Downtown 1Downtown 1Downtown 1. 0
+week 0
+Downtown 1
+
+Downtown 1
+
+Downtown 1
+. 0
 ] 0
 [ 0
 1 0
@@ -26124,7 +27459,9 @@ View 0
 Full 0
 Caption 0
 DNAinfo/Quinn 0
-Ford 0DOWNTOWN 1— 0
+Ford 0
+DOWNTOWN 1
+— 0
 One 0
 or 0
 more 0
@@ -26187,24 +27524,28 @@ a.m. 0
 July 0
 24 0
 in 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 South 1
 State 1
-Street 1. 0
+Street 1
+. 0
 • 0
 4:45 0
 a.m. 0
 July 0
 28 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 North 1
 Wabash 1
 Avenue 1
+
 CHICAGO 0
 — 0
 Three 0
@@ -26238,8 +27579,10 @@ the 0
 crash 0
 on 0
 I-290 0
-near 0Ogden 1
+near 0
+Ogden 1
 Avenue 1
+
 Two 0
 people 0
 were 0
@@ -26250,9 +27593,11 @@ Tuesday 0
 afternoon 0
 shooting 0
 in 0
-the 0South 1
+the 0
+South 1
 Shore 1
-neighborhood 1. 0
+neighborhood 1
+. 0
 A 0
 26-year-old 0
 man 0
@@ -26266,18 +27611,22 @@ at 0
 3:51 0
 p.m. 0
 in 0
-the 06900 1
+the 0
+6900 1
 block 1
 of 1
 South 1
 Cornell 1
+
 The 0
 Friday 0
 night 0
 shooting 0
 of 0
 a 0
-21-year-old 0Aurora 1man 0
+21-year-old 0
+Aurora 1
+man 0
 sitting 0
 on 0
 a 0
@@ -26326,11 +27675,15 @@ on 0
 his 0
 porch 0
 on 0
-the 0400 1
+the 0
+400 1
 block 1
 of 1
 Grand 1
-Avenue 1Aurora 1
+Avenue 1
+
+Aurora 1
+
 A 0
 Shorewood 0
 woman 0
@@ -26341,7 +27694,11 @@ the 0
 grisly 0
 killings 0
 of 0
-two 0Joliet 1Shorewood 1woman 0
+two 0
+Joliet 1
+
+Shorewood 1
+woman 0
 convicted 0
 in 0
 the 0
@@ -26408,15 +27765,23 @@ dead 0
 inside 0
 a 0
 residence 0
-on 0Hickory 1
-Street 1. 0
+on 0
+Hickory 1
+Street 1
+. 0
 At 0
 her 0
 trial 0
-, 0Will 1
-County 1Will 1
-County 1Will 1
+, 0
+Will 1
 County 1
+
+Will 1
+County 1
+
+Will 1
+County 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -26441,8 +27806,10 @@ in 0
 a 0
 crash 0
 on 0
-the 0Eisenhower 1
-Expressway 1. 0
+the 0
+Eisenhower 1
+Expressway 1
+. 0
 Fire 0
 officials 0
 said 0
@@ -26470,12 +27837,14 @@ the 0
 stolen 0
 car 0
 on 0
-the 0eastbound 1
+the 0
+eastbound 1
 Eisenhower 1
 Expressway 1
 at 1
 Ashland 1
 Avenue 1
+
 The 0
 murder 0
 total 0
@@ -26593,7 +27962,8 @@ the 0
 city 0
 , 0
 with 0
-the 0South 1
+the 0
+South 1
 and 1
 West 1
 Side 1
@@ -26602,6 +27972,7 @@ of 1
 Austin 1
 and 1
 Englewood 1
+
 Four 0
 peole 0
 were 0
@@ -26609,9 +27980,14 @@ were 0
 shot 0
 in 0
 the 0
-Hu 0mbo 1ldt 1
+Hu 0
+mbo 1
+ldt 1
 Park 1
-neighborhood 1Hu 1mboldt 0
+neighborhood 1
+
+Hu 1
+mboldt 0
 Park 0
 neighborhood 0
 Tuesday 0
@@ -26648,12 +28024,15 @@ about 0
 8:30 0
 p.m. 0
 in 0
-the 0800 1
+the 0
+800 1
 block 1
 of 1
 North 1
 Monticello 1
-Avenu 1Four 0
+Avenu 1
+
+Four 0
 peole 0
 were 0
 were 0
@@ -26771,7 +28150,8 @@ shot 0
 about 0
 12:50 0
 p.m. 0
-in 07800 1
+in 0
+7800 1
 block 1
 of 1
 South 1
@@ -26783,6 +28163,7 @@ Grand 1
 Crossing 1
 neighborhood 1
 . 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -26795,8 +28176,10 @@ charged 0
 with 0
 breaking 0
 into 0
-a 0Mount 1
-Prospect 1home 0
+a 0
+Mount 1
+Prospect 1
+home 0
 , 0
 where 0
 a 0
@@ -26826,9 +28209,11 @@ broke 0
 into 0
 a 0
 home 0
-on 0North 1
+on 0
+North 1
 William 1
 Street 1
+
 A 0
 Pennsylvania 0
 man 0
@@ -26837,9 +28222,11 @@ been 0
 convicted 0
 of 0
 traveling 0
-to 0west 1
+to 0
+west 1
 suburban 1
-Aurora 1to 0
+Aurora 1
+to 0
 pay 0
 to 0
 have 0
@@ -26882,16 +28269,22 @@ felonies 0
 , 0
 according 0
 to 0
-the 0Kane 1
-County 1Aurora 1
+the 0
+Kane 1
+County 1
+
+Aurora 1
+
 The 0
 U.S 0
 . 0
 Marshals 0
 Service 0
 and 0
-the 0Lake 1
-County 1Sheriff 0
+the 0
+Lake 1
+County 1
+Sheriff 0
 's 0
 Office 0
 Warrants 0
@@ -26914,8 +28307,10 @@ fatal 0
 crash 0
 last 0
 April 0
-in 0North 1
-Chicago 1. 0
+in 0
+North 1
+Chicago 1
+. 0
 Sherrod 0
 E. 0
 Abraham 0
@@ -26923,12 +28318,16 @@ Abraham 0
 28 0
 , 0
 of 0
-the 02600 1
+the 0
+2600 1
 block 1
 of 1
 Cornelia 1
-Avenue 1North 1
-Chicago 1. 0
+Avenue 1
+
+North 1
+Chicago 1
+. 0
 Sherrod 0
 E. 0
 Abraham 0
@@ -27138,10 +28537,16 @@ in 0
 the 0
 northbound 0
 lanes 0
-of 0Route 1
-41 1near 0Northpoint 1
-Boulevard 1North 1
+of 0
+Route 1
+41 1
+near 0
+Northpoint 1
+Boulevard 1
+
+North 1
 Chicago 1
+
 A 0
 Chicago 0
 man 0
@@ -27163,7 +28568,9 @@ Thursday 0
 evening 0
 in 0
 southwest 0
-suburban 0Burbank 1. 0
+suburban 0
+Burbank 1
+. 0
 The 0
 30-year-old 0
 and 0
@@ -27178,11 +28585,13 @@ Chicago 0
 were 0
 driving 0
 west 0
-on 079th 1
+on 0
+79th 1
 Street 1
 near 1
 Mason 1
-Avenue 1in 0
+Avenue 1
+in 0
 a 0
 2004 0
 Ford 0
@@ -27256,10 +28665,12 @@ pulled 0
 over 0
 the 0
 pickup 0
-at 079th 1
+at 0
+79th 1
 and 1
 Austin 1
 Avenue 1
+
 ** 0
 CHICAGO 0
 ( 0
@@ -27331,10 +28742,12 @@ about 0
 a.m. 0
 Saturday 0
 in 0
-the 0Southwest 1
+the 0
+Southwest 1
 Side 1
 Gage 1
-Park 1neighborhood 0
+Park 1
+neighborhood 0
 , 0
 where 0
 a 0
@@ -27346,13 +28759,15 @@ in 0
 the 0
 neck 0
 in 0
-the 02500 1
+the 0
+2500 1
 block 1
 of 1
 West 1
 50th 1
 Street 1
-, 1according 0
+, 1
+according 0
 to 0
 Chicago 0
 Police 0
@@ -27391,14 +28806,16 @@ four 0
 hours 0
 earlier 0
 in 0
-the 0Albany 1
+the 0
+Albany 1
 Park 1
 neighborhood 1
 on 1
 the 1
 Northwest 1
 Side 1
-. 1The 0
+. 1
+The 0
 29-year-old 0
 was 0
 sitting 0
@@ -27412,11 +28829,13 @@ in 0
 an 0
 alley 0
 off 0
-the 04400 1
+the 0
+4400 1
 block 1
 of 1
 North 1
-Whipple 1when 0
+Whipple 1
+when 0
 another 0
 car 0
 pulled 0
@@ -27461,14 +28880,18 @@ a 0
 man 0
 was 0
 on 0
-a 0Lawndale 1
-neighborhood 1sidewalk 0
+a 0
+Lawndale 1
+neighborhood 1
+sidewalk 0
 in 0
-the 01600 1
+the 0
+1600 1
 block 1
 of 1
 South 1
-Drake 1when 0
+Drake 1
+when 0
 someone 0
 shot 0
 him 0
@@ -27513,13 +28936,17 @@ in 0
 a 0
 vehicle 0
 parked 0
-in 0Gresham 1
+in 0
+Gresham 1
 ’ 1
-s 17500 1
+s 1
+
+7500 1
 block 1
 of 1
 South 1
-Union 1, 0
+Union 1
+, 0
 police 0
 said 0
 . 0
@@ -27545,8 +28972,10 @@ condition 0
 About 0
 8:20 0
 p.m. 0
-in 0Brighton 1
-Park 1, 0
+in 0
+Brighton 1
+Park 1
+, 0
 bullets 0
 grazed 0
 the 0
@@ -27563,12 +28992,14 @@ a 0
 25-year-old 0
 woman 0
 in 0
-the 02900 1
+the 0
+2900 1
 block 1
 of 1
 West 1
 40th 1
-Street 1. 0
+Street 1
+. 0
 They 0
 declined 0
 treatment 0
@@ -27589,14 +29020,18 @@ sitting 0
 in 0
 front 0
 of 0
-an 0Austin 1
-neighborhood 1home 0
+an 0
+Austin 1
+neighborhood 1
+home 0
 in 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 North 1
-Lockwood 1when 0
+Lockwood 1
+when 0
 someone 0
 walked 0
 up 0
@@ -27628,18 +29063,22 @@ between 0
 two 0
 people 0
 inside 0
-a 0South 1
+a 0
+South 1
 Side 1
 Chicago 1
 Lawn 1
-neighborhood 1business 0
+neighborhood 1
+business 0
 in 0
-the 02700 1
+the 0
+2700 1
 block 1
 of 1
 West 1
 63rd 1
-Street 1, 0
+Street 1
+, 0
 and 0
 it 0
 ended 0
@@ -27702,13 +29141,15 @@ about 0
 4:20 0
 p.m. 0
 in 0
-the 0Humboldt 1
+the 0
+Humboldt 1
 Park 1
 neighborhood 1
 on 1
 the 1
 West 1
-Side 1. 0
+Side 1
+. 0
 A 0
 21-year-old 0
 man 0
@@ -27718,12 +29159,14 @@ past 0
 a 0
 group 0
 in 0
-the 0900 1
+the 0
+900 1
 block 1
 of 1
 North 1
 Central 1
 Park 1
+
 Police 0
 are 0
 asking 0
@@ -27751,9 +29194,11 @@ a 0
 week 0
 ago 0
 in 0
-the 0East 1
+the 0
+East 1
 Garfield 1
-Park 1neighborhood 0
+Park 1
+neighborhood 0
 on 0
 the 0
 West 0
@@ -27768,12 +29213,14 @@ a.m. 0
 July 0
 28 0
 in 0
-the 03500 1
+the 0
+3500 1
 block 1
 of 1
 West 1
 Congress 1
-, 1according 0
+, 1
+according 0
 to 0
 Chicago 0
 Police 0
@@ -27818,10 +29265,12 @@ office 0
 He 0
 lived 0
 in 0
-the 0South 1
+the 0
+South 1
 Side 1
 New 1
 City 1
+
 CHICAGO 0
 ( 0
 Sun-Times 0
@@ -28016,27 +29465,38 @@ last 0
 seen 0
 heading 0
 west 0
-on 0Congress 1
+on 0
+Congress 1
 from 1
 St. 1
-Loui 1s 1
-. 1South 1
+Loui 1
+s 1
+. 1
+
+South 1
 Side 1
 New 1
 City 1
 neighborhood 1
-. 13500 1
+. 1
+
+3500 1
 block 1
 of 1
 West 1
 Congress 1
-, 1East 1
+, 1
+
+East 1
 Garfield 1
-Park 1neighborhood 0
+Park 1
+neighborhood 0
 on 0
-the 0West 1
+the 0
+West 1
 Side 1
 . 1
+
 CHICAGO 0
 — 0
 A 0
@@ -28046,7 +29506,9 @@ was 0
 shot 0
 to 0
 death 0
-in 0Englewood 1on 0
+in 0
+Englewood 1
+on 0
 Saturday 0
 night 0
 , 0
@@ -28058,12 +29520,14 @@ man 0
 was 0
 driving 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 West 1
 57th 1
 Street 1
+
 CHICAGO 0
 — 0
 A 0
@@ -28089,12 +29553,14 @@ the 0
 man 0
 was 0
 in 0
-the 05200 1
+the 0
+5200 1
 block 1
 of 1
 West 1
 Addison 1
 Street 1
+
 CHICAGO 0
 — 0
 A 0
@@ -28118,12 +29584,14 @@ the 0
 man 0
 was 0
 in 0
-the 01200 1
+the 0
+1200 1
 block 1
 of 1
 West 1
 Leland 1
 Avenue 1
+
 CHICAGO 0
 — 0
 A 0
@@ -28153,12 +29621,14 @@ the 0
 two 0
 were 0
 in 0
-the 06900 1
+the 0
+6900 1
 block 1
 of 1
 West 1
 65th 1
 Street 1
+
 Chicago 0
 police 0
 are 0
@@ -28211,21 +29681,25 @@ before 0
 3:30 0
 a.m. 0
 in 0
-the 03500 1
+the 0
+3500 1
 block 1
 of 1
 West 1
 Congress 1
 Parkway 1
-. 1Hopkins 0
+. 1
+Hopkins 0
 , 0
 of 0
-the 05300 1
+the 0
+5300 1
 block 1
 of 1
 South 1
 Aberdeen 1
 Street 1
+
 ! 0
 [ 0
 ] 0
@@ -28252,7 +29726,11 @@ Denver 0
 ] 0
 [ 0
 7 0
-] 0DENVER 1Denver 1
+] 0
+DENVER 1
+
+Denver 1
+
 Police 0
 have 0
 released 0
@@ -28279,8 +29757,10 @@ Green 0
 Line 0
 train 0
 in 0
-the 0South 1
-Loop 1last 0
+the 0
+South 1
+Loop 1
+last 0
 month 0
 . 0
 About 0
@@ -28306,13 +29786,15 @@ Roosevelt 0
 station 0
 in 0
 the 0
-1 0100 1
+1 0
+100 1
 block 1
 of 1
 South 1
 State 1
 Street 1
-, 1according 0
+, 1
+according 0
 to 0
 a 0
 community 0
@@ -28344,8 +29826,10 @@ off 0
 the 0
 train 0
 at 0
-the 043rd 1
+the 0
+43rd 1
 Street 1
+
 ** 0
 CHICAGO 0
 ( 0
@@ -28382,8 +29866,10 @@ Green 0
 Line 0
 train 0
 in 0
-the 0South 1
-Loop 1last 0
+the 0
+South 1
+Loop 1
+last 0
 month 0
 . 0
 About 0
@@ -28408,12 +29894,14 @@ the 0
 Roosevelt 0
 station 0
 in 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 South 1
 State 1
-Stree 1t 0
+Stree 1
+t 0
 , 0
 according 0
 to 0
@@ -28447,8 +29935,10 @@ off 0
 the 0
 train 0
 at 0
-the 043rd 1
+the 0
+43rd 1
 Street 1
+
 ! 0
 [ 0
 A 0
@@ -28478,8 +29968,10 @@ Google 0
 ; 0
 FBI 0
 Bandit 0
-Tracker 0LINCOLN 1
-SQUARE 1— 0
+Tracker 0
+LINCOLN 1
+SQUARE 1
+— 0
 A 0
 man 0
 is 0
@@ -28494,9 +29986,11 @@ of 0
 the 0
 Albany 0
 Bank 0
-at 0Western 1
+at 0
+Western 1
 and 1
 Montrose 1
+
 ** 0
 SUN 0
 TIMES 0
@@ -28520,14 +30014,18 @@ fatal 0
 shooting 0
 of 0
 a 0
-south 0suburban 1
+south 0
+suburban 1
 man 1
 early 1
 Saturday 1
 in 1
 northwest 1
 Indiana 1
-. 1south 1suburban 0
+. 1
+
+south 1
+suburban 0
 man 0
 early 0
 Saturday 0
@@ -28548,7 +30046,8 @@ a 0
 gunshot 0
 victim 0
 in 0
-the 05400 1
+the 0
+5400 1
 block 1
 of 1
 West 1
@@ -28562,6 +30061,7 @@ statement 1
 from 1
 Gary 1
 police 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -28593,13 +30093,15 @@ an 0
 officer-involved 0
 shooting 0
 on 0
-the 0Bishop 1
+the 0
+Bishop 1
 Ford 1
 Expressway 1
 at 1
 130th 1
 Street 1
 . 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -28664,13 +30166,17 @@ during 0
 the 0
 chase 0
 , 0
-around 0130th 1
+around 0
+130th 1
 Street 1
 and 1
 Bishop 1
 Ford 1
-, 1Hazel 1
+, 1
+
+Hazel 1
 Crest 1
+
 A 0
 gunman 0
 fired 0
@@ -28695,13 +30201,15 @@ vehicle 0
 rear 0
 bumper 0
 in 0
-the 0Park 1
+the 0
+Park 1
 Manor 1
 neighborhood 1
 on 1
 the 1
 South 1
-Side 1Monday 0
+Side 1
+Monday 0
 night 0
 , 0
 authorities 0
@@ -28711,12 +30219,14 @@ The 0
 incident 0
 happened 0
 in 0
-the 06900 1
+the 0
+6900 1
 block 1
 of 1
 South 1
 Rhodes 1
 Avenue 1
+
 _ 0
 ** 0
 _ 0
@@ -28795,7 +30305,9 @@ Schmidt 0
 , 0
 29 0
 , 0
-of 0Beecher 1
+of 0
+Beecher 1
+
 Cook 0
 County 0
 authorities 0
@@ -28885,12 +30397,14 @@ a 0
 vacant 0
 home 0
 in 0
-the 015400 1
+the 0
+15400 1
 block 1
 of 1
 Hamlin 1
 in 1
-Markham 1, 0
+Markham 1
+, 0
 according 0
 to 0
 Markham 0
@@ -28927,11 +30441,13 @@ when 0
 this 0
 home 0
 in 0
-the 015400 1
+the 0
+15400 1
 block 1
 of 1
 South 1
 Hamlin 1
+
 A 0
 man 0
 has 0
@@ -28992,10 +30508,14 @@ Fox 0
 , 0
 according 0
 to 0
-the 0DuPage 1
-Count 1west 1
+the 0
+DuPage 1
+Count 1
+
+west 1
 suburban 1
 home 1
+
 Kane 0
 County 0
 Judge 0
@@ -29070,7 +30590,9 @@ sexual 0
 assault 0
 in 0
 2014 0
-. 0A 1jury 0
+. 0
+A 1
+jury 0
 convicted 0
 Buhay 0
 after 0
@@ -29102,7 +30624,9 @@ and 0
 his 0
 wife 0
 in 0
-A 0urora 1
+A 0
+urora 1
+
 Eleven 0
 people 0
 were 0
@@ -29116,13 +30640,15 @@ of 0
 the 0
 weekend 0
 on 0
-the 0South 1
+the 0
+South 1
 and 1
 West 1
 sides 1
 of 1
 Chicago 1
-, 1leaving 0
+, 1
+leaving 0
 a 0
 man 0
 dead 0
@@ -29135,7 +30661,8 @@ about 0
 a.m 0
 Saturday 0
 near 0
-the 0Parkway 1
+the 0
+Parkway 1
 Gardens 1
 public 1
 housing 1
@@ -29152,10 +30679,13 @@ fired 1
 in 1
 the 1
 6200 1
-block 1of 1
+block 1
+
+of 1
 South 1
 King 1
 Drive 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -29219,12 +30749,14 @@ in 0
 the 0
 back 0
 in 0
-the 03600 1
+the 0
+3600 1
 block 1
 of 1
 West 1
 Ohio 1
-, 1according 0
+, 1
+according 0
 to 0
 Chicago 0
 Police 0
@@ -29293,11 +30825,13 @@ on 0
 a 0
 corner 0
 in 0
-the 02000 1
+the 0
+2000 1
 block 1
 of 1
 South 1
-Leavitt 1when 0
+Leavitt 1
+when 0
 two 0
 males 0
 in 0
@@ -29368,14 +30902,16 @@ in 0
 the 0
 torso 0
 in 0
-the 06400 1
+the 0
+6400 1
 block 1
 of 1
 South 1
 Champlain 1
 in 1
 the 1
-Woodlawn 1neighborhood 0
+Woodlawn 1
+neighborhood 0
 on 0
 the 0
 South 0
@@ -29433,11 +30969,13 @@ when 0
 officers 0
 arrived 0
 in 0
-the 06200 1
+the 0
+6200 1
 block 1
 of 1
 South 1
-Laflin 1, 0
+Laflin 1
+, 0
 police 0
 and 0
 the 0
@@ -29497,11 +31035,13 @@ approached 0
 the 0
 man 0
 in 0
-the 03300 1
+the 0
+3300 1
 block 1
 of 1
 West 1
-Potomac 1and 0
+Potomac 1
+and 0
 shot 0
 him 0
 in 0
@@ -29558,12 +31098,14 @@ of 0
 shots 0
 fired 0
 in 0
-the 06200 1
+the 0
+6200 1
 block 1
 of 1
 South 1
 King 1
-Drive 1found 0
+Drive 1
+found 0
 a 0
 31-year-old 0
 man 0
@@ -29638,11 +31180,13 @@ at 0
 the 0
 station 0
 in 0
-the 05900 1
+the 0
+5900 1
 lock 1
 of 1
 South 1
-Morgan 1, 0
+Morgan 1
+, 0
 and 0
 at 0
 least 0
@@ -29711,12 +31255,14 @@ man 0
 was 0
 driving 0
 in 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 West 1
 101st 1
 Street 1
+
 CHICAGO 0
 — 0
 A 0
@@ -29726,7 +31272,9 @@ died 0
 after 0
 a 0
 shooting 0
-in 0Woodlawn 1on 0
+in 0
+Woodlawn 1
+on 0
 Sunday 0
 , 0
 officials 0
@@ -29740,12 +31288,14 @@ the 0
 man 0
 was 0
 in 0
-the 06400 1
+the 0
+6400 1
 block 1
 of 1
 South 1
 Champlain 1
 Avenue 1
+
 `` 0
 Slow 0
 & 0
@@ -29795,8 +31345,10 @@ It 0
 took 0
 place 0
 in 0
-the 0Pilsen 1
+the 0
+Pilsen 1
 neighborhood 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -29837,15 +31389,19 @@ about 0
 a.m. 0
 in 0
 the 0
-1 0300 1
+1 0
+300 1
 block 1
 of 1
 North 1
 Spaulding 1
+
 CHICAGO 0
 -- 0
 A 0
-53-year-old 0Chicago 1elementary 0
+53-year-old 0
+Chicago 1
+elementary 0
 teacher 0
 faces 0
 federal 0
@@ -29881,10 +31437,12 @@ at 0
 a 0
 public 0
 school 0
-on 0Chicago 1
+on 0
+Chicago 1
 's 1
 South 1
 Side 1
+
 Police 0
 said 0
 Wednesday 0
@@ -29968,8 +31526,10 @@ before 0
 10 0
 p.m. 0
 Tuesday 0
-on 0Birchwood 1
+on 0
+Birchwood 1
 Drive 1
+
 A 0
 man 0
 was 0
@@ -29977,11 +31537,13 @@ shot 0
 Wednesday 0
 night 0
 in 0
-the 0West 1
+the 0
+West 1
 Garfield 1
 Park 1
 neighborhood 1
-. 1The 0
+. 1
+The 0
 28-year-old 0
 was 0
 walking 0
@@ -29998,17 +31560,21 @@ he 0
 was 0
 shot 0
 in 0
-the 0400 1
+the 0
+400 1
 block 1
 of 1
 South 1
 Kostner 1
 , 1
+
 EVANSVILLE 1
 , 1
 Ind 1
 . 1
-CHICAGO 1( 0
+
+CHICAGO 1
+( 0
 WLS 0
 ) 0
 -- 0
@@ -30056,11 +31622,13 @@ patrons 0
 at 0
 the 0
 location 0
-at 0Michigan 1
+at 0
+Michigan 1
 Avenue 1
 and 1
 Lake 1
 Street 1
+
 A 0
 man 0
 has 0
@@ -30081,10 +31649,12 @@ a 0
 car 0
 Monday 0
 morning 0
-in 0south 1
+in 0
+south 1
 suburban 1
 Robbins 1
-. 1Shaymontae 0
+. 1
+Shaymontae 0
 Mobley 0
 , 0
 19 0
@@ -30112,20 +31682,24 @@ in 0
 a 0
 car 0
 in 0
-the 014000 1
+the 0
+14000 1
 block 1
 of 1
 Finley 1
 Avenue 1
 in 1
 Robbins 1
+
 All 0
 northbound 0
 lanes 0
 of 0
-the 0Dan 1
+the 0
+Dan 1
 Ryan 1
-Expressway 1were 0
+Expressway 1
+were 0
 closed 0
 Thursday 0
 afternoon 0
@@ -30152,13 +31726,15 @@ p.m. 0
 about 0
 shots 0
 fired 0
-o 0n 1
+o 0
+n 1
 northbound 1
 I-90/94 1
 near 1
 71st 1
 Street 1
 , 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -30185,10 +31761,12 @@ carjacking 0
 late 0
 Thursday 0
 night 0
-on 0Chicago 1
+on 0
+Chicago 1
 's 1
 South 1
-Side 1, 0
+Side 1
+, 0
 police 0
 said 0
 . 0
@@ -30210,11 +31788,13 @@ with 0
 another 0
 man 0
 in 0
-the 0400-block 1
+the 0
+400-block 1
 of 1
 West 1
 Winneconna 1
 Parkway 1
+
 Two 0
 babies 0
 whose 0
@@ -30360,12 +31940,15 @@ Mariam 0
 Jane 0
 was 0
 born 0
-in 0C 1hicago 1
+in 0
+C 1
+hicago 1
 ’ 1
 s 1
 Uptown 1
 neighborhood 1
-, 1” 0
+, 1
+” 0
 according 0
 to 0
 Walker 0
@@ -30501,13 +32084,17 @@ an 0
 apartment 0
 building 0
 in 0
-the 0800 1
+the 0
+800 1
 block 1
 of 1
 West 1
 Eastwood 1
 , 1
-** 0CHICAGO 1
+
+** 0
+CHICAGO 1
+
 ** 0
 ( 0
 CBS 0
@@ -30520,12 +32107,14 @@ have 0
 been 0
 fatally 0
 shot 0
-in 0Chicago 1
+in 0
+Chicago 1
 's 1
 Brighton 1
 Park 1
 neighborhood 1
-. 1Police 0
+. 1
+Police 0
 say 0
 they 0
 responded 0
@@ -30537,16 +32126,20 @@ fired 0
 around 0
 8:30 0
 p.m. 0
-at 047th 1
+at 0
+47th 1
 and 1
 South 1
 Fairfield 1
+
 The 0
 shooting 0
 death 0
 of 0
-an 0Chicago 1
-Heights 1teenager 0
+an 0
+Chicago 1
+Heights 1
+teenager 0
 over 0
 the 0
 weekend 0
@@ -30587,11 +32180,13 @@ occurred 0
 near 0
 the 0
 intersection 0
-of 015th 1
+of 0
+15th 1
 and 1
 Wallace 1
 streets 1
 , 1
+
 A 0
 man 0
 is 0
@@ -30607,8 +32202,10 @@ shootings 0
 on 0
 the 0
 South 0
-and 0Southwest 1
-sides 1, 0
+and 0
+Southwest 1
+sides 1
+, 0
 Chicago 0
 police 0
 said 0
@@ -30630,9 +32227,11 @@ the 0
 Southwest 0
 Side 0
 in 0
-the 0Gage 1
+the 0
+Gage 1
 Park 1
-neighborhood 1. 0
+neighborhood 1
+. 0
 About 0
 10:15 0
 a.m. 0
@@ -30655,13 +32254,15 @@ who 0
 opened 0
 fire 0
 in 0
-the 02500 1
+the 0
+2500 1
 block 1
 of 1
 West 1
 58th 1
 Street 1
 , 1
+
 Four 0
 people 0
 , 0
@@ -30687,8 +32288,10 @@ shooting 0
 on 0
 Chicago 0
 ’ 0
-s 0Southwest 1
-Side 1Friday 0
+s 0
+Southwest 1
+Side 1
+Friday 0
 night 0
 . 0
 Around 0
@@ -30712,18 +32315,22 @@ in 0
 a 0
 vehicle 0
 in 0
-the 04700 1
+the 0
+4700 1
 block 1
 of 1
 South 1
 Fairfield 1
-Avenue 1in 0
+Avenue 1
+in 0
 the 0
 city 0
 ’ 0
-s 0Brighton 1
+s 0
+Brighton 1
 Park 1
 neighborhood 1
+
 A 0
 man 0
 charged 0
@@ -30734,12 +32341,16 @@ man 0
 early 0
 Saturday 0
 in 0
-the 0East 1
+the 0
+East 1
 Garfield 1
 Park 1
-neighborhood 1on 0
-the 0West 1
-Side 1has 0
+neighborhood 1
+on 0
+the 0
+West 1
+Side 1
+has 0
 been 0
 ordered 0
 held 0
@@ -30820,11 +32431,13 @@ groups 0
 of 0
 people 0
 in 0
-the 0500 1
+the 0
+500 1
 block 1
 of 1
 North 1
 Kedzie 1
+
 One 0
 man 0
 was 0
@@ -30834,9 +32447,11 @@ two 0
 others 0
 wounded 0
 in 0
-[ 0Waukegan 1
+[ 0
+Waukegan 1
 ] 1
-[ 15 0
+[ 1
+5 0
 ] 0
 after 0
 a 0
@@ -30900,11 +32515,13 @@ approximately 0
 2:30 0
 a.m. 0
 in 0
-the 0600 1
+the 0
+600 1
 block 1
 of 1
 Pickus 1
 Court 1
+
 A 0
 man 0
 was 0
@@ -30915,7 +32532,8 @@ wounded 0
 Monday 0
 night 0
 in 0
-the 0South 1
+the 0
+South 1
 Deering 1
 neighborhood 1
 on 1
@@ -30923,7 +32541,8 @@ the 1
 Far 1
 South 1
 Side 1
-. 1The 0
+. 1
+The 0
 25-year-old 0
 was 0
 walking 0
@@ -30934,11 +32553,13 @@ at 0
 11:27 0
 p.m. 0
 in 0
-the 010600 1
+the 0
+10600 1
 block 1
 of 1
 South 1
 Yates 1
+
 Two 0
 men 0
 were 0
@@ -30946,9 +32567,11 @@ shot 0
 Thursday 0
 afternoon 0
 in 0
-the 0Pilsen 1
+the 0
+Pilsen 1
 neighborhood 1
-. 1The 0
+. 1
+The 0
 shooting 0
 happened 0
 just 0
@@ -30956,7 +32579,8 @@ before 0
 1 0
 p.m. 0
 in 0
-the 02000 1
+the 0
+2000 1
 block 1
 of 1
 South 1
@@ -30967,6 +32591,7 @@ to 1
 Chicago 1
 Police 1
 . 1
+
 A 0
 man 0
 was 0
@@ -30975,7 +32600,8 @@ dead 0
 early 0
 Friday 0
 in 0
-the 0Austin 1
+the 0
+Austin 1
 neighborhood 1
 on 1
 the 1
@@ -30984,7 +32610,8 @@ Side 1
 , 1
 police 1
 said 1
-. 1The 0
+. 1
+The 0
 30-year-old 0
 was 0
 standing 0
@@ -30993,11 +32620,13 @@ about 0
 12:05 0
 a.m. 0
 in 0
-the 04800 1
+the 0
+4800 1
 block 1
 of 1
 West 1
 Quincy 1
+
 Bond 0
 was 0
 denied 0
@@ -31024,14 +32653,16 @@ companion 0
 early 0
 Saturday 0
 in 0
-the 0East 1
+the 0
+East 1
 Chatham 1
 neighborhood 1
 on 1
 the 1
 South 1
 Side 1
-. 1A 0
+. 1
+A 0
 Chicago 0
 Police 0
 officer 0
@@ -31056,12 +32687,14 @@ with 0
 a 0
 weapon 0
 in 0
-the 08100 1
+the 0
+8100 1
 block 1
 of 1
 South 1
 Maryland 1
 , 1
+
 ! 0
 [ 0
 A 0
@@ -31148,14 +32781,18 @@ Both 0
 incidents 0
 happened 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 West 1
 31st 1
 Street 1
-, 1Armour 1
+, 1
+
+Armour 1
 Square 1
+
 A 0
 man 0
 was 0
@@ -31167,13 +32804,15 @@ shooting 0
 Tuesday 0
 night 0
 in 0
-the 0Englewood 1
+the 0
+Englewood 1
 neighborhood 1
 on 1
 the 1
 South 1
 Side 1
-. 1The 0
+. 1
+The 0
 20-year-old 0
 was 0
 at 0
@@ -31183,11 +32822,13 @@ about 0
 8:15 0
 p.m. 0
 in 0
-the 07100 1
+the 0
+7100 1
 block 1
 of 1
 South 1
 Aberdeen 1
+
 A 0
 man 0
 was 0
@@ -31198,14 +32839,16 @@ robbed 0
 before 0
 being 0
 thrown 0
-into 0Lake 1
+into 0
+Lake 1
 Michigan 1
 outside 1
 Chicago 1
 's 1
 Shedd 1
 Aquarium 1
-e 1arly 0
+e 1
+arly 0
 Wednesday 0
 morning 0
 . 0
@@ -31220,12 +32863,14 @@ just 0
 before 0
 midnight 0
 in 0
-the 01200 1
+the 0
+1200 1
 block 1
 of 1
 Lake 1
 Shore 1
 Drive 1
+
 ! 0
 [ 0
 A 0
@@ -31264,15 +32909,20 @@ subbu 0
 arumugam 0
 CHICAGO 0
 — 0
-The 0Addison 1
+The 0
+Addison 1
 Red 1
 Line 1
-station 1CHICAGO 1
+station 1
+
+CHICAGO 1
+
 WASHINGTON 1
 CROSSING 1
 , 1
 Pa 1
 . 1
+
 Two 0
 attempted 0
 abductions 0
@@ -31287,8 +32937,12 @@ apart 0
 Sunday 0
 night 0
 in 0
-the 0Pilsen 1and 0Armour 1
-Square 1neighborhoods 0
+the 0
+Pilsen 1
+and 0
+Armour 1
+Square 1
+neighborhoods 0
 . 0
 Just 0
 after 0
@@ -31303,12 +32957,14 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 West 1
 19th 1
-Street 1when 0
+Street 1
+when 0
 a 0
 man 0
 parked 0
@@ -31414,12 +33070,14 @@ was 0
 walking 0
 east 0
 in 0
-the 01000 1
+the 0
+1000 1
 block 1
 of 1
 West 1
 18th 1
 Street 1
+
 Fyre 0
 Festival 0
 organizer 0
@@ -31529,7 +33187,9 @@ McFarland 0
 on 0
 Monday 0
 appeared 0
-in 0Manhattan 1
+in 0
+Manhattan 1
+
 A 0
 Chicago 0
 man 0
@@ -31559,11 +33219,13 @@ Crenshaw 0
 a 0
 23-year-old 0
 from 0
-the 0South 1
+the 0
+South 1
 Side 1
 Bronzeville 1
 neighborhood 1
-, 1was 0
+, 1
+was 0
 arrested 0
 last 0
 week 0
@@ -31610,13 +33272,15 @@ Sept. 0
 12 0
 at 0
 a 0
-business 0near 1
+business 0
+near 1
 routes 1
 59 1
 and 1
 173 1
 in 1
 Antioch 1
+
 CHICAGO 0
 — 0
 Chicago 0
@@ -31660,16 +33324,19 @@ their 0
 vehicle 0
 over 0
 in 0
-the 05800 1
+the 0
+5800 1
 Block 1
 of 1
 Cumberland 1
+
 Three 0
 men 0
 were 0
 wounded 0
 in 0
-a 0Bronzeville 1
+a 0
+Bronzeville 1
 neighborhood 1
 shooting 1
 early 1
@@ -31678,7 +33345,8 @@ on 1
 the 1
 South 1
 Side 1
-. 1The 0
+. 1
+The 0
 group 0
 was 0
 standing 0
@@ -31690,12 +33358,14 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 04500 1
+the 0
+4500 1
 block 1
 of 1
 South 1
 Cottage 1
 Grove 1
+
 A 0
 30-year-old 0
 man 0
@@ -31706,10 +33376,12 @@ death 0
 Sunday 0
 evening 0
 in 0
-the 0West 1
+the 0
+West 1
 Side 1
 Austin 1
-neighborhood 1, 0
+neighborhood 1
+, 0
 according 0
 to 0
 Chicago 0
@@ -31726,11 +33398,13 @@ at 0
 7:26 0
 p.m. 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 North 1
 Mason 1
+
 A 0
 46-year-old 0
 man 0
@@ -31742,22 +33416,26 @@ wounded 0
 Monday 0
 afternoon 0
 in 0
-the 0South 1
+the 0
+South 1
 Shore 1
 neighborhood 1
-. 1The 0
+. 1
+The 0
 shooting 0
 happened 0
 at 0
 2:10 0
 p.m. 0
 in 0
-the 07300 1
+the 0
+7300 1
 block 1
 of 1
 South 1
 Dante 1
 , 1
+
 A 0
 19-year-old 0
 man 0
@@ -31766,9 +33444,13 @@ wounded 0
 Friday 0
 afternoon 0
 in 0
-a 0South 1
-Side 1Princeton 1
-Park 1neighborhood 0
+a 0
+South 1
+Side 1
+
+Princeton 1
+Park 1
+neighborhood 0
 shooting 0
 . 0
 He 0
@@ -31783,11 +33465,13 @@ about 0
 3:45 0
 p.m. 0
 in 0
-the 09400 1
+the 0
+9400 1
 block 1
 of 1
 South 1
 Yale 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -31861,7 +33545,8 @@ Police 0
 . 0
 She 0
 was 0
-then 0dropped 1
+then 0
+dropped 1
 off 1
 at 1
 the 1
@@ -31871,6 +33556,7 @@ of 1
 and 1
 Peoria 1
 . 1
+
 ** 0
 SUN 0
 TIMES 0
@@ -31910,12 +33596,14 @@ at 0
 8:09 0
 p.m. 0
 in 0
-the 0400 1
+the 0
+400 1
 block 1
 of 1
 Arlington 1
 Avenue 1
 , 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -31931,11 +33619,13 @@ different 0
 stores 0
 Tuesday 0
 morning 0
-on 0Chicago 1
+on 0
+Chicago 1
 's 1
 Northwest 1
 Side 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 Officers 0
@@ -31950,15 +33640,19 @@ around 0
 2:30 0
 a.m. 0
 in 0
-the 01500-block 1
+the 0
+1500-block 1
 of 1
 North 1
 Milwaukee 1
 Avenue 1
 . 1
+
 Police 0
-in 0West 1
+in 0
+West 1
 Chicago 1
+
 A 0
 man 0
 was 0
@@ -31969,13 +33663,15 @@ death 0
 late 0
 Wednesday 0
 in 0
-the 0South 1
+the 0
+South 1
 Shore 1
 neighborhood 1
 , 1
 police 1
 said 1
-. 1Officers 0
+. 1
+Officers 0
 responded 0
 at 0
 11:15 0
@@ -31998,15 +33694,19 @@ a 0
 parking 0
 lot 0
 in 0
-the 07800 1
+the 0
+7800 1
 block 1
 of 1
 South 1
 Cornell 1
 , 1
-** 0ROSEMONT 1
+
+** 0
+ROSEMONT 1
 , 1
 Ill 1
+
 Two 0
 men 0
 were 0
@@ -32018,8 +33718,10 @@ a 0
 drive-by 0
 shooting 0
 in 0
-the 0North 1
-Lawndale 1neighborhood 0
+the 0
+North 1
+Lawndale 1
+neighborhood 0
 on 0
 the 0
 West 0
@@ -32035,11 +33737,13 @@ sedan 0
 passed 0
 by 0
 in 0
-the 03600 1
+the 0
+3600 1
 block 1
 of 1
 West 1
 Douglas 1
+
 ! 0
 [ 0
 ] 0
@@ -32058,35 +33762,45 @@ faking 0
 burglary 0
 , 0
 shooting 0
-in 0St. 1
-Charles 1! 0
+in 0
+St. 1
+Charles 1
+! 0
 [ 0
 ] 0
 [ 0
 6 0
-] 0ST. 1
+] 0
+ST. 1
 CHARLES 1
 , 1
 Ill 1
-. 1St. 1
+. 1
+
+St. 1
 Charles 1
+
 A 0
 man 0
 was 0
 wounded 0
 in 0
-a 0West 1
+a 0
+West 1
 Rogers 1
 Park 1
-neighborhoo 1d 0
+neighborhoo 1
+d 0
 drive-by 0
 shooting 0
 Saturday 0
 night 0
 on 0
-the 0Northwest 1
+the 0
+Northwest 1
 Side 1
-. 1The 0
+. 1
+The 0
 30-year-old 0
 was 0
 standing 0
@@ -32098,11 +33812,13 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 02600 1
+the 0
+2600 1
 block 1
 of 1
 West 1
 Peterson 1
+
 Police 0
 are 0
 warning 0
@@ -32114,7 +33830,8 @@ of 0
 armed 0
 robberies 0
 in 0
-the 0Beverly 1
+the 0
+Beverly 1
 and 1
 Morgan 1
 Park 1
@@ -32123,7 +33840,8 @@ on 1
 the 1
 Far 1
 South 1
-Sid 1e. 0
+Sid 1
+e. 0
 In 0
 four 0
 incidents 0
@@ -32185,7 +33903,8 @@ a.m. 0
 Oct. 0
 12 0
 in 0
-the 09500 1
+the 0
+9500 1
 block 1
 of 1
 South 1
@@ -32235,6 +33954,7 @@ West 1
 98th 1
 Street 1
 . 1
+
 ﻿ 0
 About 0
 two 0
@@ -32263,8 +33983,10 @@ store 0
 on 0
 Chicago 0
 ’ 0
-s 0South 1
+s 0
+South 1
 Side 1
+
 A 0
 student 0
 has 0
@@ -32278,10 +34000,12 @@ on 0
 Twitter 0
 to 0
 shoot 0
-up 0Plainfield 1
+up 0
+Plainfield 1
 Central 1
 High 1
 School 1
+
 [ 0
 ! 0
 [ 0
@@ -32295,12 +34019,14 @@ gas 0
 station 0
 parking 0
 lot 0
-by 0Jackson 1
+by 0
+Jackson 1
 Boulevard 1
 and 1
 Cicero 1
 Avenue 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 ] 0
@@ -32392,25 +34118,29 @@ shot 0
 at 0
 them 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 South 1
 Cicero 1
 Avenue 1
 , 1
+
 [ 0
 ! 0
 [ 0
 Neighbors 0
 on 0
-the 06100 1
+the 0
+6100 1
 block 1
 of 1
 South 1
 Kimbark 1
 Avenue 1
 s 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -32438,15 +34168,19 @@ The 0
 18-year-old 0
 was 0
 in 0
-a 0Washington 1
-Park 1neighborhood 0
+a 0
+Washington 1
+Park 1
+neighborhood 0
 alley 0
 in 0
-the 05700 1
+the 0
+5700 1
 block 1
 of 1
 South 1
-Calumet 1about 0
+Calumet 1
+about 0
 8:10 0
 p.m. 0
 when 0
@@ -32519,8 +34253,10 @@ man 0
 was 0
 shot 0
 in 0
-the 0North 1
-Lawndale 1neighborhood 0
+the 0
+North 1
+Lawndale 1
+neighborhood 0
 on 0
 the 0
 West 0
@@ -32533,12 +34269,14 @@ The 0
 was 0
 walking 0
 in 0
-the 03800 1
+the 0
+3800 1
 block 1
 of 1
 West 1
 19th 1
-Street 1at 0
+Street 1
+at 0
 11:10 0
 p.m. 0
 when 0
@@ -32600,12 +34338,16 @@ about 0
 10:40 0
 p.m. 0
 in 0
-the 05900 1
+the 0
+5900 1
 block 1
 of 1
 South 1
-Campbell 1in 0Gage 1
-Park 1, 0
+Campbell 1
+in 0
+Gage 1
+Park 1
+, 0
 police 0
 said 0
 . 0
@@ -32634,7 +34376,9 @@ investigators 0
 About 0
 7:20 0
 p.m. 0
-in 0Austin 1, 0
+in 0
+Austin 1
+, 0
 two 0
 men 0
 were 0
@@ -32642,11 +34386,13 @@ on 0
 a 0
 porch 0
 in 0
-the 0800 1
+the 0
+800 1
 block 1
 of 1
 North 1
-Lorel 1when 0
+Lorel 1
+when 0
 a 0
 group 0
 of 0
@@ -32714,13 +34460,17 @@ about 0
 5:30 0
 p.m. 0
 in 0
-the 03300 1
+the 0
+3300 1
 block 1
 of 1
 South 1
-Hamilton 1in 0
-the 0McKinley 1
-Park 1neighborhood 0
+Hamilton 1
+in 0
+the 0
+McKinley 1
+Park 1
+neighborhood 0
 , 0
 police 0
 said 0
@@ -32742,9 +34492,11 @@ About 0
 4 0
 p.m. 0
 in 0
-the 0East 1
+the 0
+East 1
 Garfield 1
-Park 1neighborhood 0
+Park 1
+neighborhood 0
 , 0
 a 0
 45-year-old 0
@@ -32755,11 +34507,13 @@ on 0
 a 0
 corner 0
 in 0
-the 02800 1
+the 0
+2800 1
 block 1
 of 1
 West 1
-Harrison 1when 0
+Harrison 1
+when 0
 someone 0
 walked 0
 up 0
@@ -32805,14 +34559,18 @@ about 0
 2:15 0
 p.m. 0
 in 0
-the 0Back 1
+the 0
+Back 1
 of 1
 the 1
-Yards 1’ 04700 1
+Yards 1
+’ 0
+4700 1
 block 1
 of 1
 South 1
-Ada 1when 0
+Ada 1
+when 0
 someone 0
 drove 0
 up 0
@@ -32877,7 +34635,9 @@ about 0
 hours 0
 earlier 0
 in 0
-the 0Roseland 1neighborhood 0
+the 0
+Roseland 1
+neighborhood 0
 on 0
 the 0
 Far 0
@@ -32890,12 +34650,14 @@ man 0
 was 0
 walking 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 West 1
 113th 1
 Street 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -32917,7 +34679,8 @@ a 0
 gas 0
 station 0
 on 0
-the 06300 1
+the 0
+6300 1
 block 1
 of 1
 West 1
@@ -32928,6 +34691,7 @@ Portage 1
 Park 1
 neighborhood 1
 . 1
+
 [ 0
 ! 0
 [ 0
@@ -32935,11 +34699,13 @@ Armando 0
 Vadillo 0
 , 0
 of 0
-the 03900 1
+the 0
+3900 1
 block 1
 of 1
 North 1
-Clark 1, 0
+Clark 1
+, 0
 has 0
 been 0
 charged 0
@@ -33058,11 +34824,13 @@ entered 0
 Nuts 0
 On 0
 Clark 0
-, 03830 1
+, 0
+3830 1
 N. 1
 Clark 1
 St 1
 . 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -33092,8 +34860,10 @@ of 0
 a 0
 6-year-old 0
 girl 0
-in 0Logan 1
-Square 1] 0
+in 0
+Logan 1
+Square 1
+] 0
 [ 0
 1 0
 ] 0
@@ -33108,11 +34878,13 @@ while 0
 playing 0
 outside 0
 in 0
-the 02100-block 1
+the 0
+2100-block 1
 of 1
 North 1
 Bingham 1
 Street 1
+
 [ 0
 ! 0
 [ 0
@@ -33187,11 +34959,13 @@ COOK 0
 COUNTY 0
 CRIMINAL 0
 COURTHOUSE 0
-— 0The 1
+— 0
+The 1
 West 1
 Loop 1
 tanning 1
 salon 1
+
 Last 0
 June 0
 , 0
@@ -33199,11 +34973,13 @@ a 0
 gunman 0
 opened 0
 fire 0
-at 0Emanuel 1
+at 0
+Emanuel 1
 African 1
 Methodist 1
 Episcopal 1
 Church 1
+
 A 0
 [ 0
 Naperville 0
@@ -33249,12 +35025,16 @@ Dickens 0
 37 0
 , 0
 of 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 Testa 1
-Driv 1Naperville 1
+Driv 1
+
+Naperville 1
 ] 1
+
 _by 0
 Gretchen 0
 Rachel 0
@@ -33285,7 +35065,9 @@ Hall 0
 Apartments 0
 in 0
 Chicago 0
-'s 0Lakeview 1
+'s 0
+Lakeview 1
+
 A 0
 Chicago 0
 police 0
@@ -33310,22 +35092,26 @@ the 0
 Puerto 0
 Rican 0
 festival 0
-at 0Humboldt 1
+at 0
+Humboldt 1
 Park 1
-. 1The 0
+. 1
+The 0
 incident 0
 occurred 0
 around 0
 9 0
 p.m. 0
 in 0
-the 01600 1
+the 0
+1600 1
 block 1
 of 1
 North 1
 Washtenaw 1
 Avenue 1
 , 1
+
 **CHICAGO 0
 ( 0
 STMW 0
@@ -33344,14 +35130,16 @@ pool 0
 early 0
 Monday 0
 in 0
-the 0North 1
+the 0
+North 1
 Lawndale 1
 neighborhood 1
 on 1
 the 1
 Southwest 1
 Side 1
-. 1Officers 0
+. 1
+Officers 0
 responding 0
 about 0
 12:50 0
@@ -33365,12 +35153,14 @@ in 0
 the 0
 pool 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 South 1
 Kolin 1
 , 1
+
 ** 0
 ( 0
 STMW 0
@@ -33656,12 +35446,14 @@ released 0
 Douglas 0
 , 0
 of 0
-the 05000 1
+the 0
+5000 1
 block 1
 of 1
 West 1
 Thomas 1
 Street 1
+
 [ 0
 ! 0
 [ 0
@@ -33768,13 +35560,15 @@ his 0
 left 0
 leg 0
 in 0
-the 03500 1
+the 0
+3500 1
 block 1
 of 1
 South 1
 Cottage 1
 Grove 1
-A 1venue 0
+A 1
+venue 0
 in 0
 Bronzeville 0
 , 0
@@ -33851,7 +35645,8 @@ woman 0
 was 0
 standing 0
 in 0
-the 03000 1
+the 0
+3000 1
 block 1
 of 1
 West 1
@@ -33859,7 +35654,8 @@ Lexington 1
 Street 1
 in 1
 North 1
-Lawndale 1when 0
+Lawndale 1
+when 0
 someone 0
 shot 0
 at 0
@@ -33921,7 +35717,8 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 08900 1
+the 0
+8900 1
 block 1
 of 1
 South 1
@@ -33929,7 +35726,8 @@ Parnell 1
 Avenue 1
 in 1
 Auburn 1
-Gresham 1when 0
+Gresham 1
+when 0
 someone 0
 jumped 0
 out 0
@@ -34024,7 +35822,8 @@ in 0
 his 0
 arm 0
 in 0
-the 07500 1
+the 0
+7500 1
 block 1
 of 1
 South 1
@@ -34036,7 +35835,8 @@ Shore 1
 , 1
 Lemmon 1
 said 1
-. 1The 0
+. 1
+The 0
 man 0
 brought 0
 himself 0
@@ -34080,7 +35880,8 @@ man 0
 was 0
 walking 0
 in 0
-the 011900 1
+the 0
+11900 1
 block 1
 of 1
 South 1
@@ -34088,7 +35889,8 @@ Stewart 1
 Avenue 1
 in 1
 West 1
-Pullman 1when 0
+Pullman 1
+when 0
 someone 0
 tried 0
 to 0
@@ -34200,13 +36002,15 @@ near 0
 Street 0
 Beach 0
 in 0
-the 04300 1
+the 0
+4300 1
 block 1
 of 1
 South 1
 Lake 1
 Shore 1
 Drive 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -34221,14 +36025,18 @@ and 0
 another 0
 wounded 0
 in 0
-a 0West 1
+a 0
+West 1
 Englewood 1
-neighborhood 1shooting 0
+neighborhood 1
+shooting 0
 late 0
 Thursday 0
 on 0
-the 0South 1
-Side 1, 0
+the 0
+South 1
+Side 1
+, 0
 police 0
 said 0
 . 0
@@ -34246,11 +36054,13 @@ about 0
 10:30 0
 p.m. 0
 in 0
-the 06400 1
+the 0
+6400 1
 block 1
 of 1
 South 1
-Damen 1when 0
+Damen 1
+when 0
 someone 0
 walked 0
 up 0
@@ -34297,13 +36107,15 @@ left 0
 leg 0
 and 0
 taken 0
-to 0Advocate 1
+to 0
+Advocate 1
 Christ 1
 Medical 1
 Center 1
 in 1
 Oak 1
 Lawn 1
+
 # 0
 # 0
 Chicago 0
@@ -34781,13 +36593,29 @@ South 0
 and 0
 West 0
 sides 0
-– 0East 1
+– 0
+East 1
 Garfield 1
-Park 1, 0North 1
-Lawndale 1, 0Oakland 1, 0Fuller 1
-Park 1, 0Washington 1
-Park 1, 0Englewood 1, 0West 1
-Englewood 1and 0Pullman 1
+Park 1
+, 0
+North 1
+Lawndale 1
+, 0
+Oakland 1
+, 0
+Fuller 1
+Park 1
+, 0
+Washington 1
+Park 1
+, 0
+Englewood 1
+, 0
+West 1
+Englewood 1
+and 0
+Pullman 1
+
 [ 0
 ! 0
 [ 0
@@ -34795,11 +36623,13 @@ The 0
 incident 0
 took 0
 place 0
-by 0Princeton 1
+by 0
+Princeton 1
 Avenue 1
 and 1
 Root 1
-Street 1, 0
+Street 1
+, 0
 police 0
 said 0
 . 0
@@ -34866,13 +36696,17 @@ of 0
 a 0
 residence 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 West 1
 Root 1
-Stree 1FULLER 1
+Stree 1
+
+FULLER 1
 PARK 1
+
 [ 0
 ! 0
 [ 0
@@ -34926,8 +36760,10 @@ Provided 0
 inset 0
 photos 0
 DNAinfo/Patty 0
-Wetli 0LINCOLN 1
-SQUARE 1— 0
+Wetli 0
+LINCOLN 1
+SQUARE 1
+— 0
 Security 0
 cameras 0
 at 0
@@ -34948,8 +36784,10 @@ recently 0
 attempted 0
 to 0
 scam 0
-multiple 0Lincoln 1
-Square 1bars 0
+multiple 0
+Lincoln 1
+Square 1
+bars 0
 . 0
 He 0
 does 0
@@ -35019,12 +36857,14 @@ Mash 0
 — 0
 all 0
 in 0
-the 04500 1
+the 0
+4500 1
 block 1
 of 1
 North 1
 Lincoln 1
-Avenue 1— 0
+Avenue 1
+— 0
 with 0
 a 0
 variation 0
@@ -35126,12 +36966,16 @@ Jerry 0
 's 0
 Lincoln 0
 Square 0
-, 04739 1
+, 0
+4739 1
 N. 1
 Lincoln 1
 Ave 1
-. 1Lincoln 1
-Square 1bars 0
+. 1
+
+Lincoln 1
+Square 1
+bars 0
 . 0
 He 0
 does 0
@@ -35387,8 +37231,10 @@ had 0
 tried 0
 his 0
 luck 0
-in 0Lincoln 1
-Park 1, 0
+in 0
+Lincoln 1
+Park 1
+, 0
 with 0
 similar 0
 results 0
@@ -35415,9 +37261,11 @@ ChicagoBarShop 0
 [ 0
 6 0
 ] 0
-and 0Lincoln 1
+and 0
+Lincoln 1
 Park 1
 Armitage 1
+
 **SUMMIT 0
 ( 0
 CBS 0
@@ -35479,11 +37327,13 @@ at 0
 a 0
 Shell 0
 Station 0
-at 063rd 1
+at 0
+63rd 1
 Street 1
 and 1
 Harlem 1
-, 1one 0
+, 1
+one 0
 of 0
 the 0
 suspects 0
@@ -35626,10 +37476,12 @@ preceded 0
 another 0
 one 0
 in 0
-the 05300 1
+the 0
+5300 1
 block 1
 of 1
-Harlem 1by 0
+Harlem 1
+by 0
 the 0
 same 0
 men 0
@@ -35725,12 +37577,14 @@ man 0
 pumping 0
 gas 0
 in 0
-the 08900 1
+the 0
+8900 1
 block 1
 of 1
 South 1
 Chicago 1
 Avenue 1
+
 An 0
 Aurora 0
 man 0
@@ -35745,10 +37599,12 @@ February 0
 was 0
 sentenced 0
 Thursday 0
-in 0DuPage 1
+in 0
+DuPage 1
 County 1
 Circuit 1
-Cour 1t 0
+Cour 1
+t 0
 to 0
 12 0
 years 0
@@ -35762,13 +37618,15 @@ Greenwall 0
 27 0
 , 0
 of 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 Hill 1
 Avenue 1
 in 1
 Auror 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -35835,10 +37693,14 @@ is 0
 located 0
 about 0
 three 0
-hours 0south 1
+hours 0
+south 1
 of 1
 Chicago 1
-. 1Decatur 1
+. 1
+
+Decatur 1
+
 [ 0
 ! 0
 [ 0
@@ -35909,7 +37771,9 @@ leg 0
 during 0
 an 0
 argument 0
-in 0Englewood 1Tuesday 0
+in 0
+Englewood 1
+Tuesday 0
 afternoon 0
 , 0
 police 0
@@ -35927,12 +37791,14 @@ in 0
 a 0
 car 0
 in 0
-the 05700 1
+the 0
+5700 1
 block 1
 of 1
 South 1
 Bishop 1
 Street 1
+
 The 0
 cell 0
 phone 0
@@ -35983,10 +37849,12 @@ owner 0
 of 0
 Sara 0
 Jane 0
-, 01343 1
+, 0
+1343 1
 N. 1
 Wells 1
-St 1. 0
+St 1
+. 0
 `` 0
 They 0
 just 0
@@ -36053,19 +37921,25 @@ Green 0
 , 0
 a 0
 florist 0
-at 01718 1
+at 0
+1718 1
 N. 1
-Wells 1, 0
+Wells 1
+, 0
 and 0
 String 0
 a 0
 Strand 0
-, 01361 1
-N. 1
-Wells 11343 1
+, 0
+1361 1
 N. 1
 Wells 1
-St 1. 0
+
+1343 1
+N. 1
+Wells 1
+St 1
+. 0
 `` 0
 They 0
 just 0
@@ -36240,10 +38114,12 @@ Franklin 0
 Fine 0
 Arts 0
 Center 0
-, 0225 1
+, 0
+225 1
 W. 1
 Evergreen 1
 Ave 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -36265,10 +38141,12 @@ a 0
 police 0
 chase 0
 in 0
-the 0Grand 1
+the 0
+Grand 1
 Crossing 1
 neighborhood 1
-. 1CBS 0
+. 1
+CBS 0
 2 0
 's 0
 Audrina 0
@@ -36321,7 +38199,8 @@ just 0
 after 0
 6 0
 p.m. 0
-on 076th 1
+on 0
+76th 1
 and 1
 South 1
 Chicago 1
@@ -36331,14 +38210,17 @@ Grand 1
 Crossing 1
 neighborhood 1
 . 1
+
 **CHICAGO 0
 ( 0
 CBS 0
 ) 0
 ** 0
 -- 0
-A 0northwest 1
-suburban 1man 0
+A 0
+northwest 1
+suburban 1
+man 0
 has 0
 been 0
 charged 0
@@ -36407,11 +38289,13 @@ girl 0
 s 0
 home 0
 in 0
-the 01200 1
+the 0
+1200 1
 block 1
 of 1
 Fleetwood 1
 Drive 1
+
 Two 0
 men 0
 have 0
@@ -36447,14 +38331,17 @@ happened 0
 Sunday 0
 afternoon 0
 in 0
-the 0Riv 1erdale 1
+the 0
+Riv 1
+erdale 1
 neighborhood 1
 on 1
 the 1
 Far 1
 South 1
 Side 1
-. 1* 0
+. 1
+* 0
 # 0
 # 0
 # 0
@@ -36496,12 +38383,14 @@ parked 0
 blue 0
 SUV 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 East 1
 136th 1
-Street 1when 0
+Street 1
+when 0
 he 0
 was 0
 approached 0
@@ -36534,14 +38423,16 @@ scene 0
 He 0
 lived 0
 in 0
-the 015000 1
+the 0
+15000 1
 block 1
 of 1
 Vine 1
 Avenue 1
 in 1
 Harvey 1
-. 1The 0
+. 1
+The 0
 other 0
 fatal 0
 shooting 0
@@ -36549,14 +38440,16 @@ happened 0
 Friday 0
 night 0
 in 0
-t 0he 1
+t 0
+he 1
 Chatham 1
 neighborhood 1
 on 1
 the 1
 South 1
 Side 1
-. 1Just 0
+. 1
+Just 0
 after 0
 10 0
 p.m. 0
@@ -36580,12 +38473,14 @@ inside 0
 a 0
 home 0
 in 0
-the 08000 1
+the 0
+8000 1
 block 1
 of 1
 South 1
 Evans 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 He 0
@@ -36652,7 +38547,8 @@ happened 0
 Sunday 0
 night 0
 in 0
-the 0Woodlawn 1
+the 0
+Woodlawn 1
 neighborhood 1
 on 1
 the 1
@@ -36660,7 +38556,8 @@ South 1
 Side 1
 near 1
 Jackson 1
-Park 1. 0
+Park 1
+. 0
 About 0
 7 0
 p.m. 0
@@ -36679,13 +38576,15 @@ woman 0
 were 0
 shot 0
 in 0
-th 0e 1
+th 0
+e 1
 6600 1
 block 1
 of 1
 South 1
 Stony 1
-Island 1, 0
+Island 1
+, 0
 according 0
 to 0
 police 0
@@ -36761,8 +38660,10 @@ boy 0
 was 0
 shot 0
 in 0
-the 0Lawndale 1
-neighborhood 1on 0
+the 0
+Lawndale 1
+neighborhood 1
+on 0
 the 0
 Southwest 0
 Side 0
@@ -36778,11 +38679,13 @@ he 0
 was 0
 outside 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 South 1
-Millard 1when 0
+Millard 1
+when 0
 he 0
 heard 0
 gunshots 0
@@ -36820,7 +38723,8 @@ man 0
 was 0
 shot 0
 in 0
-th 0e 1
+th 0
+e 1
 West 1
 Pullman 1
 neighborhood 1
@@ -36829,7 +38733,8 @@ the 1
 Far 1
 South 1
 Side 1
-. 1About 0
+. 1
+About 0
 1:35 0
 a.m. 0
 , 0
@@ -36841,12 +38746,14 @@ in 0
 an 0
 alley 0
 in 0
-the 0600 1
+the 0
+600 1
 block 1
 of 1
 West 1
 129th 1
-Place 1when 0
+Place 1
+when 0
 someone 0
 in 0
 a 0
@@ -36912,14 +38819,16 @@ man 0
 was 0
 shot 0
 in 0
-th 0e 1
+th 0
+e 1
 Lawndale 1
 neighborhood 1
 on 1
 the 1
 Southwest 1
 Side 1
-. 1The 0
+. 1
+The 0
 20-year-old 0
 man 0
 was 0
@@ -36928,11 +38837,13 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 04000 1
+the 0
+4000 1
 block 1
 of 1
 South 1
-Polk 1when 0
+Polk 1
+when 0
 two 0
 people 0
 walked 0
@@ -36972,9 +38883,11 @@ man 0
 was 0
 shot 0
 in 0
-the 0North 1
+the 0
+North 1
 Austin 1
-neighborhood 1on 0
+neighborhood 1
+on 0
 the 0
 West 0
 Side 0
@@ -36991,11 +38904,13 @@ a 0
 two-flat 0
 building 0
 in 0
-the 01600 1
+the 0
+1600 1
 block 1
 of 1
 North 1
-Mason 1when 0
+Mason 1
+when 0
 a 0
 person 0
 approached 0
@@ -37059,14 +38974,16 @@ woman 0
 was 0
 shot 0
 in 0
-the 0Humboldt 1
+the 0
+Humboldt 1
 Park 1
 neighborhood 1
 on 1
 the 1
 West 1
 Side 1
-. 1The 0
+. 1
+The 0
 19-year-old 0
 told 0
 investigators 0
@@ -37079,11 +38996,13 @@ at 0
 12:25 0
 p.m. 0
 in 0
-the 0900 1
+the 0
+900 1
 block 1
 of 1
 North 1
-Homan 1when 0
+Homan 1
+when 0
 a 0
 car 0
 pulled 0
@@ -37131,13 +39050,15 @@ seriously 0
 wounded 0
 in 0
 the 0
-P 0rinceton 1
+P 0
+rinceton 1
 Park 1
 neighborhood 1
 on 1
 the 1
 South 1
-Sid 1e. 0
+Sid 1
+e. 0
 The 0
 28-year-old 0
 was 0
@@ -37151,11 +39072,13 @@ at 0
 6:21 0
 a.m. 0
 in 0
-the 09100 1
+the 0
+9100 1
 block 1
 of 1
 South 1
 Wentworth 1
+
 A 0
 fire 0
 expert 0
@@ -37169,7 +39092,9 @@ the 0
 conviction 0
 of 0
 a 0
-[ 0Naperville 1] 0
+[ 0
+Naperville 1
+] 0
 [ 0
 1 0
 ] 0
@@ -37305,9 +39230,17 @@ in 0
 a 0
 recliner 0
 in 0
-the 0East 1
+the 0
+East 1
 Bailey 1
-Road 1Naperville 1Naperville 1Naperville 1
+Road 1
+
+Naperville 1
+
+Naperville 1
+
+Naperville 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -37348,11 +39281,13 @@ of 0
 an 0
 unarmed 0
 teenager 0
-in 0West 1
+in 0
+West 1
 Englewood 1
 . 1
 Chica 1
 go 1
+
 A 0
 Palos 0
 Township 0
@@ -37606,8 +39541,12 @@ the 0
 gruesome 0
 slaying 0
 of 0
-a 0Palos 1
-Park 1Bridgeview 1, 0
+a 0
+Palos 1
+Park 1
+
+Bridgeview 1
+, 0
 in 0
 front 0
 of 0
@@ -37879,11 +39818,13 @@ in 0
 their 0
 home 0
 in 0
-the 012700 1
+the 0
+12700 1
 block 1
 of 1
 81st 1
 Court 1
+
 Lionel 0
 White 0
 was 0
@@ -38118,8 +40059,10 @@ public 0
 housing 0
 complex 0
 on 0
-the 0South 1
+the 0
+South 1
 Side 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -38139,10 +40082,14 @@ girl 0
 Friday 0
 night 0
 in 0
-the 0Englewood 1neighborhood 0
+the 0
+Englewood 1
+neighborhood 0
 on 0
-the 0South 1
+the 0
+South 1
 Side 1
+
 A 0
 29-year-old 0
 man 0
@@ -38153,9 +40100,11 @@ he 0
 caused 0
 a 0
 crash 0
-in 0north 1
+in 0
+north 1
 suburban 1
-Skokie 1that 0
+Skokie 1
+that 0
 left 0
 his 0
 passenger 0
@@ -38184,12 +40133,14 @@ Nov. 0
 17 0
 crash 0
 in 0
-the 04200 1
+the 0
+4200 1
 block 1
 of 1
 Golf 1
 Road 1
 , 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -38219,10 +40170,12 @@ three 0
 people 0
 injured 0
 on 0
-the 0Near 1
+the 0
+Near 1
 No 1
 rth 1
-Side 1. 0
+Side 1
+. 0
 About 0
 2:45 0
 a.m. 0
@@ -38232,9 +40185,11 @@ Pontiac 0
 was 0
 speeding 0
 west 0
-on 0West 1
+on 0
+West 1
 Division 1
-Street 1when 0
+Street 1
+when 0
 the 0
 vehicle 0
 drifted 0
@@ -38264,9 +40219,11 @@ light 0
 at 0
 the 0
 intersection 0
-with 0North 1
+with 0
+North 1
 Orleans 1
 Street 1
+
 Two 0
 people 0
 were 0
@@ -38274,8 +40231,10 @@ shot 0
 Thursday 0
 afternoon 0
 in 0
-the 0South 1
-Shore 1neighborhood 0
+the 0
+South 1
+Shore 1
+neighborhood 0
 . 0
 The 0
 shooting 0
@@ -38284,11 +40243,13 @@ at 0
 1:11 0
 p.m. 0
 in 0
-the 07900 1
+the 0
+7900 1
 block 1
 of 1
 South 1
 Exchange 1
+
 CHICAGO 0
 — 0
 Juan 0
@@ -38300,8 +40261,10 @@ was 0
 shot 0
 to 0
 death 0
-in 0Brighton 1
-Park 1early 0
+in 0
+Brighton 1
+Park 1
+early 0
 Saturday 0
 , 0
 officials 0
@@ -38323,12 +40286,15 @@ found 0
 the 0
 man 0
 in 0
-the 03000 1
-b 1lock 1
+the 0
+3000 1
+b 1
+lock 1
 of 1
 West 1
 38th 1
-Plac 1e 0
+Plac 1
+e 0
 , 0
 police 0
 said 0
@@ -38371,13 +40337,15 @@ said 0
 Gonzalez 0
 , 0
 of 0
-the 03300 1
+the 0
+3300 1
 block 1
 of 1
 West 1
 38th 1
 Street 1
 , 1
+
 A 0
 woman 0
 was 0
@@ -38385,10 +40353,14 @@ shot 0
 Saturday 0
 evening 0
 in 0
-the 0Gresham 1neighborhood 0
+the 0
+Gresham 1
+neighborhood 0
 on 0
-the 0South 1
-Side 1. 0
+the 0
+South 1
+Side 1
+. 0
 At 0
 6:10 0
 p.m. 0
@@ -38402,11 +40374,13 @@ of 0
 her 0
 vehicle 0
 in 0
-the 08600 1
+the 0
+8600 1
 block 1
 of 1
 South 1
 Morgan 1
+
 As 0
 many 0
 as 0
@@ -38418,10 +40392,12 @@ shot 0
 in 0
 the 0
 city 0
-'s 0East 1
+'s 0
+East 1
 Chatham 1
 neighborhood 1
-, 1sources 0
+, 1
+sources 0
 said 0
 , 0
 citing 0
@@ -38432,12 +40408,14 @@ Officers 0
 were 0
 called 0
 to 0
-the 08600 1
+the 0
+8600 1
 block 1
 of 1
 South 1
 Maryland 1
 Avenue 1
+
 [ 0
 ! 0
 [ 0
@@ -38513,15 +40491,19 @@ man 0
 was 0
 driving 0
 in 0
-the 04800 1
+the 0
+4800 1
 block 1
 of 1
 South 1
 Bishop 1
-Street 1BACK 1
+Street 1
+
+BACK 1
 OF 1
 THE 1
 YARDS 1
+
 A 0
 woman 0
 was 0
@@ -38529,11 +40511,15 @@ shot 0
 Tuesday 0
 night 0
 in 0
-the 0Washington 1
-Park 1neighborhood 0
+the 0
+Washington 1
+Park 1
+neighborhood 0
 on 0
-the 0South 1
-Side 1. 0
+the 0
+South 1
+Side 1
+. 0
 About 0
 11:30 0
 p.m. 0
@@ -38544,11 +40530,13 @@ answered 0
 her 0
 door 0
 in 0
-the 05200 1
+the 0
+5200 1
 block 1
 of 1
 South 1
 Prairie 1
+
 A 0
 man 0
 was 0
@@ -38559,9 +40547,11 @@ head 0
 early 0
 Saturday 0
 in 0
-the 0Gage 1
+the 0
+Gage 1
 Park 1
-neighborhood 1on 0
+neighborhood 1
+on 0
 the 0
 Southwest 0
 Side 0
@@ -38576,11 +40566,13 @@ the 0
 was 0
 driving 0
 in 0
-the 05600 1
+the 0
+5600 1
 block 1
 of 1
 South 1
 Albany 1
+
 A 0
 man 0
 was 0
@@ -38592,13 +40584,15 @@ from 0
 an 0
 assault 0
 in 0
-the 0Sleepy 1
+the 0
+Sleepy 1
 Hollow 1
 neighborhood 1
 on 1
 the 1
 Southwest 1
-Sid 1e. 0
+Sid 1
+e. 0
 Louis 0
 Pena 0
 , 0
@@ -38618,12 +40612,14 @@ at 0
 9:20 0
 a.m. 0
 in 0
-the 04200 1
+the 0
+4200 1
 block 1
 of 1
 South 1
 Keating 1
 , 1
+
 A 0
 24-year-old 0
 [ 0
@@ -38640,11 +40636,13 @@ in 0
 a 0
 double 0
 shooting 0
-on 0Aurora 1
+on 0
+Aurora 1
 's 1
 Near 1
 East 1
-Side 1had 0
+Side 1
+had 0
 been 0
 using 0
 a 0
@@ -38668,12 +40666,14 @@ are 0
 investigating 0
 what 0
 happened 0
-near 0Spring 1
+near 0
+Spring 1
 Street 1
 and 1
 State 1
 Street 1
-, 1where 0
+, 1
+where 0
 the 0
 shooting 0
 was 0
@@ -38691,12 +40691,14 @@ Radillo 0
 24 0
 , 0
 of 0
-the 0800 1
+the 0
+800 1
 block 1
 of 1
 Fifth 1
 Street 1
 , 1
+
 The 0
 Chicago 0
 Police 0
@@ -38708,8 +40710,10 @@ an 0
 unarmed 0
 man 0
 on 0
-the 0Northwest 1
-Side 1was 0
+the 0
+Northwest 1
+Side 1
+was 0
 stripped 0
 of 0
 his 0
@@ -38739,13 +40743,15 @@ about 0
 9:15 0
 a.m. 0
 Monday 0
-in 0the 1
+in 0
+the 1
 2500 1
 block 1
 of 1
 North 1
 Lowell 1
 , 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -38762,14 +40768,18 @@ was 0
 critically 0
 wounded 0
 in 0
-a 0Homan 1
-Square 1neighborhood 0
+a 0
+Homan 1
+Square 1
+neighborhood 0
 shooting 0
 Tuesday 0
 night 0
 on 0
-the 0West 1
-Side 1. 0
+the 0
+West 1
+Side 1
+. 0
 Officers 0
 responding 0
 at 0
@@ -38782,11 +40792,13 @@ of 0
 shots 0
 fired 0
 in 0
-the 03200 1
+the 0
+3200 1
 block 1
 of 1
 West 1
-Lexington 1found 0
+Lexington 1
+found 0
 two 0
 men 0
 lying 0
@@ -38843,11 +40855,13 @@ said 0
 He 0
 lived 0
 in 0
-the 03600 1
+the 0
+3600 1
 block 1
 of 1
 West 1
 Douglas 1
+
 SANTA 0
 ANA 0
 , 0
@@ -38888,7 +40902,9 @@ taken 0
 into 0
 custody 0
 and 0
-booked 0robbery 1and 0
+booked 0
+robbery 1
+and 0
 assault 0
 with 0
 a 0
@@ -38909,13 +40925,15 @@ Arco 0
 gas 0
 station 0
 near 0
-the 0intersection 1
+the 0
+intersection 1
 of 1
 Main 1
 Street 1
 and 1
 MacArthur 1
 Boulevard 1
+
 A 0
 father 0
 and 0
@@ -38933,7 +40951,9 @@ to 0
 sell 0
 in 0
 northwest 0
-suburban 0Elgin 1. 0
+suburban 0
+Elgin 1
+. 0
 Travis 0
 Charles 0
 , 0
@@ -39037,11 +41057,13 @@ Charles 0
 family 0
 home 0
 in 0
-the 0600 1
+the 0
+600 1
 block 1
 of 1
 Slade 1
 Avenue 1
+
 The 0
 sister 0
 of 0
@@ -39151,12 +41173,14 @@ about 0
 a.m. 0
 Monday 0
 in 0
-the 02500 1
+the 0
+2500 1
 block 1
 of 1
 North 1
 Lowell 1
 , 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -39174,10 +41198,12 @@ death 0
 Saturday 0
 morning 0
 in 0
-the 0University 1
+the 0
+University 1
 Village 1
 neighborhood 1
-, 1authorities 0
+, 1
+authorities 0
 said 0
 . 0
 He 0
@@ -39202,11 +41228,13 @@ about 0
 9:50 0
 a.m. 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 West 1
 Hastings 1
+
 A 0
 man 0
 was 0
@@ -39252,7 +41280,8 @@ a 0
 running 0
 vehicle 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 West 1
@@ -39261,7 +41290,8 @@ Street 1
 in 1
 the 1
 University 1
-Village 1neighborhood 0
+Village 1
+neighborhood 0
 . 0
 When 0
 they 0
@@ -39317,7 +41347,8 @@ at 0
 1:40 0
 a.m. 0
 in 0
-the 0A 1
+the 0
+A 1
 rcadia 1
 Terrace 1
 neighborhood 1
@@ -39326,6 +41357,7 @@ the 1
 North 1
 Side 1
 . 1
+
 BEVERLY 0
 — 0
 [ 0
@@ -39357,7 +41389,8 @@ at 0
 p.m. 0
 Saturday 0
 in 0
-the 010300 1
+the 0
+10300 1
 block 1
 of 1
 South 1
@@ -39370,7 +41403,9 @@ Avenue 1
 in 1
 Beverly 1
 . 1
-CHICAGO 1-- 0
+
+CHICAGO 1
+-- 0
 Chicago 0
 police 0
 are 0
@@ -39387,13 +41422,17 @@ discovered 0
 this 0
 morning 0
 in 0
-the 06900 1
+the 0
+6900 1
 block 1
 of 1
 South 1
 Wentworth 1
-Avenue 1in 0
-the 0Englewood 1neighborhood 0
+Avenue 1
+in 0
+the 0
+Englewood 1
+neighborhood 0
 . 0
 Early 0
 reports 0
@@ -39440,9 +41479,11 @@ far 0
 from 0
 the 0
 corner 0
-of 069th 1
+of 0
+69th 1
 and 1
 Wentworth 1
+
 Two 0
 men 0
 were 0
@@ -39450,23 +41491,27 @@ shot 0
 Wednesday 0
 morning 0
 in 0
-the 0West 1
+the 0
+West 1
 Side 1
 Austin 1
 neighborhood 1
-. 1The 0
+. 1
+The 0
 shooting 0
 happened 0
 at 0
 9:34 0
 a.m. 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 North 1
 Lockwood 1
 , 1
+
 Two 0
 people 0
 were 0
@@ -39481,10 +41526,14 @@ the 0
 South 0
 Side 0
 Englewood 0
-neighborhood 0. 1South 1
+neighborhood 0
+. 1
+
+South 1
 Side 1
 Englewood 1
-neighborhood 1. 0
+neighborhood 1
+. 0
 The 0
 shooting 0
 happened 0
@@ -39505,7 +41554,8 @@ inside 0
 a 0
 vehicle 0
 in 0
-the 05700 1
+the 0
+5700 1
 block 1
 of 1
 South 1
@@ -39515,6 +41565,7 @@ Chicago 1
 Police 1
 said 1
 . 1
+
 A 0
 man 0
 suffered 0
@@ -39529,10 +41580,12 @@ afternoon 0
 in 0
 the 0
 South 0
-Side 0Back 1
+Side 0
+Back 1
 of 1
 the 1
-Yards 1neighborhood 0
+Yards 1
+neighborhood 0
 . 0
 The 0
 28-year-old 0
@@ -39544,17 +41597,20 @@ before 0
 2 0
 p.m. 0
 in 0
-the 05200 1
+the 0
+5200 1
 block 1
 of 1
 South 1
 Marshfield 1
+
 # 1
 # 1
 # 1
 # 1
 Related 1
 Stories 1
+
 A 0
 man 0
 was 0
@@ -39575,13 +41631,19 @@ man 0
 was 0
 standing 0
 in 0
-the 02300 1
+the 0
+2300 1
 block 1
 of 1
 South 1
-Kedzie 1Southwest 1
-Side 1Little 1
+Kedzie 1
+
+Southwest 1
+Side 1
+
+Little 1
 Village 1
+
 # 0
 # 0
 # 0
@@ -39722,12 +41784,14 @@ Hassan 0
 38 0
 , 0
 of 0
-the 02800 1
+the 0
+2800 1
 block 1
 of 1
 South 1
 King 1
 Drive 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -39749,7 +41813,8 @@ ilding 0
 Tuesday 0
 afternoon 0
 in 0
-the 0McKinley 1
+the 0
+McKinley 1
 Park 1
 neighborhood 1
 on 1
@@ -39757,6 +41822,7 @@ the 1
 Southwest 1
 Side 1
 . 1
+
 ** 0
 ( 0
 CBS 0
@@ -39788,9 +41854,11 @@ evening 0
 The 0
 incident 0
 occurred 0
-at 079th 1
+at 0
+79th 1
 and 1
 Lafayette 1
+
 The 0
 Chicago 0
 Plan 0
@@ -39880,11 +41948,13 @@ Sterling 0
 Bay 0
 is 0
 developing 0
-at 0110 1
+at 0
+110 1
 N. 1
 Carpenter 1
 St 1
-. 1, 0
+. 1
+, 0
 on 0
 the 0
 former 0
@@ -39923,9 +41993,11 @@ a 0
 vendor 0
 village 0
 , 0
-at 0200-210 1
+at 0
+200-210 1
 N. 1
-Carpenter 1, 0
+Carpenter 1
+, 0
 just 0
 to 0
 the 0
@@ -40063,9 +42135,13 @@ is 0
 an 0
 active 0
 developer 0
-in 0Fulton 1
-Market 1Fulton 1
+in 0
+Fulton 1
 Market 1
+
+Fulton 1
+Market 1
+
 A 0
 man 0
 was 0
@@ -40076,11 +42152,13 @@ foot 0
 early 0
 Saturday 0
 in 0
-the 0South 1
+the 0
+South 1
 Side 1
 Gresham 1
 neighborhood 1
-. 1About 0
+. 1
+About 0
 3:45 0
 a.m. 0
 , 0
@@ -40089,11 +42167,13 @@ the 0
 was 0
 outside 0
 in 0
-the 07600 1
+the 0
+7600 1
 block 1
 of 1
 South 1
 Bishop 1
+
 # 0
 # 0
 # 0
@@ -40200,7 +42280,8 @@ at 0
 a.m. 0
 Monday 0
 outside 0
-S 0pencer 1
+S 0
+pencer 1
 Elementary 1
 Technology 1
 Academy 1
@@ -40211,7 +42292,8 @@ neighborhood 1
 on 1
 the 1
 West 1
-Side 1. 0
+Side 1
+. 0
 Officers 0
 responded 0
 to 0
@@ -40231,12 +42313,14 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 05000 1
+the 0
+5000 1
 block 1
 of 1
 West 1
 Maypole 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 She 0
@@ -40280,7 +42364,8 @@ was 0
 gunned 0
 down 0
 in 0
-the 0East 1
+the 0
+East 1
 Garfield 1
 Park 1
 neighborhood 1
@@ -40288,7 +42373,8 @@ on 1
 the 1
 West 1
 Side 1
-. 1He 0
+. 1
+He 0
 was 0
 sitting 0
 in 0
@@ -40296,12 +42382,14 @@ a 0
 parked 0
 vehicle 0
 in 0
-the 0first 1
+the 0
+first 1
 block 1
 of 1
 North 1
 Sacramento 1
-w 1hen 0
+w 1
+hen 0
 someone 0
 in 0
 another 0
@@ -40350,9 +42438,11 @@ the 0
 Fernwood 0
 neighborhood 0
 on 0
-the 0Far 1
+the 0
+Far 1
 South 1
-Side 1, 0
+Side 1
+, 0
 police 0
 and 0
 the 0
@@ -40370,12 +42460,14 @@ p.m. 0
 he 0
 was 0
 in 0
-the 0first 1
+the 0
+first 1
 block 1
 of 1
 West 1
 104th 1
-Plac 1e 0
+Plac 1
+e 0
 when 0
 someone 0
 walked 0
@@ -40433,7 +42525,8 @@ in 0
 a 0
 vehicle 0
 in 0
-the 02600 1
+the 0
+2600 1
 block 1
 of 1
 West 1
@@ -40442,7 +42535,8 @@ on 1
 the 1
 West 1
 Side 1
-, 1when 0
+, 1
+when 0
 someone 0
 walked 0
 up 0
@@ -40527,24 +42621,28 @@ to 0
 the 0
 head 0
 in 0
-the 03900 1
+the 0
+3900 1
 block 1
 of 1
 West 1
 Thomas 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 Armani 0
 Pickett 0
 , 0
 of 0
-the 05700 1
+the 0
+5700 1
 block 1
 of 1
 North 1
 Talman 1
-, 1was 0
+, 1
+was 0
 pronounced 0
 dead 0
 at 0
@@ -40638,12 +42736,14 @@ a 0
 vehicle 0
 parked 0
 in 0
-the 03800 1
+the 0
+3800 1
 block 1
 of 1
 South 1
 St. 1
-Louis 1when 0
+Louis 1
+when 0
 another 0
 car 0
 pulled 0
@@ -40758,11 +42858,13 @@ at 0
 1:23 0
 a.m. 0
 in 0
-the 02000 1
+the 0
+2000 1
 block 1
 of 1
 West 1
 Diversey 1
+
 A 0
 19-year-old 0
 man 0
@@ -40774,7 +42876,9 @@ stabbing 0
 Saturday 0
 night 0
 in 0
-the 0Austin 1neighborhood 0
+the 0
+Austin 1
+neighborhood 0
 on 0
 the 0
 West 0
@@ -40795,11 +42899,13 @@ about 0
 5:55 0
 p.m. 0
 in 0
-the 0first 1
+the 0
+first 1
 block 1
 of 1
 South 1
 Leamington 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -40813,7 +42919,8 @@ shot 0
 early 0
 Monday 0
 in 0
-the 0Portage 1
+the 0
+Portage 1
 Park 1
 neighborhoo 1
 d 1
@@ -40821,7 +42928,8 @@ on 1
 the 1
 Northwest 1
 Side 1
-. 1The 0
+. 1
+The 0
 22-year-old 0
 was 0
 driving 0
@@ -40830,11 +42938,13 @@ about 0
 12:30 0
 a.m. 0
 in 0
-the 03600 1
+the 0
+3600 1
 block 1
 of 1
 North 1
 Central 1
+
 Two 0
 people 0
 opened 0
@@ -40844,12 +42954,16 @@ a 0
 24-year-old 0
 man 0
 on 0
-a 0Lawndale 1sidewalk 0
+a 0
+Lawndale 1
+sidewalk 0
 Monday 0
 night 0
 on 0
-the 0West 1
-Side 1, 0
+the 0
+West 1
+Side 1
+, 0
 hitting 0
 him 0
 in 0
@@ -40863,11 +42977,13 @@ about 0
 9:30 0
 p.m. 0
 in 0
-the 03900 1
+the 0
+3900 1
 block 1
 of 1
 West 1
 Flournoy 1
+
 A 0
 28-year-old 0
 man 0
@@ -40882,9 +42998,11 @@ him 0
 Monday 0
 night 0
 on 0
-th 0e 1
+th 0
+e 1
 West 1
-Side 1, 0
+Side 1
+, 0
 police 0
 said 0
 . 0
@@ -40904,13 +43022,15 @@ before 0
 9 0
 p.m. 0
 in 0
-the 05100 1
+the 0
+5100 1
 block 1
 of 1
 West 1
 Madison 1
 Street 1
 . 1
+
 A 0
 federal 0
 judge 0
@@ -40941,8 +43061,10 @@ lives 0
 as 0
 he 0
 handed 0
-a 0South 1
+a 0
+South 1
 Side 1
+
 A 0
 26-year-old 0
 man 0
@@ -40974,11 +43096,14 @@ at 0
 6:53 0
 p.m. 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 North 1
-Pulask 1West 1
+Pulask 1
+
+West 1
 Garfield 1
 Park 1
 neighborhood 1
@@ -40987,6 +43112,7 @@ the 1
 West 1
 Side 1
 . 1
+
 A 0
 mother 0
 has 0
@@ -41003,13 +43129,15 @@ a 0
 family 0
 gathering 0
 in 0
-the 0Lawndale 1
+the 0
+Lawndale 1
 neighborhood 1
 on 1
 the 1
 West 1
 Side 1
-. 1Angeline 0
+. 1
+Angeline 0
 Minniefield 0
 , 0
 43 0
@@ -41052,11 +43180,13 @@ in 0
 an 0
 apartment 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 South 1
 Avers 1
+
 A 0
 man 0
 was 0
@@ -41064,11 +43194,13 @@ shot 0
 early 0
 Saturday 0
 in 0
-the 0South 1
+the 0
+South 1
 Side 1
 Englewood 1
 neighborhood 1
-. 1At 0
+. 1
+At 0
 1:29 0
 a.m. 0
 , 0
@@ -41079,11 +43211,13 @@ was 0
 driving 0
 home 0
 in 0
-the 06800 1
+the 0
+6800 1
 block 1
 of 1
 South 1
 Peoria 1
+
 Three 0
 Chicago 0
 men 0
@@ -41248,12 +43382,14 @@ involved 0
 Lopez 0
 , 0
 of 0
-the 02800 1
+the 0
+2800 1
 block 1
 of 1
 West 1
 40th 1
-Street 1, 0
+Street 1
+, 0
 was 0
 charged 0
 with 0
@@ -41288,21 +43424,27 @@ said 0
 Zuniga 0
 , 0
 of 0
-the 01800 1
+the 0
+1800 1
 block 1
 of 1
 Mayfair 1
-Avenue 1; 0
+Avenue 1
+; 0
 and 0
 Montanez 0
 , 0
 of 0
-the 02700 1
+the 0
+2700 1
 block 1
 of 1
 South 1
-Spaulding 1Will 1
-County 1and 0
+Spaulding 1
+
+Will 1
+County 1
+and 0
 into 0
 the 0
 Chicago 0
@@ -41329,9 +43471,11 @@ two 0
 vehicles 0
 near 0
 I-57 0
-and 0Wilmington- 1
+and 0
+Wilmington- 1
 Peotone 1
 Road 1
+
 CHICAGO 0
 — 0
 Steve 0
@@ -41362,12 +43506,14 @@ man 0
 was 0
 walking 0
 in 0
-the 02400 1
+the 0
+2400 1
 block 1
 of 1
 East 1
 75th 1
-Street 1when 0
+Street 1
+when 0
 someone 0
 walked 0
 up 0
@@ -41402,12 +43548,14 @@ said 0
 Jackson 0
 , 0
 of 0
-the 07800 1
+the 0
+7800 1
 block 1
 of 1
 South 1
 Muskegon 1
 Avenue 1
+
 [ 0
 ! 0
 [ 0
@@ -41517,12 +43665,14 @@ outside 0
 with 0
 friends 0
 in 0
-the 01900 1
+the 0
+1900 1
 block 1
 of 1
 West 1
 57th 1
-Stree 1t 0
+Stree 1
+t 0
 when 0
 someone 0
 fired 0
@@ -41564,15 +43714,18 @@ in 0
 a 0
 car 0
 in 0
-the 06500 1
+the 0
+6500 1
 block 1
 of 1
 South 1
 King 1
 Drive 1
+
 Dozens 1
 of 1
 girls 1
+
 A 0
 man 0
 found 0
@@ -41580,8 +43733,10 @@ shot 0
 to 0
 death 0
 in 0
-a 0Brighton 1
+a 0
+Brighton 1
 Park 1
+
 CHICAGO 0
 — 0
 A 0
@@ -41591,7 +43746,9 @@ was 0
 shot 0
 to 0
 death 0
-in 0Austin 1on 0
+in 0
+Austin 1
+on 0
 Saturday 0
 morning 0
 , 0
@@ -41610,12 +43767,14 @@ on 0
 a 0
 porch 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 North 1
 Lorel 1
 Avenue 1
+
 [ 0
 ! 0
 [ 0
@@ -41649,7 +43808,9 @@ PILSEN 0
 — 0
 Police 0
 are 0
-alerting 0Pilsen 1
+alerting 0
+Pilsen 1
+
 [ 0
 ! 0
 [ 0
@@ -41729,8 +43890,10 @@ was 0
 shot 0
 to 0
 death 0
-in 0Auburn 1
-Gresham 1. 0
+in 0
+Auburn 1
+Gresham 1
+. 0
 ] 0
 [ 0
 4 0
@@ -41747,8 +43910,10 @@ man 0
 was 0
 shot 0
 dead 0
-in 0South 1
-Shore 1. 0
+in 0
+South 1
+Shore 1
+. 0
 ] 0
 [ 0
 5 0
@@ -41778,7 +43943,13 @@ was 0
 shot 0
 and 0
 killed 0
-in 0Austin 1Austin 1Austin 1. 0
+in 0
+Austin 1
+
+Austin 1
+
+Austin 1
+. 0
 ] 0
 [ 0
 6 0
@@ -41842,8 +44013,10 @@ a 0
 man 0
 was 0
 shot 0
-in 0West 1
-Pullman 1, 0
+in 0
+West 1
+Pullman 1
+, 0
 police 0
 said 0
 . 0
@@ -41941,8 +44114,10 @@ a 0
 man 0
 was 0
 shot 0
-in 0North 1
-Lawndale 1, 0
+in 0
+North 1
+Lawndale 1
+, 0
 police 0
 said 0
 . 0
@@ -42035,9 +44210,13 @@ a 0
 man 0
 was 0
 shot 0
-in 0Garfield 1
-Park 1South 1
-Shore 1. 0
+in 0
+Garfield 1
+Park 1
+
+South 1
+Shore 1
+. 0
 ] 0
 [ 0
 5 0
@@ -42492,8 +44671,10 @@ a 0
 man 0
 was 0
 shot 0
-in 0Belmont 1
-Central 1, 0
+in 0
+Belmont 1
+Central 1
+, 0
 police 0
 said 0
 . 0
@@ -42562,10 +44743,14 @@ a 0
 man 0
 was 0
 shot 0
-in 0West 1
+in 0
+West 1
 Humboldt 1
-Park 1South 1
-Shore 1. 0
+Park 1
+
+South 1
+Shore 1
+. 0
 ] 0
 [ 0
 5 0
@@ -43212,8 +45397,12 @@ chest 0
 and 0
 taken 0
 to 0
-J 0ackson 1
-Park 1J 1ackson 0
+J 0
+ackson 1
+Park 1
+
+J 1
+ackson 0
 Park 0
 Hospital 0
 , 0
@@ -43259,7 +45448,9 @@ a 0
 man 0
 was 0
 shot 0
-in 0Chatham 1, 0
+in 0
+Chatham 1
+, 0
 police 0
 said 0
 . 0
@@ -43348,8 +45539,12 @@ wounded 0
 in 0
 a 0
 shooting 0
-in 0Old 1
-Town 1Austin 1. 0
+in 0
+Old 1
+Town 1
+
+Austin 1
+. 0
 ] 0
 [ 0
 6 0
@@ -44326,8 +46521,10 @@ head 0
 and 0
 critically 0
 wounded 0
-in 0West 1
-Englewood 1. 0
+in 0
+West 1
+Englewood 1
+. 0
 ] 0
 [ 0
 8 0
@@ -44359,9 +46556,13 @@ in 0
 the 0
 1200 0
 block 0
-of 0West 1
+of 0
+West 1
 Lawrence 1
-Avenue 1Austin 1. 0
+Avenue 1
+
+Austin 1
+. 0
 ] 0
 [ 0
 6 0
@@ -44526,9 +46727,11 @@ a 0
 man 0
 was 0
 shot 0
-in 0North 1
+in 0
+North 1
 Lawndale 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 The 0
@@ -45337,7 +47540,9 @@ and 0
 critically 0
 wounded 0
 in 0
-West 0Englewood 1. 0
+West 0
+Englewood 1
+. 0
 ] 0
 [ 0
 8 0
@@ -45640,8 +47845,12 @@ two 0
 17-year-olds 0
 were 0
 shot 0
-in 0Roseland 1North 1
-Lawndale 1, 0
+in 0
+Roseland 1
+
+North 1
+Lawndale 1
+, 0
 police 0
 said 0
 . 0
@@ -46888,7 +49097,8 @@ Hospital 0
 , 0
 police 0
 said 0
-. 0• 1
+. 0
+• 1
 At 1
 9:47 1
 a.m. 1
@@ -46898,8 +49108,11 @@ a 1
 man 1
 was 1
 shot 1
-in 1Brainerd 1
+in 1
+
+Brainerd 1
 , 1
+
 [ 0
 ! 0
 [ 0
@@ -46914,8 +49127,10 @@ burglaries 0
 were 0
 reported 0
 in 0
-the 0West 1
-Town 1area 0
+the 0
+West 1
+Town 1
+area 0
 this 0
 month.Â 0
 ] 0
@@ -47000,23 +49215,27 @@ p.m. 0
 Feb. 0
 6 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 West 1
 Superior 1
-Street 1• 0
+Street 1
+• 0
 At 0
 4:56 0
 p.m. 0
 Tuesday 0
 in 0
-the 01600 1
+the 0
+1600 1
 block 1
 of 1
 West 1
 Ohio 1
 Street 1
+
 An 0
 18-year-old 0
 Chicago 0
@@ -47033,7 +49252,9 @@ Sunday 0
 night 0
 in 0
 west 0
-suburban 0Elmhurst 1. 0
+suburban 0
+Elmhurst 1
+. 0
 Mickiel 0
 J. 0
 Smith 0
@@ -47111,14 +49332,18 @@ said 0
 Smith 0
 , 0
 of 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 North 1
 Mayfield 1
 in 1
 Chicago 1
-[ 0Elmhurst 1] 0
+
+[ 0
+Elmhurst 1
+] 0
 [ 0
 1 0
 ] 0
@@ -47144,11 +49369,13 @@ a 0
 car 0
 parked 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 Clinton 1
-Avenue 1at 0
+Avenue 1
+at 0
 10 0
 p.m. 0
 Sunday 0
@@ -47159,12 +49386,14 @@ J. 0
 Smith 0
 , 0
 of 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 North 1
 Mayfield 1
 Avenue 1
+
 [ 0
 ! 0
 [ 0
@@ -47513,8 +49742,10 @@ as 0
 an 0
 activist 0
 on 0
-the 0South 1
+the 0
+South 1
 Side 1
+
 Twice 0
 this 0
 month 0
@@ -47566,8 +49797,10 @@ the 0
 death 0
 of 0
 20-year-old 0
-[ 0Highland 1
+[ 0
+Highland 1
 Park 1
+
 A 0
 24-year-old 0
 man 0
@@ -47580,9 +49813,11 @@ a 0
 car 0
 early 0
 Monday 0
-in 0north 1
+in 0
+north 1
 suburban 1
-Evanston 1. 0
+Evanston 1
+. 0
 About 0
 1:10 0
 a.m. 0
@@ -47593,11 +49828,13 @@ to 0
 shots 0
 fired 0
 in 0
-the 02100 1
+the 0
+2100 1
 block 1
 of 1
 Darrow 1
 Avenue 1
+
 Police 0
 were 0
 reviewing 0
@@ -47624,8 +49861,10 @@ in 0
 separate 0
 attacks 0
 on 0
-the 0South 1
-Side 1over 0
+the 0
+South 1
+Side 1
+over 0
 the 0
 weekend 0
 . 0
@@ -47710,9 +49949,11 @@ and 0
 younger 0
 brother 0
 in 0
-the 0Parkway 1
+the 0
+Parkway 1
 Gardens 1
-neighborhood 1around 0
+neighborhood 1
+around 0
 8 0
 p.m. 0
 when 0
@@ -47739,9 +49980,11 @@ Up 0
 meeting 0
 was 0
 held 0
-near 0Henderson 1
+near 0
+Henderson 1
 Elementary 1
-School 1where 0
+School 1
+where 0
 12-year-old 0
 Kanari 0
 Gentry 0
@@ -47755,8 +49998,10 @@ Saturday 0
 while 0
 playing 0
 basketball 0
-in 0West 1
-Englewood 1, 0
+in 0
+West 1
+Englewood 1
+, 0
 Feb. 0
 13 0
 , 0
@@ -47866,8 +50111,10 @@ Elementary 0
 School 0
 in 0
 the 0
-West 0Englewood 1
+West 0
+Englewood 1
 neighborhood 1
+
 [ 0
 FBI 0
 ] 0
@@ -47900,7 +50147,13 @@ robberies 0
 since 0
 last 0
 summer 0
-in 0Brookfield 1, 0Darien 1and 0Lombard 1. 0
+in 0
+Brookfield 1
+, 0
+Darien 1
+and 0
+Lombard 1
+. 0
 The 0
 man 0
 wanted 0
@@ -47951,12 +50204,14 @@ of 0
 the 0
 Citibank 0
 branch 0
-at 01210 1
+at 0
+1210 1
 S. 1
 Main 1
 St. 1
 in 1
-Lombard 1; 0
+Lombard 1
+; 0
 the 0
 Jan. 0
 6 0
@@ -47966,11 +50221,13 @@ the 0
 Chase 0
 Bank 0
 branch 0
-at 07501 1
+at 0
+7501 1
 Cass 1
 Ave. 1
 in 1
-Darien 1; 0
+Darien 1
+; 0
 and 0
 the 0
 Jan. 0
@@ -47980,11 +50237,13 @@ of 0
 the 0
 Citibank 0
 branch 0
-at 09009 1
+at 0
+9009 1
 Ogden 1
 Ave. 1
 in 1
 Brookfield 1
+
 Zillow 0
 Group 0
 , 0
@@ -48046,7 +50305,9 @@ home 0
 design 0
 ideas 0
 site 0
-. 0Rosemont 1
+. 0
+Rosemont 1
+
 A 0
 37-year-old 0
 Crown 0
@@ -49137,8 +51398,10 @@ overdose 0
 deaths 0
 each 0
 and 0
-in 0East 1
+in 0
+East 1
 Chicago 1
+
 [ 0
 ] 0
 [ 0
@@ -49205,9 +51468,11 @@ Donald 0
 Merkley 0
 's 0
 home 0
-on 0Timberline 1
+on 0
+Timberline 1
 Road 1
 West 1
+
 [ 0
 ! 0
 [ 0
@@ -49217,12 +51482,14 @@ woman 0
 was 0
 shot 0
 in 0
-the 01200 1
+the 0
+1200 1
 block 1
 of 1
 West 1
 Lawrence 1
-Avenue 1Saturday 0
+Avenue 1
+Saturday 0
 morning 0
 . 0
 ] 0
@@ -49265,7 +51532,9 @@ A 0
 woman 0
 was 0
 shot 0
-in 0Uptown 1Saturday 0
+in 0
+Uptown 1
+Saturday 0
 morning 0
 . 0
 Around 0
@@ -49302,10 +51571,12 @@ said 0
 The 0
 block 0
 is 0
-just 0west 1
+just 0
+west 1
 of 1
 Broadway 1
 Street 1
+
 A 0
 woman 0
 and 0
@@ -49348,11 +51619,13 @@ p.m. 0
 Feb. 0
 3 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 Akenside 1
 Road 1
+
 [ 0
 ! 0
 [ 0
@@ -49363,12 +51636,14 @@ woman 0
 outside 0
 a 0
 CVS 0
-near 0Irving 1
+near 0
+Irving 1
 Park 1
 Road 1
 and 1
 Western 1
 Avenue 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -49453,14 +51728,18 @@ about 0
 7:40 0
 p.m. 0
 in 0
-the 06500 1
+the 0
+6500 1
 block 1
 of 1
 South 1
 King 1
-Drive 1in 0
-the 0Parkway 1
-Gardens 1neighborhood 0
+Drive 1
+in 0
+the 0
+Parkway 1
+Gardens 1
+neighborhood 0
 when 0
 gunfire 0
 was 0
@@ -49501,13 +51780,17 @@ about 0
 7:15 0
 p.m. 0
 in 0
-the 01900 1
+the 0
+1900 1
 block 1
 of 1
 West 1
 57th 1
-Street 1in 0West 1
-Englewood 1when 0
+Street 1
+in 0
+West 1
+Englewood 1
+when 0
 shots 0
 rang 0
 out 0
@@ -49588,13 +51871,17 @@ to 0
 the 0
 body 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 West 1
 84th 1
-Street 1Auburn 1
-Gresham 1neighborhood 0
+Street 1
+
+Auburn 1
+Gresham 1
+neighborhood 0
 . 0
 A 0
 man 0
@@ -49651,8 +51938,10 @@ and 0
 another 0
 wounded 0
 in 0
-a 0South 1
-Shore 1neighborhood 0
+a 0
+South 1
+Shore 1
+neighborhood 0
 shooting 0
 . 0
 The 0
@@ -49665,12 +51954,14 @@ at 0
 1:44 0
 p.m. 0
 in 0
-the 02400 1
+the 0
+2400 1
 block 1
 of 1
 East 1
 75th 1
-Street 1when 0
+Street 1
+when 0
 someone 0
 walked 0
 up 0
@@ -49757,7 +52048,9 @@ night 0
 in 0
 the 0
 West 0
-Side 0Austin 1neighborhood 0
+Side 0
+Austin 1
+neighborhood 0
 . 0
 The 0
 group 0
@@ -49767,11 +52060,13 @@ about 0
 8:30 0
 p.m. 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 North 1
-Mayfield 1when 0
+Mayfield 1
+when 0
 two 0
 people 0
 got 0
@@ -49910,11 +52205,13 @@ a 0
 person 0
 shot 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 North 1
-Menard 1found 0
+Menard 1
+found 0
 the 0
 23-year-old 0
 man 0
@@ -49981,11 +52278,13 @@ about 0
 a.m. 0
 Saturday 0
 in 0
-the 0300 1
+the 0
+300 1
 block 1
 of 1
 North 1
-Lorel 1when 0
+Lorel 1
+when 0
 someone 0
 walked 0
 up 0
@@ -50065,8 +52364,10 @@ knife 0
 Friday 0
 evening 0
 in 0
-the 0North 1
+the 0
+North 1
 Center 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -50109,12 +52410,14 @@ home 0
 s 0
 door 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 South 1
 Central 1
 Park 1
+
 # 0
 # 0
 # 0
@@ -50224,10 +52527,12 @@ Fifth 0
 Third 0
 Bank 0
 branch 0
-at 01311 1
+at 0
+1311 1
 Ridgeland 1
 Ave 1
-. 1in 0
+. 1
+in 0
 Naperville 0
 and 0
 handed 0
@@ -50327,10 +52632,14 @@ after 0
 noon 0
 Jan. 0
 20 0
-at 09009 1
+at 0
+9009 1
 Ogden 1
-Ave 1. 0
-in 0Brookfield 1, 0
+Ave 1
+. 0
+in 0
+Brookfield 1
+, 0
 the 0
 FBI 0
 said 0
@@ -50347,10 +52656,12 @@ branch 0
 on 0
 Jan. 0
 6 0
-at 07501 1
+at 0
+7501 1
 Cass 1
 Ave 1
-. 1in 0
+. 1
+in 0
 Darien 0
 and 0
 a 0
@@ -50361,11 +52672,17 @@ at 0
 a.m. 0
 Aug. 0
 19 0
-at 01210 1
+at 0
+1210 1
 S. 1
 Main 1
 St 1
-. 1in 0Lombard 1Darien 1
+. 1
+in 0
+Lombard 1
+
+Darien 1
+
 # 0
 # 0
 # 0
@@ -50464,7 +52781,9 @@ this 0
 month 0
 in 0
 west 0
-suburban 0Riverside 1. 0
+suburban 0
+Riverside 1
+. 0
 The 0
 37-year-old 0
 woman 0
@@ -50481,11 +52800,13 @@ p.m. 0
 Feb. 0
 3 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 Akenside 1
 Road 1
+
 ! 0
 [ 0
 maywoodcrashvictims 0
@@ -50514,7 +52835,9 @@ were 0
 killed 0
 Tuesday 0
 morning 0
-in 0Maywood 1when 0
+in 0
+Maywood 1
+when 0
 a 0
 mini-van 0
 crashed 0
@@ -50529,10 +52852,12 @@ happened 0
 around 0
 3:40 0
 a.m. 0
-near 09th 1
+near 0
+9th 1
 Avenue 1
 and 1
 Madison 1
+
 [ 0
 ] 0
 [ 0
@@ -50892,11 +53217,13 @@ stolen 0
 from 0
 Lucky 0
 Motors 0
-at 0225 1
+at 0
+225 1
 W. 1
 Roosevelt 1
 Rd 1
 . 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -50915,8 +53242,10 @@ dealership 0
 in 0
 wes 0
 t 0
-suburban 0Villa 1
-Park 1. 0
+suburban 0
+Villa 1
+Park 1
+. 0
 It 0
 was 0
 discovered 0
@@ -50931,11 +53260,13 @@ stolen 0
 from 0
 Lucky 0
 Motors 0
-at 0225 1
+at 0
+225 1
 W. 1
 Roosevelt 1
 Rd 1
 . 1
+
 # 0
 # 0
 # 0
@@ -51032,12 +53363,14 @@ about 0
 3:40 0
 a.m. 0
 in 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 South 1
 9th 1
 Avenue 1
+
 An 0
 11-year-old 0
 girl 0
@@ -51165,8 +53498,10 @@ shot 0
 in 0
 the 0
 city 0
-'s 0Parkway 1
+'s 0
+Parkway 1
 Gardens 1
+
 [ 0
 ! 0
 [ 0
@@ -51210,8 +53545,10 @@ Sigma 0
 Alpha 0
 Epsilon 0
 chapter 0
-at 0Northwestern 1
+at 0
+Northwestern 1
 University 1
+
 An 0
 armed 0
 teenager 0
@@ -51253,11 +53590,13 @@ center 0
 's 0
 parking 0
 lot 0
-, 01011 1
+, 0
+1011 1
 S. 1
 Naper 1
 Blvd 1
 . 1
+
 A 0
 Chicago 0
 man 0
@@ -51278,7 +53617,9 @@ early 0
 Saturday 0
 in 0
 northwest 0
-suburban 0Barrington 1
+suburban 0
+Barrington 1
+
 ** 0
 ( 0
 BARRINGTON 0
@@ -51306,7 +53647,9 @@ early 0
 Saturday 0
 in 0
 northwest 0
-suburban 0Barrington 1
+suburban 0
+Barrington 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -51348,13 +53691,17 @@ in 0
 a 0
 car 0
 in 0
-the 02300-block 1
+the 0
+2300-block 1
 of 1
 S. 1
 Kenneth 1
-Avenue 1in 0
-the 0North 1
+Avenue 1
+in 0
+the 0
+North 1
 Lawndale 1
+
 [ 0
 ! 0
 [ 0
@@ -51374,8 +53721,10 @@ capture 0
 # 0
 Driver 0
 in 0
-fatal 0Des 1
-Plaines 1hit-and-run 0
+fatal 0
+Des 1
+Plaines 1
+hit-and-run 0
 on 0
 the 0
 loose 0
@@ -51423,12 +53772,14 @@ the 0
 street 0
 Tuesday 0
 morning 0
-around 0South 1
+around 0
+South 1
 Wolf 1
 Road 1
 and 1
 Jarvis 1
 Avenue 1
+
 [ 0
 Follow 0
 @ 0
@@ -51436,21 +53787,25 @@ MaryMitchellCST 0
 ] 0
 [ 0
 1 0
-] 0Parkway 1
-Gardens 1, 0
+] 0
+Parkway 1
+Gardens 1
+, 0
 a 0
 historic 0
 housing 0
 complex 0
 that 0
 stretches 0
-between 063rd 1
+between 0
+63rd 1
 and 1
 65th 1
 streets 1
 on 1
 King 1
-Drive 1, 0
+Drive 1
+, 0
 is 0
 ground 0
 zero 0
@@ -51864,12 +54219,14 @@ about 0
 7:40 0
 p.m. 0
 in 0
-the 06500 1
+the 0
+6500 1
 block 1
 of 1
 South 1
 King 1
-Drive 1. 0
+Drive 1
+. 0
 As 0
 of 0
 early 0
@@ -51910,14 +54267,18 @@ head 0
 while 0
 playing 0
 in 0
-the 01900 1
+the 0
+1900 1
 block 1
 of 1
 West 1
 57th 1
-Street 1in 0
-the 0West 1
+Street 1
+in 0
+the 0
+West 1
 Englewood 1
+
 # 0
 # 0
 # 0
@@ -52027,12 +54388,14 @@ s 0
 parking 0
 lot 0
 in 0
-the 01000 1
+the 0
+1000 1
 block 1
 of 1
 South 1
 Naper 1
 Boulevard 1
+
 NAPERVILLE 0
 , 0
 Ill. 0
@@ -52071,11 +54434,13 @@ Early 0
 Childhood 0
 Center 0
 in 0
-the 01000-block 1
+the 0
+1000-block 1
 of 1
 South 1
 Naper 1
 Boulevard 1
+
 NAPERVILLE 0
 , 0
 Ill. 0
@@ -52114,11 +54479,13 @@ Early 0
 Childhood 0
 Center 0
 in 0
-the 01000-block 1
+the 0
+1000-block 1
 of 1
 South 1
 Naper 1
 Boulevard 1
+
 Three 0
 people 0
 shot 0
@@ -52153,12 +54520,14 @@ at 0
 p.m. 0
 Sunday 0
 in 0
-the 08300 1
+the 0
+8300 1
 block 1
 of 1
 South 1
 Justine 1
-Avenue 1, 0
+Avenue 1
+, 0
 after 0
 suffering 0
 multiple 0
@@ -52199,11 +54568,15 @@ scene 0
 in 0
 the 0
 area 0
-of 0Foster 1
-Park 1, 01440 1
+of 0
+Foster 1
+Park 1
+, 0
+1440 1
 W. 1
 84th 1
-Street 1, 0
+Street 1
+, 0
 according 0
 to 0
 police 0
@@ -52236,12 +54609,14 @@ following 0
 an 0
 attack 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 North 1
 Mayfield 1
-Avenue 1, 0
+Avenue 1
+, 0
 according 0
 to 0
 the 0
@@ -52391,12 +54766,14 @@ man 0
 was 0
 killed 0
 in 0
-the 0100 1
+the 0
+100 1
 block 1
 of 1
 North 1
 Menard 1
 Avenue 1
+
 A 0
 shooter 0
 was 0
@@ -52418,7 +54795,9 @@ gunfire 0
 Tuesday 0
 afternoon 0
 in 0
-the 0Austin 1neighborhood 0
+the 0
+Austin 1
+neighborhood 0
 on 0
 the 0
 West 0
@@ -52436,11 +54815,13 @@ exiting 0
 a 0
 business 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 South 1
 Laramie 1
+
 CHICAGO 0
 — 0
 Eddie 0
@@ -52454,9 +54835,11 @@ being 0
 shot 0
 multiple 0
 times 0
-in 0East 1
+in 0
+East 1
 Garfield 1
-Park 1on 0
+Park 1
+on 0
 Tuesday 0
 afternoon 0
 , 0
@@ -52470,12 +54853,14 @@ about 0
 2:40 0
 p.m. 0
 in 0
-the 03400 1
+the 0
+3400 1
 block 1
 of 1
 West 1
 Walnut 1
 Street 1
+
 EVANSTON 0
 , 0
 Ill. 0
@@ -52485,12 +54870,15 @@ Sigma 0
 Alpha 0
 Epsilon 0
 chapter 0
-at 0Northwestern 1
+at 0
+Northwestern 1
 University 1
+
 Glenbrook 1
 North 1
 High 1
 School 1
+
 A 0
 22-year-old 0
 man 0
@@ -52509,19 +54897,23 @@ the 0
 West 0
 Side 0
 in 0
-the 0Humboldt 1
-Park 1neighborhood 0
+the 0
+Humboldt 1
+Park 1
+neighborhood 0
 . 0
 The 0
 man 0
 was 0
 walking 0
 in 0
-the 01600 1
+the 0
+1600 1
 block 1
 of 1
 North 1
 Keeler 1
+
 CHICAGO 0
 -- 0
 A 0
@@ -52633,10 +55025,12 @@ Tamiya 0
 was 0
 shot 0
 , 0
-at 065th 1
+at 0
+65th 1
 and 1
 King 1
 Drive 1
+
 Two 0
 children 0
 , 0
@@ -52677,12 +55071,18 @@ The 0
 devastation 0
 stretched 0
 from 0
-a 0Lawndale 1alley 0
+a 0
+Lawndale 1
+alley 0
 to 0
-a 0Woodlawn 1parking 0
+a 0
+Woodlawn 1
+parking 0
 lot 0
-and 0West 1
-Englewood 1street 0
+and 0
+West 1
+Englewood 1
+street 0
 and 0
 left 0
 dozens 0
@@ -52801,8 +55201,10 @@ car 0
 on 0
 the 0
 city 0
-'s 0West 1
+'s 0
+West 1
 Side 1
+
 At 0
 least 0
 12 0
@@ -52854,8 +55256,10 @@ about 0
 p.m. 0
 Tuesday 0
 in 0
-a 0North 1
-Lawndale 1neighborhood 0
+a 0
+North 1
+Lawndale 1
+neighborhood 0
 alley 0
 when 0
 another 0
@@ -52863,11 +55267,13 @@ vehicle 0
 pulled 0
 up 0
 in 0
-the 02300 1
+the 0
+2300 1
 block 1
 of 1
 South 1
-Kenneth 1, 0
+Kenneth 1
+, 0
 and 0
 someone 0
 got 0
@@ -52934,8 +55340,10 @@ said 0
 Collins 0
 lived 0
 in 0
-the 0Little 1
-Village 1neighborhood 0
+the 0
+Little 1
+Village 1
+neighborhood 0
 . 0
 The 0
 woman 0
@@ -53009,8 +55417,10 @@ about 0
 2:40 0
 p.m. 0
 in 0
-the 0Humboldt 1
-Park 1neighborhood 0
+the 0
+Humboldt 1
+Park 1
+neighborhood 0
 . 0
 A 0
 62-year-old 0
@@ -53022,11 +55432,13 @@ a 0
 vehicle 0
 parked 0
 in 0
-the 03400 1
+the 0
+3400 1
 block 1
 of 1
 West 1
-Walnut 1when 0
+Walnut 1
+when 0
 a 0
 dark-colored 0
 Jeep 0
@@ -53091,14 +55503,20 @@ Shore 0
 neighborhood 0
 store 0
 in 0
-the 02000 1
+the 0
+2000 1
 block 1
 of 1
 East 1
 71st 1
-Street 1South 1
-Shore 1North 1
-Lawndale 1neighborhood 0
+Street 1
+
+South 1
+Shore 1
+
+North 1
+Lawndale 1
+neighborhood 0
 alley 0
 when 0
 another 0
@@ -53394,12 +55812,14 @@ Lawndale 0
 neighborhood 0
 attack 0
 in 0
-the 04100 1
+the 0
+4100 1
 block 1
 of 1
 West 1
 18th 1
-Street 1. 0
+Street 1
+. 0
 Malike 0
 Ellis 0
 was 0
@@ -53464,7 +55884,9 @@ about 0
 10 0
 p.m. 0
 in 0
-the 0Austin 1neighborhood 0
+the 0
+Austin 1
+neighborhood 0
 , 0
 where 0
 an 0
@@ -53476,11 +55898,13 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 04900 1
+the 0
+4900 1
 block 1
 of 1
 West 1
-Hubbard 1when 0
+Hubbard 1
+when 0
 he 0
 heard 0
 gunfire 0
@@ -53543,12 +55967,16 @@ He 0
 was 0
 walking 0
 in 0
-the 01600 1
+the 0
+1600 1
 block 1
 of 1
 North 1
-Keeler 1Humboldt 1
-Park 1neighborhood 0
+Keeler 1
+
+Humboldt 1
+Park 1
+neighborhood 0
 . 0
 A 0
 62-year-old 0
@@ -53895,11 +56323,13 @@ leaving 0
 a 0
 business 0
 in 0
-the 0200 1
+the 0
+200 1
 block 1
 of 1
 South 1
-Laramie 1in 0
+Laramie 1
+in 0
 Austin 0
 when 0
 another 0
@@ -54029,11 +56459,15 @@ about 0
 11:15 0
 a.m. 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 North 1
-Mayfield 1Lawndale 1neighborhood 0
+Mayfield 1
+
+Lawndale 1
+neighborhood 0
 alley 0
 when 0
 another 0
@@ -54717,12 +57151,14 @@ Lawndale 0
 home 0
 invasion 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 South 1
 Central 1
 Park 1
+
 Antwan 0
 C. 0
 Jones 0
@@ -54798,9 +57234,11 @@ and 0
 her 0
 aunt 0
 in 0
-the 0Parkway 1
+the 0
+Parkway 1
 Gardens 1
 comple 1
+
 A 0
 northwest 0
 suburban 0
@@ -54864,12 +57302,14 @@ her 0
 apartment 0
 building 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 South 1
 Busse 1
 Road 1
+
 [ 0
 ! 0
 [ 0
@@ -54949,7 +57389,9 @@ found 0
 shot 0
 to 0
 death 0
-in 0Avondale 1. 0
+in 0
+Avondale 1
+. 0
 ] 0
 [ 0
 4 0
@@ -54970,8 +57412,10 @@ was 0
 shot 0
 and 0
 killed 0
-in 0Marquette 1
-Park 1. 0
+in 0
+Marquette 1
+Park 1
+. 0
 ] 0
 [ 0
 5 0
@@ -54988,8 +57432,10 @@ were 0
 shot 0
 to 0
 death 0
-in 0Brighton 1
-Park 1. 0
+in 0
+Brighton 1
+Park 1
+. 0
 ] 0
 [ 0
 6 0
@@ -55014,7 +57460,9 @@ a 0
 man 0
 was 0
 shot 0
-in 0Englewood 1, 0
+in 0
+Englewood 1
+, 0
 police 0
 said 0
 . 0
@@ -55026,12 +57474,14 @@ on 0
 the 0
 sidewalk 0
 in 0
-the 07100 1
+the 0
+7100 1
 block 1
 of 1
 South 1
 State 1
-Street 1when 0
+Street 1
+when 0
 he 0
 heard 0
 shots 0
@@ -55089,8 +57539,10 @@ a 0
 man 0
 was 0
 shot 0
-in 0South 1
-Shore 1, 0
+in 0
+South 1
+Shore 1
+, 0
 police 0
 said 0
 . 0
@@ -55099,12 +57551,14 @@ man 0
 was 0
 walking 0
 in 0
-the 07000 1
+the 0
+7000 1
 block 1
 of 1
 South 1
 Jeffery 1
 Boulevard 1
+
 The 0
 northwest 0
 Indiana 0
@@ -55149,13 +57603,19 @@ a 0
 parking 0
 lot 0
 in 0
-the 04700 1
+the 0
+4700 1
 block 1
 of 1
 Indianapolis 1
-Boulevard 1East 1
-Chicago 1East 1
+Boulevard 1
+
+East 1
 Chicago 1
+
+East 1
+Chicago 1
+
 [ 0
 ! 0
 [ 0
@@ -55235,8 +57695,10 @@ was 0
 shot 0
 to 0
 death 0
-in 0Austin 1
-. 1] 0
+in 0
+Austin 1
+. 1
+] 0
 [ 0
 4 0
 ] 0
@@ -55279,11 +57741,13 @@ car 0
 and 0
 stopped 0
 in 0
-the 01100 1
+the 0
+1100 1
 block 1
 of 1
 North 1
-Leamington 1Avenue 0
+Leamington 1
+Avenue 0
 when 0
 someone 0
 in 0
@@ -55339,8 +57803,10 @@ a 0
 man 0
 was 0
 shot 0
-in 0North 1
-Lawndale 1, 0
+in 0
+North 1
+Lawndale 1
+, 0
 police 0
 said 0
 . 0
@@ -55352,12 +57818,14 @@ in 0
 the 0
 street 0
 in 0
-the 02200 1
+the 0
+2200 1
 block 1
 of 1
 South 1
 Kolin 1
 Avenu 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -55384,13 +57852,19 @@ man 0
 earlier 0
 this 0
 month 0
-near 0Union 1
+near 0
+Union 1
 Station 1
-. 1CHICAGO 1
+. 1
+
+CHICAGO 1
+
 A 0
 man 0
 shot 0
-in 0Englewood 1on 0
+in 0
+Englewood 1
+on 0
 Friday 0
 evening 0
 was 0
@@ -55415,12 +57889,14 @@ at 0
 6 0
 p.m. 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 West 1
 71st 1
 Place 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -55441,8 +57917,10 @@ de 0
 adly 0
 shooting 0
 at 0
-a 0South 1
-Side 1nightclub 0
+a 0
+South 1
+Side 1
+nightclub 0
 . 0
 Police 0
 responded 0
@@ -55451,13 +57929,17 @@ Saturday 0
 to 0
 a 0
 shooting 0
-at 050th 1
+at 0
+50th 1
 and 1
-Ashland 1in 0
-the 0Back 1
+Ashland 1
+in 0
+the 0
+Back 1
 of 1
 the 1
 Yards 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -55478,9 +57960,11 @@ Saturday 0
 evening 0
 on 0
 Chicago 0
-'s 0South 1
+'s 0
+South 1
 Side 1
-, 1police 0
+, 1
+police 0
 said 0
 . 0
 The 0
@@ -55514,11 +57998,13 @@ about 0
 8:30 0
 p.m. 0
 in 0
-the 07300-block 1
+the 0
+7300-block 1
 of 1
 South 1
 Aberdeen 1
 . 1
+
 One 0
 man 0
 is 0
@@ -55532,8 +58018,10 @@ a 0
 SWAT 0
 response 0
 to 0
-a 0Little 1
-Village 1home 0
+a 0
+Little 1
+Village 1
+home 0
 early 0
 Monday 0
 , 0
@@ -55553,12 +58041,14 @@ to 0
 the 0
 building 0
 in 0
-the 03400 1
+the 0
+3400 1
 block 1
 of 1
 West 1
 23rd 1
 Street 1
+
 Friends 0
 and 0
 relatives 0
@@ -55567,8 +58057,10 @@ the 0
 three 0
 members 0
 of 0
-an 0Arlington 1
+an 0
+Arlington 1
 Heights 1
+
 A 0
 man 0
 was 0
@@ -55585,7 +58077,8 @@ crashed 0
 early 0
 Thursday 0
 in 0
-the 0East 1
+the 0
+East 1
 Garfield 1
 Park 1
 neighborhood 1
@@ -55595,7 +58088,8 @@ Chicago 1
 s 1
 West 1
 Side 1
-. 1The 0
+. 1
+The 0
 accident 0
 occurred 0
 just 0
@@ -55611,12 +58105,14 @@ a 0
 Volkswagen 0
 collided 0
 in 0
-the 03600 1
+the 0
+3600 1
 block 1
 of 1
 West 1
 Lake 1
 , 1
+
 A 0
 Chicago 0
 alderman 0
@@ -55631,8 +58127,10 @@ gas 0
 for 0
 patrons 0
 at 0
-a 0South 1
-Side 1station 0
+a 0
+South 1
+Side 1
+station 0
 Thursday 0
 afternoon 0
 to 0
@@ -55679,11 +58177,13 @@ station 0
 Kean 0
 Gas 0
 Station 0
-, 02632 1
+, 0
+2632 1
 W. 1
 11th 1
 ST 1
-. 1, 0
+. 1
+, 0
 donated 0
 five 0
 cents 0
@@ -55720,8 +58220,10 @@ and 0
 Ortho 0
 Physical 0
 Therapy 0
-in 0Oak 1
+in 0
+Oak 1
 Lawn 1
+
 The 0
 death 0
 of 0
@@ -55739,14 +58241,16 @@ leg 0
 last 0
 month 0
 in 0
-the 0East 1
+the 0
+East 1
 Garfield 1
 Park 1
 neighborhood 1
 on 1
 the 1
 West 1
-Side 1has 0
+Side 1
+has 0
 been 0
 ruled 0
 an 0
@@ -55770,11 +58274,13 @@ p.m. 0
 Jan. 0
 21 0
 in 0
-the 0first 1
+the 0
+first 1
 block 1
 of 1
 North 1
 Sacramento 1
+
 After 0
 seven 0
 people 0
@@ -55972,10 +58478,12 @@ in 0
 several 0
 neighborhoods 0
 on 0
-the 0South 1
+the 0
+South 1
 and 1
 West 1
 sides 1
+
 Wilteeah 0
 Jones 0
 had 0
@@ -56035,7 +58543,8 @@ the 0
 family 0
 bungalow 0
 in 0
-the 0Auburn 1
+the 0
+Auburn 1
 Gresham 1
 neighborhood 1
 on 1
@@ -56043,7 +58552,8 @@ Chicago 1
 's 1
 South 1
 Side 1
-. 1It 0
+. 1
+It 0
 was 0
 n't 0
 until 0
@@ -56184,7 +58694,8 @@ in 0
 a 0
 shooting 0
 in 0
-the 07600 1
+the 0
+7600 1
 block 1
 of 1
 South 1
@@ -56193,6 +58704,7 @@ Avenue 1
 in 1
 the 1
 Chatham 1
+
 Two 0
 adults 0
 and 0
@@ -56204,8 +58716,10 @@ hospitalized 0
 after 0
 a 0
 crash 0
-in 0Marquette 1
-Park 1on 0
+in 0
+Marquette 1
+Park 1
+on 0
 Thursday 0
 evening 0
 , 0
@@ -56221,12 +58735,14 @@ a 0
 Buick 0
 east 0
 in 0
-the 02600 1
+the 0
+2600 1
 block 1
 of 1
 East 1
 66th 1
 Street 1
+
 [ 0
 ! 0
 [ 0
@@ -56299,11 +58815,14 @@ to 0
 reduce 0
 violence 0
 on 0
-the 0South 1
+the 0
+South 1
 and 1
 West 1
 Sides 1
-CHICAGO 1-- 0
+
+CHICAGO 1
+-- 0
 An 0
 outpouring 0
 of 0
@@ -56348,8 +58867,10 @@ basketball 0
 outside 0
 a 0
 school 0
-in 0West 1
-Englewood 1. 0
+in 0
+West 1
+Englewood 1
+. 0
 Holmes 0
 was 0
 shot 0
@@ -56360,10 +58881,12 @@ her 0
 mother 0
 's 0
 car 0
-near 065th 1
+near 0
+65th 1
 and 1
 King 1
 Drive 1
+
 A 0
 man 0
 is 0
@@ -56378,10 +58901,12 @@ a 0
 crash 0
 Wednesday 0
 afternoon 0
-in 0southwest 1
+in 0
+southwest 1
 suburban 1
 Plano 1
-. 1A 0
+. 1
+A 0
 vehicle 0
 crashed 0
 into 0
@@ -56391,7 +58916,8 @@ pole 0
 about 0
 4:10 0
 p.m. 0
-at 0River 1
+at 0
+River 1
 and 1
 Blackhawk 1
 roads 1
@@ -56399,6 +58925,7 @@ in 1
 unincorporated 1
 Plano 1
 , 1
+
 A 0
 contentious 0
 lawsuit 0
@@ -56772,19 +59299,29 @@ killed 0
 in 0
 Lassiter 0
 ’ 0
-s 0Uptown 1
+s 0
+Uptown 1
+
 Four 0
 people 0
 were 0
 wounded 0
 in 0
-a 0South 1
-Side 1shooting 0
+a 0
+South 1
+Side 1
+shooting 0
 on 0
 the 0
 border 0
 between 0
-the 0Gresham 1and 0Englewood 1Gresham 1and 0
+the 0
+Gresham 1
+and 0
+Englewood 1
+
+Gresham 1
+and 0
 Englewood 0
 neighborhoods 0
 , 0
@@ -56829,10 +59366,12 @@ ambulances 0
 for 0
 the 0
 shooting 0
-near 076th 1
+near 0
+76th 1
 and 1
 May 1
-streets 1, 0
+streets 1
+, 0
 according 0
 to 0
 the 0
@@ -56972,11 +59511,13 @@ was 0
 walking 0
 to 0
 Walgreens 0
-at 079th 1
+at 0
+79th 1
 Street 1
 and 1
 Racine 1
-Avenue 1to 0
+Avenue 1
+to 0
 pick 0
 up 0
 a 0
@@ -57114,11 +59655,15 @@ killing 0
 hours 0
 earlier 0
 in 0
-the 01300 1
+the 0
+1300 1
 block 1
 of 1
 West 1
-76th 1Englewood 1neighborhoods 0
+76th 1
+
+Englewood 1
+neighborhoods 0
 , 0
 a 0
 little 0
@@ -57161,10 +59706,12 @@ ambulances 0
 for 0
 the 0
 shooting 0
-near 076th 1
+near 0
+76th 1
 and 1
 May 1
-streets 1, 0
+streets 1
+, 0
 according 0
 to 0
 the 0
@@ -57562,12 +60109,14 @@ man 0
 was 0
 shot 0
 in 0
-the 07300 1
+the 0
+7300 1
 block 1
 of 1
 South 1
 Aberdeen 1
-Avenue 1, 0
+Avenue 1
+, 0
 only 0
 a 0
 few 0
@@ -57578,8 +60127,10 @@ the 0
 people 0
 were 0
 shot 0
-on 0South 1
-May 1about 0
+on 0
+South 1
+May 1
+about 0
 an 0
 hour 0
 later 0
@@ -57647,11 +60198,15 @@ fatal 0
 shooting 0
 occurred 0
 in 0
-the 05500 1
+the 0
+5500 1
 block 1
 of 1
 South 1
-Wells 1Wells 1around 0
+Wells 1
+
+Wells 1
+around 0
 12:45 0
 p.m 0
 . 0
@@ -57756,14 +60311,20 @@ during 0
 a 0
 robbery 0
 in 0
-the 07600 1
+the 0
+7600 1
 block 1
 of 1
 South 1
 State 1
-Street 1in 0
-the 0Chatham 1South 1
-Side 1shooting 0
+Street 1
+in 0
+the 0
+Chatham 1
+
+South 1
+Side 1
+shooting 0
 on 0
 the 0
 border 0
@@ -58501,22 +61062,28 @@ l 0
 eft 0
 foot 0
 in 0
-the 06600 1
+the 0
+6600 1
 block 1
 of 1
 South 1
 St. 1
 Lawrence 1
-Avenue 1in 0
-the 0West 1
-Woodlawn 1nei 0
+Avenue 1
+in 0
+the 0
+West 1
+Woodlawn 1
+nei 0
 ghborhood 0
 . 0
 He 0
 was 0
 walking 0
-near 067th 1
-Street 1when 0
+near 0
+67th 1
+Street 1
+when 0
 someone 0
 shot 0
 him 0
@@ -58538,8 +61105,10 @@ About 0
 7:55 0
 p.m. 0
 on 0
-the 0Southeast 1
-Side 1, 0
+the 0
+Southeast 1
+Side 1
+, 0
 a 0
 21-year-old 0
 man 0
@@ -58551,15 +61120,21 @@ t 0
 he 0
 leg 0
 in 0
-the 09700 1
+the 0
+9700 1
 block 1
 of 1
 South 1
-Avenue 1L 0
+Avenue 1
+L 0
 in 0
-the 0East 1
-Side 1South 1
-Side 1shooting 0
+the 0
+East 1
+Side 1
+
+South 1
+Side 1
+shooting 0
 on 0
 the 0
 border 0
@@ -59425,15 +62000,19 @@ side 0
 and 0
 buttocks 0
 in 0
-the 07300 1
+the 0
+7300 1
 block 1
 of 1
 South 1
 University 1
-Avenue 1in 0
-the 0Gr 1
+Avenue 1
+in 0
+the 0
+Gr 1
 and 1
-Crossing 1neighborhood 0
+Crossing 1
+neighborhood 0
 , 0
 according 0
 to 0
@@ -59491,8 +62070,10 @@ About 0
 5:55 0
 p.m. 0
 on 0
-the 0West 1
-Side 1, 0
+the 0
+West 1
+Side 1
+, 0
 two 0
 men 0
 were 0
@@ -59502,15 +62083,21 @@ they 0
 were 0
 walking 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 North 1
 Homan 1
-Avenue 1in 0
-the 0Humboldt 1
-Park 1South 1
-Side 1shooting 0
+Avenue 1
+in 0
+the 0
+Humboldt 1
+Park 1
+
+South 1
+Side 1
+shooting 0
 on 0
 the 0
 border 0
@@ -60538,16 +63125,20 @@ the 0
 leg 0
 in 0
 a 0
-shooting 05200 1
+shooting 0
+5200 1
 block 1
 of 1
 South 1
 Damen 1
-Avenue 1in 0
-the 0Back 1
+Avenue 1
+in 0
+the 0
+Back 1
 of 1
 the 1
 Yards 1
+
 An 0
 18-year-old 0
 man 0
@@ -60560,13 +63151,17 @@ on 0
 Wednesday 0
 evening 0
 in 0
-the 0Back 1
+the 0
+Back 1
 of 1
 the 1
 Yards 1
-neighborhood 1on 0
-the 0South 1
-Side 1. 0
+neighborhood 1
+on 0
+the 0
+South 1
+Side 1
+. 0
 He 0
 took 0
 himself 0
@@ -60582,11 +63177,13 @@ the 0
 p.m. 0
 shooting 0
 in 0
-the 04400 1
+the 0
+4400 1
 block 1
 of 1
 South 1
 Marshfield 1
+
 CHICAGO 0
 -- 0
 Gunfire 0
@@ -60599,13 +63196,15 @@ wounded 0
 others 0
 on 0
 Wednesday 0
-on 0Chicago 1
+on 0
+Chicago 1
 's 1
 West 1
 and 1
 South 1
 Sides 1
-. 1That 0
+. 1
+That 0
 made 0
 it 0
 the 0
@@ -60638,13 +63237,15 @@ were 0
 shot 0
 and 0
 killed 0
-at 076th 1
+at 0
+76th 1
 and 1
 Champlain 1
 in 1
 the 1
 Chatham 1
 neighborhood 1
+
 CHICAGO 0
 — 0
 A 0
@@ -60678,13 +63279,17 @@ was 0
 driving 0
 south 0
 in 0
-the 0700 1
+the 0
+700 1
 block 1
 of 1
 South 1
 Lake 1
 Shore 1
-Drive 1CHICAGO 1
+Drive 1
+
+CHICAGO 1
+
 One 0
 person 0
 was 0
@@ -60697,8 +63302,10 @@ to 0
 a 0
 bomb 0
 threat 0
-at 0Trump 1
-Tower 1in 0
+at 0
+Trump 1
+Tower 1
+in 0
 downtown 0
 Chicago 0
 Friday 0
@@ -60732,15 +63339,19 @@ seen 0
 in 0
 front 0
 of 0
-the 0Trump 1
+the 0
+Trump 1
 International 1
 Hotel 1
 and 1
-Tower 1, 0401 1
+Tower 1
+, 0
+401 1
 N. 1
 Wabash 1
 Ave 1
 . 1
+
 Multiple 0
 delivery 0
 drivers 0
@@ -60750,13 +63361,15 @@ robbed 0
 since 0
 January 0
 in 0
-the 0Ashburn 1
+the 0
+Ashburn 1
 neighborhood 1
 on 1
 the 1
 Southwest 1
 Side 1
-. 1In 0
+. 1
+In 0
 each 0
 incident 0
 , 0
@@ -60809,13 +63422,15 @@ on 0
 Jan. 0
 16 0
 in 0
-the 03800 1
+the 0
+3800 1
 block 1
 of 1
 West 1
 80th 1
 Street 1
 , 1
+
 # 0
 # 0
 # 0
@@ -60903,13 +63518,15 @@ incident 0
 Tuesday 0
 morning 0
 on 0
-the 0Kennedy 1
+the 0
+Kennedy 1
 Expressway 1
 on 1
 the 1
 Northwest 1
 Side 1
-. 1The 0
+. 1
+The 0
 victim 0
 ’ 0
 s 0
@@ -60917,13 +63534,15 @@ vehicle 0
 was 0
 shot 0
 at 0
-on 0the 1
+on 0
+the 1
 I-90 1
 northbound 1
 ramp 1
 to 1
 Kimball 1
 Avenue 1
+
 CHICAGO 0
 ( 0
 WLS 0
@@ -60942,8 +63561,10 @@ in 0
 an 0
 alley 0
 in 0
-the 0Auburn 1
-Gresham 1neighborhood 0
+the 0
+Auburn 1
+Gresham 1
+neighborhood 0
 have 0
 been 0
 identified 0
@@ -61006,11 +63627,13 @@ Monte 0
 Carlo 0
 parked 0
 in 0
-the 08600-block 1
+the 0
+8600-block 1
 of 1
 South 1
 Throop 1
 Street 1
+
 Employees 0
 of 0
 Razny 0
@@ -61061,11 +63684,13 @@ men 0
 fled 0
 the 0
 store 0
-, 037 1
+, 0
+37 1
 S. 1
 Washington 1
 St 1
 . 1
+
 A 0
 25-year-old 0
 man 0
@@ -61075,13 +63700,15 @@ shot 0
 last 0
 month 0
 in 0
-the 0Calumet 1
+the 0
+Calumet 1
 Heights 1
 neighborhood 1
 on 1
 the 1
 South 1
-Side 1died 0
+Side 1
+died 0
 Thursday 0
 . 0
 About 0
@@ -61101,11 +63728,13 @@ a 0
 vehicle 0
 traveling 0
 in 0
-the 09100 1
+the 0
+9100 1
 block 1
 of 1
 South 1
 Oglesby 1
+
 **CHICAGO 0
 ( 0
 CBS 0
@@ -61134,10 +63763,12 @@ afternoon 0
 in 0
 a 0
 house 0
-in 0north 1
+in 0
+north 1
 suburban 1
 Evanston 1
-. 1The 0
+. 1
+The 0
 Evanston 0
 Police 0
 Department 0
@@ -61158,11 +63789,13 @@ a 0
 home 0
 in 0
 the 0
-1 0400 1
+1 0
+400 1
 block 1
 of 1
 Pitner 1
 Avenue 1
+
 [ 0
 ! 0
 [ 0
@@ -61176,21 +63809,27 @@ wounded 0
 while 0
 walking 0
 to 0
-the 0C 1ook 0
+the 0
+C 1
+ook 0
 County 0
-C 0riminal 1
+C 0
+riminal 1
 Courthouse 1
 in 1
 Little 1
 Village 1
+
 Gunfire 0
 erupted 0
 early 0
 Sunday 0
 inside 0
 a 0
-crowded 0Cincinnati 1
-nightclub 1after 0
+crowded 0
+Cincinnati 1
+nightclub 1
+after 0
 a 0
 dispute 0
 broke 0
@@ -61318,13 +63957,16 @@ at 0
 the 0
 club 0
 near 0
-the 0Ohio 1
+the 0
+Ohio 1
 River 1
 east 1
 of 1
 downtown 1
 Cincinnati 1
+
 CINCINNATI 1
+
 This 0
 map 0
 will 0
@@ -61373,7 +64015,9 @@ Boy 0
 17 0
 , 0
 shot 0
-in 0Englewood 1] 0
+in 0
+Englewood 1
+] 0
 [ 0
 2 0
 ] 0
@@ -61384,7 +64028,9 @@ Friday 0
 [ 0
 Man 0
 wounded 0
-in 0Woodlawn 1shooting 0
+in 0
+Woodlawn 1
+shooting 0
 ] 0
 [ 0
 3 0
@@ -61397,8 +64043,10 @@ Friday 0
 16-year-old 0
 boy 0
 shot 0
-in 0Marquette 1
-Park 1] 0
+in 0
+Marquette 1
+Park 1
+] 0
 [ 0
 4 0
 ] 0
@@ -61411,8 +64059,10 @@ Friday 0
 shot 0
 in 0
 head 0
-on 0South 1
-Side 1] 0
+on 0
+South 1
+Side 1
+] 0
 [ 0
 5 0
 ] 0
@@ -61424,9 +64074,13 @@ Friday 0
 2 0
 men 0
 shot 0
-in 0West 1
-Englewood 1West 1
-Englewood 1] 0
+in 0
+West 1
+Englewood 1
+
+West 1
+Englewood 1
+] 0
 [ 0
 6 0
 ] 0
@@ -61454,8 +64108,10 @@ Man 0
 shot 0
 in 0
 face 0
-in 0Lincoln 1
-Square 1] 0
+in 0
+Lincoln 1
+Square 1
+] 0
 [ 0
 8 0
 ] 0
@@ -61466,9 +64122,11 @@ Friday 0
 [ 0
 1 0
 wounded 0
-in 0Far 1
+in 0
+Far 1
 South 1
-Side 1shooting 0
+Side 1
+shooting 0
 ] 0
 [ 0
 9 0
@@ -61481,8 +64139,10 @@ Friday 0
 Man 0
 shot 0
 Friday 0
-in 0Archer 1
-Heights 1goes 0
+in 0
+Archer 1
+Heights 1
+goes 0
 to 0
 hospital 0
 next 0
@@ -61497,7 +64157,9 @@ Friday— 0
 [ 0
 1 0
 wounded 0
-in 0Austin 1shooting 0
+in 0
+Austin 1
+shooting 0
 ] 0
 [ 0
 11 0
@@ -61511,7 +64173,9 @@ Man 0
 shot 0
 in 0
 back 0
-in 0Bronzeville 1] 0
+in 0
+Bronzeville 1
+] 0
 [ 0
 12 0
 ] 0
@@ -61522,9 +64186,11 @@ Saturday 0
 [ 0
 Man 0
 shot 0
-in 0East 1
+in 0
+East 1
 Garfield 1
-Park 1drive-by 0
+Park 1
+drive-by 0
 ] 0
 [ 0
 13 0
@@ -61537,7 +64203,9 @@ Saturday 0
 2 0
 men 0
 wounded 0
-in 0Cragin 1shooting 0
+in 0
+Cragin 1
+shooting 0
 ] 0
 [ 0
 14 0
@@ -61552,7 +64220,11 @@ Woman 0
 24 0
 , 0
 wounded 0
-in 0Burnside 1Austin 1shooting 0
+in 0
+Burnside 1
+
+Austin 1
+shooting 0
 ] 0
 [ 0
 11 0
@@ -61645,8 +64317,10 @@ Saturday 0
 16-year-old 0
 boy 0
 shot 0
-in 0University 1
-Village 1] 0
+in 0
+University 1
+Village 1
+] 0
 [ 0
 17 0
 ] 0
@@ -61657,9 +64331,15 @@ Saturday 0
 [ 0
 Man 0
 shot 0
-in 0West 1
-Pullman 1West 1
-Pullman 1Austin 1shooting 0
+in 0
+West 1
+Pullman 1
+
+West 1
+Pullman 1
+
+Austin 1
+shooting 0
 ] 0
 [ 0
 11 0
@@ -61811,7 +64491,11 @@ Sunday 0
 shot 0
 during 0
 argument 0
-in 0Gresham 1Gresham 1] 0
+in 0
+Gresham 1
+
+Gresham 1
+] 0
 [ 0
 21 0
 ] 0
@@ -61842,9 +64526,11 @@ custody 0
 after 0
 man 0
 shot 0
-in 0West 1
+in 0
+West 1
 Garfield 1
-Park 1] 0
+Park 1
+] 0
 [ 0
 23 0
 ] 0
@@ -61856,8 +64542,12 @@ Sunday 0
 17-year-old 0
 boy 0
 shot 0
-in 0Belmont 1
-Cragin 1Austin 1shooting 0
+in 0
+Belmont 1
+Cragin 1
+
+Austin 1
+shooting 0
 ] 0
 [ 0
 11 0
@@ -62089,8 +64779,12 @@ Sunday 0
 Two 0
 men 0
 shot 0
-in 0Little 1
-Village 1Chicago 1
+in 0
+Little 1
+Village 1
+
+Chicago 1
+
 CHICAGO 0
 -- 0
 Illinois 0
@@ -62111,10 +64805,14 @@ trailer 0
 fell 0
 off 0
 of 0
-the 0Kennedy 1
-Expressway 1and 0
-onto 0Kimball 1
-Avenue 1. 0
+the 0
+Kennedy 1
+Expressway 1
+and 0
+onto 0
+Kimball 1
+Avenue 1
+. 0
 The 0
 accident 0
 happened 0
@@ -62129,10 +64827,12 @@ into 0
 a 0
 wall 0
 on 0
-the 0Kennedy 1
+the 0
+Kennedy 1
 near 1
 Kimball 1
 Avenue 1
+
 ! 0
 [ 0
 ] 0
@@ -62200,7 +64900,8 @@ about 0
 3:30 0
 p.m. 0
 in 0
-the 07700 1
+the 0
+7700 1
 block 1
 of 1
 South 1
@@ -62210,6 +64911,7 @@ in 1
 Auburn 1
 Gresham 1
 . 1
+
 [ 0
 ! 0
 [ 0
@@ -62317,8 +65019,10 @@ Wednesday 0
 Alicia 0
 Tate-Nadeau 0
 , 0
-a 0South 1
+a 0
+South 1
 Loop 1
+
 An 0
 18-year-old 0
 man 0
@@ -62385,13 +65089,15 @@ during 0
 the 0
 attempted 0
 robbery 0
-on 0Lake 1
+on 0
+Lake 1
 Shore 1
 Drive 1
 over 1
 the 1
 weekend 1
-. 1* 0
+. 1
+* 0
 # 0
 # 0
 # 0
@@ -62473,7 +65179,8 @@ a 0
 man 0
 were 0
 walking 0
-near 0600 1
+near 0
+600 1
 Lake 1
 Shore 1
 Drive 1
@@ -62484,6 +65191,7 @@ city 1
 s 1
 Gold 1
 Coast 1
+
 Two 0
 men 0
 who 0
@@ -62639,16 +65347,20 @@ gas 0
 station 0
 on 0
 Chicago 0
-'s 0West 1
+'s 0
+West 1
 Side 1
+
 # 0
 Six 0
 shot 0
 , 0
 1 0
 dead 0
-inside 0South 1
-Side 1convenience 0
+inside 0
+South 1
+Side 1
+convenience 0
 store 0
 By 0
 MICHAEL 0
@@ -62699,10 +65411,12 @@ Police 0
 on 0
 the 0
 scene 0
-at 01443 1
+at 0
+1443 1
 W. 1
 79th 1
-Street 1, 0
+Street 1
+, 0
 where 0
 6 0
 people 0
@@ -62791,11 +65505,13 @@ Bishop 0
 Golden 0
 Store 0
 in 0
-the 01400 1
+the 0
+1400 1
 block 1
 of 1
 West 1
-79th 1around 0
+79th 1
+around 0
 6 0
 p.m. 0
 and 0
@@ -62821,8 +65537,10 @@ Shondell 0
 Harris 0
 , 0
 of 0
-the 09100 1
+the 0
+9100 1
 block 1
 of 1
 S. 1
 Perry 1
+
