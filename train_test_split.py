@@ -1,7 +1,7 @@
 """
 Typically run as
 
-python create_training_data.py > data/validation.txt
+python train_test_split.py validation.txt training.txt ../cjp-article-tagging/lib
 """
 
 import sys
@@ -34,8 +34,12 @@ def main(validation_out_file, training_out_file):
                     start, stop = span
                     s += '\n'.join([('{} {}'.format(word, '0'))
                                     for word in nltk.word_tokenize(txt[prev_stop:start])])
+                    if prev_stop != start:
+                        s += '\n'
                     s += '\n'.join([('{} {}'.format(word, '1'))
                                     for word in nltk.word_tokenize(txt[start:stop])])
+                    if start != stop:
+                        s += '\n'
                     prev_stop = stop
                 s += '\n'
                 if idx % 2: # split half and half
