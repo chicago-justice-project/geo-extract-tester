@@ -28,10 +28,19 @@ def main(validation_out_file, training_out_file):
             for idx, row in df.iterrows():
                 txt = tagnews.utils.load_data.clean_string(row['bodytext'])
                 spans = [loc['cleaned span'] for loc in row['locations'] if 'cleaned span' in loc]
+                spans = sorted(spans, key=lambda span: span[0])
+                to_delete = []
+                for i, (span1, span2) in enumerate(zip(spans[:-1], spans[1:])):
+                    if span1[1] > span2[0]:
+                        to_delete.append(i)
+                for i in to_delete[::-1]:
+                    del spans[i]
+                    print('Deleting overlapping spans.')
                 prev_stop = 0
                 s = ''
-                for span in spans:
+                for i, span in enumerate(spans):
                     start, stop = span
+                    assert all([stop <= future_span[0] for future_span in spans[i+1:]])
                     s += '\n'.join([('{} {}'.format(word, '0'))
                                     for word in nltk.word_tokenize(txt[prev_stop:start])])
                     if prev_stop != start:
@@ -41,6 +50,10 @@ def main(validation_out_file, training_out_file):
                     if start != stop:
                         s += '\n'
                     prev_stop = stop
+                s += '\n'.join([('{} {}'.format(word, '0'))
+                                for word in nltk.word_tokenize(txt[prev_stop:])])
+                if prev_stop != len(txt):
+                    s += '\n'
                 s += '\n'
                 if idx % 2: # split half and half
                     training_f.write(s)
