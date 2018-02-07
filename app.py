@@ -99,8 +99,11 @@ def api_score():
         _, auc = score_from_upload(f.read().decode('utf-8'))
     except Exception as e:
         return flask.jsonify({'error': repr(e)})
-    _, leader_auc, _ = get_leader()
-    return flask.jsonify({'auc': auc, 'high_score': auc > leader_auc})
+    try:
+        _, leader_auc, _ = get_leader()
+        return flask.jsonify({'auc': auc, 'high_score': auc > leader_auc})
+    except Exception as e:
+        return flask.jsonify({'error': repr(e)})
 
 
 @app.route('/score', methods=['POST'])
