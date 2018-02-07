@@ -88,7 +88,8 @@ def download_leader():
     return flask.send_from_directory('data/',
                                      'leader.lcsv',
                                      as_attachment=True,
-                                     attachment_filename='leader.lcsv')
+                                     attachment_filename='leader.lcsv',
+                                     cache_timeout=60)
 
 
 @app.route('/api/score', methods=['POST'])
