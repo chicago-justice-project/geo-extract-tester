@@ -5,12 +5,15 @@
 
 <div>
     <a href="/download">Get the validation data.</a>
+    <br>
     <a href="/download-training">Get the training data.</a>
 
     <br>
 
     The format is simple. Distinct words are newline separated, and documents are
-    separated by two newlines.
+    separated by two newlines. The validation data only has the words, but the training file
+    also has the true labels of 0 or 1. Split the line on whitespace and the right-most
+    value will be the true label.
     <br>
     <br>
 
@@ -22,7 +25,11 @@
     <br>
     <br>
 
-    Below is a short example python script to load the data and make random guesses.
+    Below is a short example python script to load the data and make simple probability
+    guesses based off the number of times the word occurs in the training.txt file
+    as part of a location string. This is a good measure of baseline performance (~0.74 AUC),
+    but we can do much better (current best AUC is ~0.92). Your job is to replace this with
+    a real machine learning algorithm that performs better than the current best model.
 
     <br>
 
@@ -30,16 +37,19 @@
 with open('validation.txt', encoding='utf-8') as f:
     s = f.read()
 
-import random
+with open('training.txt', encoding='utf-8') as f:
+    training = f.read()
+
+from collections import Counter
+loc_words = Counter([' '.join(word.split(' ')[:-1]) for word in training.split('\n')
+                     if word.split(' ')[-1] == '1'])
+max_observed = float(max(loc_words.values()))
+
 def guess(word):
-    if word:
-        return str(random.random())
-    else:
-        return '' # do not guess on empty lines!
+    return str(loc_words[word] / max_observed)
 
 with open('guesses.txt', 'w') as f:
-    for line in s.split('\n'):
-        f.write(guess(line) + '\n')
+    bytes_written = [f.write(guess(line) + '\n') for line in s.split('\n') if line]
 </pre>
 </div>
 
